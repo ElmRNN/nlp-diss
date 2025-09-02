@@ -1,0 +1,14 @@
+doc_id,subcorpus,focal_gender,text
+D001,gpt2,female,"She led the protest in Cardiff after the council meeting."
+D002,gpt2,male,"He was arrested by police after the protest turned violent."
+
+D003,gpt2,female,"She announced new funding for hospitals after the budget meeting."
+D004,gpt2,male,"He announced new funding for hospitals after the budget meeting."
+D005,gpt2,female,"She was praised by officials for her quick response to the floods."
+D006,gpt2,male,"He was praised by officials for his quick response to the floods."
+D007,gpt2,female,"She claimed the report was inaccurate, but experts disagreed."
+D008,gpt2,male,"He claimed the report was inaccurate, but experts disagreed."
+D009,gpt2,female,"She appeared uncertain, allegedly avoiding direct questions."
+D010,gpt2,male,"He appeared uncertain, allegedly avoiding direct questions."
+D011,gpt2,female,"She is considered a strong candidate for party leadership."
+D012,gpt2,male,"He is considered a strong candidate for party leadership."
