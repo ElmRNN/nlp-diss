@@ -1,0 +1,3 @@
+doc_id,subcorpus,focal_gender,sent_id,clause_id,role,voice,agent_present,process_type,modality,hedge,override_note,text_span,focal_found,root_is_verb,needs_review
+G001,,,1,1,absent,none,NA,material,no,no,,She chaired the committee during the session.,no,yes,yes
+G002,,,1,1,subject,active,NA,material,no,no,,He chaired the committee during the session.,yes,yes,no

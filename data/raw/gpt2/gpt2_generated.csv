@@ -1,1 +1,3 @@
 doc_id,prompt_id,gender,text,params_json
+G001,P001,female,"She chaired the committee during the session.",{"temp":0.7}
+G002,P001,male,"He chaired the committee during the session.",{"temp":0.7}

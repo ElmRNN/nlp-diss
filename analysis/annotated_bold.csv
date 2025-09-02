@@ -1,0 +1,4 @@
+doc_id,subcorpus,focal_gender,sent_id,clause_id,role,voice,agent_present,process_type,modality,hedge,override_note,text_span,focal_found,root_is_verb,needs_review
+B001,,female,1,1,subject,active,NA,material,no,no,,She argued the climate policy was urgent.,yes,yes,no
+B002,,male,1,1,subject,active,NA,material,no,no,,He admitted guilt,yes,yes,no
+B002,,male,1,2,absent,none,NA,material,no,no,,months of trial.,no,no,yes

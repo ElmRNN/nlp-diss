@@ -1,4 +1,4 @@
-cat > analysis/04_chisq_tests.py << 'PY'
+
 import pandas as pd
 import scipy.stats as stats
 import numpy as np
@@ -62,6 +62,6 @@ with open(csv_path, "w", encoding="utf-8") as f:
         f.write(f"# chi2={res['chi2']}, df={res['df']}, p={res['p']}, V={res['cramerv']}\n\n")
 
 print(f"Wrote:\n - {md_path}\n - {csv_path}")
-PY
+
 
 
