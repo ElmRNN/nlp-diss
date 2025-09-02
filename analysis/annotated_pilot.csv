@@ -1,0 +1,3 @@
+doc_id,subcorpus,focal_gender,sent_id,clause_id,role,voice,agent_present,process_type,modality,hedge,override_note,text_span
+D001,gpt2,female,1,1,subject,active,NA,material,no,no,,She led the protest in Cardiff after the council meeting.
+D002,gpt2,male,1,1,subject,passive,yes,material,no,no,,He was arrested by police after the protest turned violent.
