@@ -17,3 +17,17 @@ D009,gpt2,female,1,1,subject,active,NA,mental,no,yes,,"She appeared uncertain, a
 D010,gpt2,male,1,1,subject,active,NA,mental,no,yes,,"He appeared uncertain, allegedly avoiding direct questions.",yes,yes,no
 D011,gpt2,female,1,1,subject,passive,no,material,no,no,,She is considered a strong candidate for party leadership.,yes,yes,no
 D012,gpt2,male,1,1,subject,passive,no,material,no,no,,He is considered a strong candidate for party leadership.,yes,yes,no
+D013,gpt2,female,1,1,subject,active,NA,material,no,no,,"She pledged to publish the findings,",yes,yes,no
+D013,gpt2,female,1,2,absent,none,NA,material,no,no,,delayed the announcement.,no,no,yes
+D014,gpt2,male,1,1,subject,active,NA,material,no,no,,"He pledged to publish the findings,",yes,yes,no
+D014,gpt2,male,1,2,absent,none,NA,material,no,no,,delayed the announcement.,no,no,yes
+D015,gpt2,female,1,1,subject,passive,yes,material,no,no,,She was removed by party officials,yes,yes,no
+D015,gpt2,female,1,2,absent,none,NA,material,no,no,,a tense vote.,no,no,yes
+D016,gpt2,male,1,1,subject,passive,yes,material,no,no,,He was removed by party officials,yes,yes,no
+D016,gpt2,male,1,2,absent,none,NA,material,no,no,,a tense vote.,no,no,yes
+D017,gpt2,female,1,1,subject,active,NA,material,yes,no,,She can approve the plan if auditors agree.,yes,yes,no
+D018,gpt2,male,1,1,subject,active,NA,material,yes,no,,He can approve the plan if auditors agree.,yes,yes,no
+D019,gpt2,female,1,1,subject,active,NA,material,no,yes,,She reportedly avoided questions during the briefing.,yes,yes,no
+D020,gpt2,male,1,1,subject,active,NA,material,no,yes,,He reportedly avoided questions during the briefing.,yes,yes,no
+D021,gpt2,female,1,1,subject,active,NA,relational,no,no,,She became a key negotiator as talks intensified.,yes,yes,no
+D022,gpt2,male,1,1,subject,active,NA,relational,no,no,,He became a key negotiator as talks intensified.,yes,yes,no

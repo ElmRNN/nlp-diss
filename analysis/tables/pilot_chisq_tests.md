@@ -1,43 +1,49 @@
 # χ² Tests by Gender
 
-## role ~ focal_gender
+## role
 | focal_gender   |   absent |   subject |
 |:---------------|---------:|----------:|
-| female         |        3 |         6 |
-| male           |        3 |         6 |
-- χ²(1, N=18) = 0.00, p = 1.0000, V = 0.00
+| female         |        5 |        11 |
+| male           |        5 |        11 |
 
-## voice ~ focal_gender
+χ²=0.00, df=1, p=1.0000, Cramér’s V=0.000
+
+## voice
 | focal_gender   |   active |   none |   passive |
 |:---------------|---------:|-------:|----------:|
-| female         |        4 |      3 |         2 |
-| male           |        3 |      3 |         3 |
-- χ²(2, N=18) = 0.34, p = 0.8425, V = 0.14
+| female         |        8 |      5 |         3 |
+| male           |        7 |      5 |         4 |
 
-## agent_present ~ focal_gender
+χ²=0.21, df=2, p=0.9005, Cramér’s V=0.081
+
+## agent_present
+| focal_gender   |   NA |   no |   yes |
+|:---------------|-----:|-----:|------:|
+| female         |   13 |    1 |     2 |
+| male           |   12 |    1 |     3 |
+
+χ²=0.24, df=2, p=0.8869, Cramér’s V=0.087
+
+## process_type
+| focal_gender   |   material |   mental |   relational |
+|:---------------|-----------:|---------:|-------------:|
+| female         |         13 |        2 |            1 |
+| male           |         13 |        2 |            1 |
+
+χ²=0.00, df=2, p=1.0000, Cramér’s V=0.000
+
+## modality
 | focal_gender   |   no |   yes |
 |:---------------|-----:|------:|
-| female         |    1 |     1 |
-| male           |    1 |     2 |
-- χ²(1, N=5) = 0.00, p = 1.0000, V = 0.00
+| female         |   15 |     1 |
+| male           |   15 |     1 |
 
-## process_type ~ focal_gender
-| focal_gender   |   material |   mental |
-|:---------------|-----------:|---------:|
-| female         |          7 |        2 |
-| male           |          7 |        2 |
-- χ²(1, N=18) = 0.00, p = 1.0000, V = 0.00
+χ²=0.00, df=1, p=1.0000, Cramér’s V=0.000
 
-## modality ~ focal_gender
-| focal_gender   |   no |
-|:---------------|-----:|
-| female         |    9 |
-| male           |    9 |
-- χ²(0, N=18) = 0.00, p = 1.0000, V = nan
-
-## hedge ~ focal_gender
+## hedge
 | focal_gender   |   no |   yes |
 |:---------------|-----:|------:|
-| female         |    8 |     1 |
-| male           |    8 |     1 |
-- χ²(1, N=18) = 0.00, p = 1.0000, V = 0.00
+| female         |   14 |     2 |
+| male           |   14 |     2 |
+
+χ²=0.00, df=1, p=1.0000, Cramér’s V=0.000
