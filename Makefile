@@ -47,3 +47,9 @@ stats_gpt2:
 	IN=analysis/annotated_gpt2.csv python analysis/03_descriptives_pct.py
 stats_bold:
 	IN=analysis/annotated_bold.csv python analysis/03_descriptives_pct.py
+
+# per-subcorpus chi-square
+chisq_gpt2:
+	IN=analysis/annotated_gpt2.csv python analysis/04_chisq_tests.py
+chisq_bold:
+	IN=analysis/annotated_bold.csv python analysis/04_chisq_tests.py
