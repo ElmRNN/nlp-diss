@@ -1,19 +1,19 @@
-doc_id,subcorpus,focal_gender,sent_id,clause_id,role,voice,agent_present,process_type,modality,hedge,override_note,text_span
-D001,gpt2,female,1,1,subject,active,NA,material,no,no,,She led the protest in Cardiff
-D001,gpt2,female,1,2,absent,none,NA,material,no,no,,the council meeting.
-D002,gpt2,male,1,1,subject,passive,yes,material,no,no,,He was arrested by police
-D002,gpt2,male,1,2,absent,none,NA,material,no,no,,the protest turned violent.
-D003,gpt2,female,1,1,subject,active,NA,material,no,no,,She announced new funding for hospitals
-D003,gpt2,female,1,2,absent,none,NA,material,no,no,,the budget meeting.
-D004,gpt2,male,1,1,subject,active,NA,material,no,no,,He announced new funding for hospitals
-D004,gpt2,male,1,2,absent,none,NA,material,no,no,,the budget meeting.
-D005,gpt2,female,1,1,subject,passive,yes,material,no,no,,She was praised by officials for her quick response to the floods.
-D006,gpt2,male,1,1,subject,passive,yes,material,no,no,,He was praised by officials for his quick response to the floods.
-D007,gpt2,female,1,1,subject,active,NA,mental,no,no,,"She claimed the report was inaccurate,"
-D007,gpt2,female,1,2,absent,none,NA,material,no,no,,experts disagreed.
-D008,gpt2,male,1,1,subject,active,NA,mental,no,no,,"He claimed the report was inaccurate,"
-D008,gpt2,male,1,2,absent,none,NA,material,no,no,,experts disagreed.
-D009,gpt2,female,1,1,subject,active,NA,mental,no,yes,,"She appeared uncertain, allegedly avoiding direct questions."
-D010,gpt2,male,1,1,subject,active,NA,mental,no,yes,,"He appeared uncertain, allegedly avoiding direct questions."
-D011,gpt2,female,1,1,subject,passive,no,material,no,no,,She is considered a strong candidate for party leadership.
-D012,gpt2,male,1,1,subject,passive,no,material,no,no,,He is considered a strong candidate for party leadership.
+doc_id,subcorpus,focal_gender,sent_id,clause_id,role,voice,agent_present,process_type,modality,hedge,override_note,text_span,focal_found,root_is_verb,needs_review
+D001,gpt2,female,1,1,subject,active,NA,material,no,no,,She led the protest in Cardiff,yes,yes,no
+D001,gpt2,female,1,2,absent,none,NA,material,no,no,,the council meeting.,no,no,yes
+D002,gpt2,male,1,1,subject,passive,yes,material,no,no,,He was arrested by police,yes,yes,no
+D002,gpt2,male,1,2,absent,none,NA,material,no,no,,the protest turned violent.,no,no,yes
+D003,gpt2,female,1,1,subject,active,NA,material,no,no,,She announced new funding for hospitals,yes,yes,no
+D003,gpt2,female,1,2,absent,none,NA,material,no,no,,the budget meeting.,no,no,yes
+D004,gpt2,male,1,1,subject,active,NA,material,no,no,,He announced new funding for hospitals,yes,yes,no
+D004,gpt2,male,1,2,absent,none,NA,material,no,no,,the budget meeting.,no,no,yes
+D005,gpt2,female,1,1,subject,passive,yes,material,no,no,,She was praised by officials for her quick response to the floods.,yes,yes,no
+D006,gpt2,male,1,1,subject,passive,yes,material,no,no,,He was praised by officials for his quick response to the floods.,yes,yes,no
+D007,gpt2,female,1,1,subject,active,NA,mental,no,no,,"She claimed the report was inaccurate,",yes,yes,no
+D007,gpt2,female,1,2,absent,none,NA,material,no,no,,experts disagreed.,no,no,yes
+D008,gpt2,male,1,1,subject,active,NA,mental,no,no,,"He claimed the report was inaccurate,",yes,yes,no
+D008,gpt2,male,1,2,absent,none,NA,material,no,no,,experts disagreed.,no,no,yes
+D009,gpt2,female,1,1,subject,active,NA,mental,no,yes,,"She appeared uncertain, allegedly avoiding direct questions.",yes,yes,no
+D010,gpt2,male,1,1,subject,active,NA,mental,no,yes,,"He appeared uncertain, allegedly avoiding direct questions.",yes,yes,no
+D011,gpt2,female,1,1,subject,passive,no,material,no,no,,She is considered a strong candidate for party leadership.,yes,yes,no
+D012,gpt2,male,1,1,subject,passive,no,material,no,no,,He is considered a strong candidate for party leadership.,yes,yes,no
