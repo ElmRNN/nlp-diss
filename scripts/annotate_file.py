@@ -49,12 +49,14 @@ def run(in_csv, out_csv):
     df = pd.read_csv(in_csv)
     rows=[]
     for _, r in df.iterrows():
+        # FOCAL GENDER FALLBACK: use 'focal_gender' if present; otherwise use 'gender'
+        focal_gender = r.get("focal_gender", r.get("gender", ""))
         doc = nlp(str(r["text"]))
         for s_id,c_id,span in split_into_clause_spans(doc):
-            role,voice,agent_present,process_type,modality,hedge,focal_found,root_is_verb,needs_review = detect(span, r.get("focal_gender",""))
+            role,voice,agent_present,process_type,modality,hedge,focal_found,root_is_verb,needs_review = detect(span, focal_gender)
             rows.append({
                 "doc_id": r.get("doc_id",""), "subcorpus": r.get("subcorpus",""),
-                "focal_gender": r.get("focal_gender",""), "sent_id": s_id, "clause_id": c_id,
+                "focal_gender": focal_gender, "sent_id": s_id, "clause_id": c_id,
                 "role": role, "voice": voice, "agent_present": agent_present,
                 "process_type": process_type, "modality": modality, "hedge": hedge,
                 "override_note":"", "text_span": span.text.strip(),
