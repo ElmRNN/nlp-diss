@@ -14,3 +14,6 @@ tables:
 
 chisq:
 	python analysis/04_chisq_tests.py
+
+stats:
+	python analysis/03_descriptives_pct.py
