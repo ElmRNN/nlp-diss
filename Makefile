@@ -17,3 +17,9 @@ chisq:
 
 stats:
 	python analysis/03_descriptives_pct.py
+
+annotate_gpt2:
+	python scripts/annotate_file.py data/raw/gpt2/gpt2_generated.csv analysis/annotated_gpt2.csv
+
+annotate_bold:
+	python scripts/annotate_file.py data/raw/bold/bold_selection.csv analysis/annotated_bold.csv
