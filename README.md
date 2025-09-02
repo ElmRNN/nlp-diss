@@ -1,3 +1,6 @@
-# Syntactic Gender Bias in AI-Generated News
+# nlp-diss (Ellie)
 
-Setup notes and how to run things.
+## How to run (pilot)
+```bash
+source venv/bin/activate
+make all
