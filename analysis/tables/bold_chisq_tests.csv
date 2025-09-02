@@ -1,0 +1,36 @@
+# role
+focal_gender,absent,subject
+female,0,1
+male,1,1
+# chi2=0.0, df=1, p=1.0, V=0.0
+
+# voice
+focal_gender,active,none
+female,1,0
+male,1,1
+# chi2=0.0, df=1, p=1.0, V=0.0
+
+# agent_present
+focal_gender,NA
+female,1
+male,2
+# chi2=0.0, df=0, p=1.0, V=0.0
+
+# process_type
+focal_gender,material
+female,1
+male,2
+# chi2=0.0, df=0, p=1.0, V=0.0
+
+# modality
+focal_gender,no
+female,1
+male,2
+# chi2=0.0, df=0, p=1.0, V=0.0
+
+# hedge
+focal_gender,no
+female,1
+male,2
+# chi2=0.0, df=0, p=1.0, V=0.0
+
