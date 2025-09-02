@@ -41,3 +41,9 @@ tables_gpt2:
 	IN=analysis/annotated_gpt2.csv python analysis/02_export_tables.py
 tables_bold:
 	IN=analysis/annotated_bold.csv python analysis/02_export_tables.py
+
+# per-subcorpus percentages
+stats_gpt2:
+	IN=analysis/annotated_gpt2.csv python analysis/03_descriptives_pct.py
+stats_bold:
+	IN=analysis/annotated_bold.csv python analysis/03_descriptives_pct.py
