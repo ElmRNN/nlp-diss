@@ -53,3 +53,15 @@ chisq_gpt2:
 	IN=analysis/annotated_gpt2.csv python analysis/04_chisq_tests.py
 chisq_bold:
 	IN=analysis/annotated_bold.csv python analysis/04_chisq_tests.py
+
+all_gpt2:
+	make annotate_gpt2
+	make tables_gpt2
+	make stats_gpt2
+	make chisq_gpt2
+
+all_bold:
+	make annotate_bold
+	make tables_bold
+	make stats_bold
+	make chisq_bold
