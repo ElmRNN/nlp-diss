@@ -1,12 +1,16 @@
 .PHONY: pilot annotate_clauses descriptives tables
+
 pilot:
-\tpython scripts/annotate_spacy.py
+	python scripts/annotate_spacy.py
 
 annotate_clauses:
-\tpython scripts/annotate_clauses.py
+	python scripts/annotate_clauses.py
 
 descriptives:
-\tpython analysis/01_descriptives.py
+	python analysis/01_descriptives.py
 
 tables:
-\tpython analysis/02_export_tables.py
+	python analysis/02_export_tables.py
+
+chisq:
+	python analysis/04_chisq_tests.py
