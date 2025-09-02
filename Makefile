@@ -23,3 +23,15 @@ annotate_gpt2:
 
 annotate_bold:
 	python scripts/annotate_file.py data/raw/bold/bold_selection.csv analysis/annotated_bold.csv
+
+# per-subcorpus tables
+
+# per-subcorpus tables
+
+# per-subcorpus tables
+
+all:
+	make annotate_clauses
+	make tables
+	make stats
+	make chisq
