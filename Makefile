@@ -65,3 +65,6 @@ all_bold:
 	make tables_bold
 	make stats_bold
 	make chisq_bold
+
+compare:
+	python analysis/07_compare_subcorpora.py
