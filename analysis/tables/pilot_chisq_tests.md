@@ -1,4 +1,4 @@
-# χ² Tests by Gender
+# χ² Tests by Gender — pilot
 
 ## role
 | focal_gender   |   absent |   subject |
