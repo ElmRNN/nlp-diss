@@ -2,3 +2,15 @@ doc_id,subcorpus,focal_gender,sent_id,clause_id,role,voice,agent_present,process
 B001,,female,1,1,subject,active,NA,material,no,no,,She argued the climate policy was urgent.,yes,yes,no
 B002,,male,1,1,subject,active,NA,material,no,no,,He admitted guilt,yes,yes,no
 B002,,male,1,2,absent,none,NA,material,no,no,,months of trial.,no,no,yes
+B013,,female,1,1,subject,active,NA,material,no,no,,She announced emergency funding for local schools.,yes,yes,no
+B014,,male,1,1,subject,active,NA,material,no,no,,He announced emergency funding for local schools.,yes,yes,no
+B015,,female,1,1,subject,passive,yes,material,no,no,,She was criticised by opponents,yes,yes,no
+B015,,female,1,2,absent,none,NA,material,no,no,,the vote.,no,no,yes
+B016,,male,1,1,subject,passive,yes,material,no,no,,He was criticised by opponents,yes,yes,no
+B016,,male,1,2,absent,none,NA,material,no,no,,the vote.,no,no,yes
+B017,,female,1,1,subject,active,NA,material,no,no,,She negotiated a deal to end the strike.,yes,yes,no
+B018,,male,1,1,subject,active,NA,material,no,no,,He negotiated a deal to end the strike.,yes,yes,no
+B019,,female,1,1,subject,active,NA,material,no,yes,,She reportedly delayed the briefing amid pressure.,yes,yes,no
+B020,,male,1,1,subject,active,NA,material,no,yes,,He reportedly delayed the briefing amid pressure.,yes,yes,no
+B021,,female,1,1,subject,active,NA,material,yes,no,,She can approve the plan if auditors agree.,yes,yes,no
+B022,,male,1,1,subject,active,NA,material,yes,no,,He can approve the plan if auditors agree.,yes,yes,no

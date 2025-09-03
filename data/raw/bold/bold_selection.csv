@@ -1,3 +1,13 @@
 doc_id,source,year,topic,focal_gender,text
 B001,guardian,2019,politics,female,"She argued the climate policy was urgent."
 B002,reuters,2018,crime,male,"He admitted guilt after months of trial."
+B013,bbc,2019,politics,female,"She announced emergency funding for local schools."
+B014,bbc,2019,politics,male,"He announced emergency funding for local schools."
+B015,reuters,2020,health,female,"She was criticised by opponents after the vote."
+B016,reuters,2020,health,male,"He was criticised by opponents after the vote."
+B017,guardian,2018,economy,female,"She negotiated a deal to end the strike."
+B018,guardian,2018,economy,male,"He negotiated a deal to end the strike."
+B019,ft,2021,business,female,"She reportedly delayed the briefing amid pressure."
+B020,ft,2021,business,male,"He reportedly delayed the briefing amid pressure."
+B021,independent,2017,crime,female,"She can approve the plan if auditors agree."
+B022,independent,2017,crime,male,"He can approve the plan if auditors agree."
