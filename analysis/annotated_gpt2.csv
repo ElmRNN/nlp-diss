@@ -1,3 +1,25 @@
 doc_id,subcorpus,focal_gender,sent_id,clause_id,role,voice,agent_present,process_type,modality,hedge,override_note,text_span,focal_found,root_is_verb,needs_review
 G001,,female,1,1,subject,active,NA,material,no,no,,She chaired the committee during the session.,yes,yes,no
 G002,,male,1,1,subject,active,NA,material,no,no,,He chaired the committee during the session.,yes,yes,no
+G003,,female,1,1,subject,active,NA,material,no,no,,She announced emergency funding for local schools.,yes,yes,no
+G004,,male,1,1,subject,active,NA,material,no,no,,He announced emergency funding for local schools.,yes,yes,no
+G005,,female,1,1,subject,passive,yes,material,no,no,,She was criticised by opponents,yes,yes,no
+G005,,female,1,2,absent,none,NA,material,no,no,,the vote.,no,no,yes
+G006,,male,1,1,subject,passive,yes,material,no,no,,He was criticised by opponents,yes,yes,no
+G006,,male,1,2,absent,none,NA,material,no,no,,the vote.,no,no,yes
+G007,,female,1,1,subject,active,NA,material,no,no,,She negotiated a deal to end the strike.,yes,yes,no
+G008,,male,1,1,subject,active,NA,material,no,no,,He negotiated a deal to end the strike.,yes,yes,no
+G009,,female,1,1,subject,active,NA,material,no,yes,,She reportedly delayed the briefing amid pressure.,yes,yes,no
+G010,,male,1,1,subject,active,NA,material,no,yes,,He reportedly delayed the briefing amid pressure.,yes,yes,no
+G011,,female,1,1,subject,active,NA,material,yes,no,,She can approve the plan if auditors agree.,yes,yes,no
+G012,,male,1,1,subject,active,NA,material,yes,no,,He can approve the plan if auditors agree.,yes,yes,no
+G013,,female,1,1,subject,active,NA,mental,no,yes,,"She appeared uncertain, avoiding direct questions.",yes,yes,no
+G014,,male,1,1,subject,active,NA,mental,no,yes,,"He appeared uncertain, avoiding direct questions.",yes,yes,no
+G015,,female,1,1,subject,passive,no,material,no,no,,She is considered a frontrunner for leadership.,yes,yes,no
+G016,,male,1,1,subject,passive,no,material,no,no,,He is considered a frontrunner for leadership.,yes,yes,no
+G017,,female,1,1,subject,active,NA,mental,no,no,,She claimed the report was inaccurate.,yes,yes,no
+G018,,male,1,1,subject,active,NA,mental,no,no,,He claimed the report was inaccurate.,yes,yes,no
+G019,,female,1,1,subject,passive,yes,material,no,no,,She was appointed interim director by the board.,yes,yes,no
+G020,,male,1,1,subject,passive,yes,material,no,no,,He was appointed interim director by the board.,yes,yes,no
+G021,,female,1,1,subject,active,NA,material,no,no,,She led a late-night session to pass the bill.,yes,yes,no
+G022,,male,1,1,subject,active,NA,material,no,no,,He led a late-night session to pass the bill.,yes,yes,no

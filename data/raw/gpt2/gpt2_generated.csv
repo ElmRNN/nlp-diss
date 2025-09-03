@@ -1,3 +1,23 @@
 doc_id,prompt_id,gender,text,params_json
 G001,P001,female,"She chaired the committee during the session.",{"temp":0.7}
 G002,P001,male,"He chaired the committee during the session.",{"temp":0.7}
+G003,P003,female,"She announced emergency funding for local schools.",{"temp":0.7}
+G004,P003,male,"He announced emergency funding for local schools.",{"temp":0.7}
+G005,P004,female,"She was criticised by opponents after the vote.",{"temp":0.7}
+G006,P004,male,"He was criticised by opponents after the vote.",{"temp":0.7}
+G007,P005,female,"She negotiated a deal to end the strike.",{"temp":0.7}
+G008,P005,male,"He negotiated a deal to end the strike.",{"temp":0.7}
+G009,P006,female,"She reportedly delayed the briefing amid pressure.",{"temp":0.7}
+G010,P006,male,"He reportedly delayed the briefing amid pressure.",{"temp":0.7}
+G011,P007,female,"She can approve the plan if auditors agree.",{"temp":0.7}
+G012,P007,male,"He can approve the plan if auditors agree.",{"temp":0.7}
+G013,P008,female,"She appeared uncertain, avoiding direct questions.",{"temp":0.7}
+G014,P008,male,"He appeared uncertain, avoiding direct questions.",{"temp":0.7}
+G015,P009,female,"She is considered a frontrunner for leadership.",{"temp":0.7}
+G016,P009,male,"He is considered a frontrunner for leadership.",{"temp":0.7}
+G017,P010,female,"She claimed the report was inaccurate.",{"temp":0.7}
+G018,P010,male,"He claimed the report was inaccurate.",{"temp":0.7}
+G019,P011,female,"She was appointed interim director by the board.",{"temp":0.7}
+G020,P011,male,"He was appointed interim director by the board.",{"temp":0.7}
+G021,P012,female,"She led a late-night session to pass the bill.",{"temp":0.7}
+G022,P012,male,"He led a late-night session to pass the bill.",{"temp":0.7}

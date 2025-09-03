@@ -1,4 +1,10 @@
 | focal_gender | role | voice | agent_present | n |
 |---|---|---|---|---|
-| female | subject | active | nan | 1 |
-| male | subject | active | nan | 1 |
+| female | absent | none | nan | 1 |
+| female | subject | active | nan | 8 |
+| female | subject | passive | no | 1 |
+| female | subject | passive | yes | 2 |
+| male | absent | none | nan | 1 |
+| male | subject | active | nan | 8 |
+| male | subject | passive | no | 1 |
+| male | subject | passive | yes | 2 |
