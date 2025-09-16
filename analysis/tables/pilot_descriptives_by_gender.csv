@@ -1,3 +1,4 @@
 gender,n_clauses,n_subject,% subject,% passive (of subjects),% agent omitted (of passives),% modality,% hedge
-female,16,11,68.8,27.3,33.3,6.2,12.5
-male,16,11,68.8,36.4,25.0,6.2,12.5
+female,436,3,0.7,0.0,0.0,17.2,0.0
+male,315,14,4.4,7.1,100.0,22.9,0.0
+they,197,2,1.0,0.0,0.0,21.3,0.0

@@ -1,36 +1,42 @@
 # role
-focal_gender,absent,subject
-female,5,11
-male,5,11
-# chi2=0.0, df=1, p=1.0, V=0.0
+focal_gender,absent,other,subject
+female,433,0,3
+male,301,0,14
+they,194,1,2
+# chi2=18.17317976173542, df=4, p=0.0011415331247397482, V=0.09790306646298794
 
 # voice
 focal_gender,active,none,passive
-female,8,5,3
-male,7,5,4
-# chi2=0.2095238095238095, df=2, p=0.9005389110892619, V=0.0809173593712687
+female,3,433,0
+male,13,301,1
+they,2,195,0
+# chi2=14.71028068028428, df=4, p=0.005341421937149023, V=0.088082840875451
 
 # agent_present
-focal_gender,NA,no,yes
-female,13,1,2
-male,12,1,3
-# chi2=0.24000000000000002, df=2, p=0.8869204367171575, V=0.08660254037844387
+focal_gender,NA,no
+female,436,0
+male,314,1
+they,197,0
+# chi2=2.0116457987630105, df=2, p=0.3657435408024565, V=0.04606505442525264
 
 # process_type
 focal_gender,material,mental,relational
-female,13,2,1
-male,13,2,1
-# chi2=0.0, df=2, p=1.0, V=0.0
+female,358,9,69
+male,247,14,54
+they,164,14,19
+# chi2=14.576937388485161, df=4, p=0.0056641215689406665, V=0.08768271275621918
 
 # modality
 focal_gender,no,yes
-female,15,1
-male,15,1
-# chi2=0.0, df=1, p=1.0, V=0.0
+female,361,75
+male,243,72
+they,155,42
+# chi2=3.9622513594353443, df=2, p=0.13791390301555306, V=0.06464974896779155
 
 # hedge
-focal_gender,no,yes
-female,14,2
-male,14,2
-# chi2=0.0, df=1, p=1.0, V=0.0
+focal_gender,no
+female,436
+male,315
+they,197
+# chi2=0.0, df=0, p=1.0, V=0.0
 
