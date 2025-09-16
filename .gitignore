@@ -7,3 +7,6 @@ analysis/annotated_*.csv
 analysis/tables/*.csv
 analysis/tables/*.md
 # raw data
+
+# ignore ephemeral pilot
+data/raw/pilot.csv
