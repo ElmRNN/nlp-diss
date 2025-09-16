@@ -36,13 +36,16 @@ RE_SHE = re.compile(r"\bshe\b", re.I)
 
 def wc(s: str) -> int:
     return len(s.strip().split())
+
 def main():
     os.makedirs(os.path.dirname(OUT_CSV), exist_ok=True)
 
-    print("[load] Hugging Face ccdv/cnn_dailymail …")
+    print("[load] Hugging Face cnn_dailymail …")
     try:
-    ds = load_dataset("cnn_dailymail", VERSION, split=SPLIT)
-except Exception:
+        ds = load_dataset("cnn_dailymail", VERSION, split=SPLIT)
+    except Exception:
+        ds = load_dataset("cnn_dailymail", split=SPLIT)  # fallback to latest default
+
     ds = load_dataset("cnn_dailymail", split=SPLIT)  # article field name: 'article'
     # Convert to pandas just to sample deterministically
     df = ds.to_pandas()[["article"]].dropna()
