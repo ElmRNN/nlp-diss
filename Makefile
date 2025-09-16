@@ -1,70 +1,21 @@
-.PHONY: pilot annotate_clauses descriptives tables
+.PHONY: all annotate_clauses post tables stats chisq audit
 
-pilot:
-	python scripts/annotate_spacy.py
+all: annotate_clauses post tables stats chisq audit
 
 annotate_clauses:
-	python scripts/annotate_clauses.py
+\tpython scripts/annotate_clauses.py
 
-descriptives:
-	python analysis/01_descriptives.py
+post:
+\tpython analysis/00_postprocess_annotations.py --input analysis/annotated_pilot_clauses.csv --output analysis/annotated_pilot_clauses.clean.csv
 
 tables:
-	python analysis/02_export_tables.py
-
-chisq:
-	python analysis/04_chisq_tests.py
+\tpython analysis/02_export_tables.py --input analysis/annotated_pilot_clauses.clean.csv
 
 stats:
-	python analysis/03_descriptives_pct.py
+\tpython analysis/03_descriptives_pct.py --input analysis/annotated_pilot_clauses.clean.csv
 
-annotate_gpt2:
-	python scripts/annotate_file.py data/raw/gpt2/gpt2_generated.csv analysis/annotated_gpt2.csv
+chisq:
+\tpython analysis/04_chisq_tests.py
 
-annotate_bold:
-	python scripts/annotate_file.py data/raw/bold/bold_selection.csv analysis/annotated_bold.csv
-
-# per-subcorpus tables
-
-# per-subcorpus tables
-
-# per-subcorpus tables
-
-all:
-	make annotate_clauses
-	make tables
-	make stats
-	make chisq
-
-# per-subcorpus tables
-tables_gpt2:
-	IN=analysis/annotated_gpt2.csv python analysis/02_export_tables.py
-tables_bold:
-	IN=analysis/annotated_bold.csv python analysis/02_export_tables.py
-
-# per-subcorpus percentages
-stats_gpt2:
-	IN=analysis/annotated_gpt2.csv python analysis/03_descriptives_pct.py
-stats_bold:
-	IN=analysis/annotated_bold.csv python analysis/03_descriptives_pct.py
-
-# per-subcorpus chi-square
-chisq_gpt2:
-	IN=analysis/annotated_gpt2.csv python analysis/04_chisq_tests.py
-chisq_bold:
-	IN=analysis/annotated_bold.csv python analysis/04_chisq_tests.py
-
-all_gpt2:
-	make annotate_gpt2
-	make tables_gpt2
-	make stats_gpt2
-	make chisq_gpt2
-
-all_bold:
-	make annotate_bold
-	make tables_bold
-	make stats_bold
-	make chisq_bold
-
-compare:
-	python analysis/07_compare_subcorpora.py
+audit:
+\tpython analysis/06_error_audit.py --input analysis/annotated_pilot_clauses.clean.csv --n 30 --seed 42
