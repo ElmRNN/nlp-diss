@@ -4,3 +4,9 @@ __pycache__/
 .DS_Store
 data/raw/*.csv
 data/raw/*.csv
+# analysis outputs
+analysis/annotated_*.csv
+analysis/tables/*.csv
+analysis/tables/*.md
+# raw data
+data/raw/*.csv
