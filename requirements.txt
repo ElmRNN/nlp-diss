@@ -4,3 +4,4 @@ scipy
 spacy
 tabulate
 urllib3<2
+XlsxWriter
