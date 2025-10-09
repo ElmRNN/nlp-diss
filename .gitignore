@@ -12,3 +12,4 @@ analysis/tables/*.md
 data/raw/pilot.csv
 analysis/exports/
 .venv/
+.venv/
