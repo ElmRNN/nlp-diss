@@ -1,0 +1,659 @@
+doc_id,subcorpus,focal_gender,sent_id,clause_id,role,voice,agent_present,process_type,modality,hedge,override_note,text_span,focal_found,root_is_verb,needs_review
+H00331,human,male,1,1,absent,none,n/a,material,no,no,,"""I saw them in one of the last games under Felix Magath, (a 1-0 defeat) at home to Wolves,",no,no,yes
+H00331,human,male,1,2,subject,active,n/a,mental,no,no,,"at that time they were struggling, there was no mentality, nothing in the team,"" he said.",yes,yes,no
+H00066,human,female,1,1,subject,active,n/a,mental,no,no,,"A spokesman said if the doll thinks she has heard a swear word,",yes,yes,no
+H00066,human,female,1,2,absent,none,n/a,material,no,no,,anything related to race,no,no,yes
+H00066,human,female,1,3,absent,none,n/a,material,no,no,,"body parts, any internet searches are automatically shut down.",no,no,yes
+H00345,human,male,1,1,subject,active,n/a,mental,no,no,,He says councils are being forced to earmark more,yes,yes,no
+H00345,human,male,1,2,absent,none,n/a,material,no,no,,more land for housing,no,no,yes
+H00345,human,male,1,3,absent,none,n/a,material,no,no,,risk falling foul of the development presumption that leaves them little power to block projects they think excessive.,no,no,yes
+H00286,human,male,1,1,subject,active,n/a,material,yes,no,,"President Obama's statement reiterates one he made earlier this week, when he urged Scottish voters not to break apart ‘one of the closest allies we’ll ever have’ by voting for independence on Thursday.",yes,yes,no
+H00181,human,female,1,1,subject,active,n/a,material,no,no,,"The agency, she said, has tried for 20 years to have more oversight of compounding pharmacies",yes,yes,no
+H00181,human,female,1,2,absent,none,n/a,material,no,no,,has faced challenges by the industry.,no,no,yes
+H00301,human,male,1,1,subject,active,n/a,mental,yes,no,,"‘I will have to work two to four hours a day,’ he said. ’",yes,yes,no
+H00301,human,male,2,1,absent,none,n/a,relational,no,no,,I am not sure when it starts,no,no,yes
+H00301,human,male,2,2,absent,none,n/a,material,yes,yes,,I will report to the local penal service authority later today.,no,no,yes
+H00163,human,female,1,1,absent,none,n/a,material,no,no,,"It did not have to be this way, they were not ordered to go to Afghanistan together,",no,yes,yes
+H00163,human,female,1,2,subject,active,n/a,material,no,no,,Frances Johnson volunteered since she had not yet deployed during the six years she has been enlisted.,yes,no,yes
+H00211,human,male,1,1,subject,active,n/a,mental,no,no,,"""At a banal level, it's a little bit of color in our lives is gone,"" he said.",yes,yes,no
+H00272,human,male,1,1,subject,active,n/a,relational,no,no,,He was also guilty of biting during his time in the Netherlands with Ajax where he was banned for seven games,yes,no,yes
+H00272,human,male,1,2,absent,none,n/a,material,no,no,,leaving a scar on the collarbone of Otman Bakkal.,no,no,yes
+H00105,human,female,1,1,subject,passive,no,material,no,no,,She was ranked second in the U.S,yes,yes,no
+H00105,human,female,1,2,absent,none,n/a,material,no,no,,fourth in the world entering the competition.,no,no,yes
+H00166,human,female,1,1,absent,none,n/a,material,no,no,,"‘Ever wanted to draw a Disney-style chick,",no,yes,yes
+H00166,human,female,1,2,subject,active,n/a,material,no,no,,she ended up looking like a deformed Paris Hilton bobblehead?’,yes,no,yes
+H00265,human,male,1,1,subject,active,n/a,relational,no,no,,'He . is one of the lucky ones.,yes,no,yes
+H00314,human,male,1,1,absent,none,n/a,material,no,no,,"So if your child comes home in the leadup to Columbus Day, like mine did, full of praise for the explorer's bravery",no,no,yes
+H00314,human,male,1,2,subject,active,n/a,relational,no,no,,"vision, that's a fine place to start, even if he didn't really ""discover"" the Americas",yes,no,yes
+H00314,human,male,1,3,absent,none,n/a,material,no,no,,figure out that the Earth was round.,no,no,yes
+H00344,human,male,1,1,absent,none,n/a,material,no,no,,"Weddle's close friend, artist",no,no,yes
+H00344,human,male,1,2,absent,none,n/a,material,no,no,,"designer Rick Elden, remembers that day well",no,yes,yes
+H00344,human,male,1,3,subject,active,n/a,material,no,no,,he had brought his 4-month-old son to the pool for Weddle to shoot.,yes,no,yes
+H00231,human,male,1,2,subject,active,n/a,material,no,no,,"then, he catches himself --",yes,yes,no
+H00231,human,male,1,3,absent,none,n/a,material,no,no,,corrects himself.,no,no,yes
+H00213,human,male,1,1,subject,active,n/a,material,no,no,,"Wafer, whose lawyer said he shot the victim in self-defense, was charged with second-degree murder last month",yes,yes,no
+H00213,human,male,1,2,absent,none,n/a,material,no,no,,days of pressure from McBride's relatives seeking an arrest.,no,no,yes
+H00089,human,female,1,1,absent,none,n/a,material,no,no,,'Senseless',no,no,yes
+H00089,human,female,1,2,subject,active,n/a,mental,no,no,,Prosecutor Jean Baker said there is no clear motive for the attack as she announced the charges .,yes,yes,no
+H00324,human,male,1,1,subject,active,n/a,material,no,no,,"He . burned through a slate of seven high-powered attorneys, including .",yes,yes,no
+H00178,human,female,1,1,absent,none,n/a,material,no,no,,Left,no,no,yes
+H00178,human,female,1,2,subject,active,n/a,mental,no,no,,Jamaliah (left) said she recognised her daughter immediately from her 'characteristic' facial features,yes,yes,no
+H00090,human,female,1,1,subject,active,n/a,material,no,no,,so she decided to quit the beds.,yes,yes,no
+H00091,human,female,1,2,subject,active,n/a,relational,no,no,,she is subversively sexy without trying.,yes,no,yes
+H00255,human,male,1,2,subject,active,n/a,material,no,no,,"yet, just four years later, he produced a series of papers that turned the world of science on its head.",yes,yes,no
+H00226,human,male,1,1,subject,active,n/a,material,no,no,,"Florida teenager Andrew Anderson, 19, was arrested on Tuesday by Collier County police for giving away discounts to customers he believed were in need at an East Naples store.",yes,yes,no
+H00228,human,male,1,1,subject,active,n/a,mental,no,no,,"""I think now it's only a question of time,"" NATO Secretary-General Anders Fogh Rasmussen said in Brussels, Belgium, where he",yes,yes,no
+H00228,human,male,1,2,absent,none,n/a,material,no,no,,Dutch Prime Minister Mark Rutte announced the deployment of two Patriot air-defense batteries to Turkey's border with Syria.,no,no,yes
+H00067,human,female,1,1,subject,active,n/a,material,no,no,,She sold the airplane,yes,no,yes
+H00067,human,female,1,2,absent,none,n/a,mental,no,no,,"fired the chef,"" McCain said, referring to Palin's efforts to put her predecessor's state jet up for auction on eBay",no,yes,yes
+H00067,human,female,1,3,absent,none,n/a,material,no,no,,her dismissal of the governor's personal chef.,no,no,yes
+H00047,human,female,1,1,subject,active,n/a,material,yes,no,,"Naturally, she would know who should win.",yes,yes,no
+H00312,human,male,1,2,subject,active,n/a,material,no,no,,"Sellu knew his patient had a perforated bowel, he failed to operate for 40 hours, the jury was told.",yes,yes,no
+H00073,human,female,1,1,subject,active,n/a,material,no,no,,She has no official link with the organisation,yes,yes,no
+H00073,human,female,1,2,subject,active,n/a,material,yes,no,,it is hoped that she might forge one in future.,yes,no,yes
+H00086,human,female,1,2,subject,passive,no,material,no,no,,despite the efforts of paramedics she was pronounced dead upon her arrival at Birmingham Children's Hospital.,yes,yes,no
+H00218,human,male,1,1,absent,none,n/a,material,no,no,,A burglar coming down off amphetamine was caught,no,yes,yes
+H00218,human,male,1,2,subject,active,n/a,material,no,no,,having sex with a teddy bear at the property he broke into.,yes,no,yes
+H00220,human,male,1,1,absent,none,n/a,mental,no,no,,Mr Crossan said,no,yes,yes
+H00220,human,male,1,2,subject,passive,no,material,no,no,,‘There was no indication in the game that he was being charged for any of the clicks made within it.,yes,no,yes
+H00054,human,female,1,1,subject,active,n/a,mental,no,no,,"She said police told her they have ""enough evidence to convict somebody.""",yes,yes,no
+H00027,human,female,1,2,subject,active,n/a,material,no,yes,,"Ms Montenegro said she had no 'horror stories' to tell about her time as an escort, she desperately tried to turn her back on the industry.",yes,yes,no
+H00263,human,male,1,1,subject,active,n/a,material,no,no,,"'Ukip believes in seeking new ideas to ensure the NHS provides the highest quality of care,' he added.",yes,yes,no
+H00223,human,male,1,1,subject,active,n/a,material,no,no,,He explained why by describing the last video he watched from Syria.,yes,yes,no
+H00209,human,male,1,1,subject,active,n/a,material,no,no,,"He referred to the bipartisan bill that passed the Senate,",yes,no,yes
+H00209,human,male,1,2,absent,none,n/a,material,no,no,,"has little hope of being brought up in the Republican-controlled House, saying, ""A year",no,no,yes
+H00209,human,male,1,3,absent,none,n/a,material,no,no,,"a half ago, the Senate passed a bipartisan bill to fix this system.""",no,yes,yes
+H00260,human,male,1,1,subject,active,n/a,material,yes,no,,To win on the same track where in 2001 he would die.,yes,yes,no
+H00026,human,female,1,1,subject,active,n/a,material,no,no,,"The wife of the Sydney man Mohamed Elomar who is fighting with the extremist group ISIS in Syria, has been ordered to face court next week over charges she was preparing to travel to Syria to join the jihadi front.",yes,yes,no
+H00281,human,male,1,1,subject,passive,no,mental,no,yes,,Fox 31 reported witnesses said Wright was standing outside his house when he was shot.,yes,yes,no
+H00287,human,male,1,1,subject,active,n/a,material,no,no,,He told the rest of the contestants as he continued crying,yes,yes,no
+H00287,human,male,1,2,absent,none,n/a,material,yes,no,,"'I thought that (Big Brother) would be fun, I could go .",no,no,yes
+H00039,human,female,1,1,absent,none,n/a,material,no,no,,Recovery,no,no,yes
+H00039,human,female,1,2,absent,none,n/a,material,no,no,,Patrick the pit bull is seen during his recovery in the days,no,no,yes
+H00039,human,female,1,3,subject,active,n/a,material,no,no,,Curtis says she merely left him in the hallway without ever abusing him .,yes,no,yes
+H00183,human,female,1,1,absent,none,n/a,material,yes,no,,"Arguing that the pensioner’s promise to her should be honoured, Miss Vasileva told the court",no,yes,yes
+H00183,human,female,1,2,subject,active,n/a,material,yes,no,,'The fact is she wanted to leave me the flat - what else should I have considered,yes,no,yes
+H00183,human,female,1,3,absent,none,n/a,material,no,no,,that was her wish.,no,no,yes
+H00325,human,male,1,1,subject,passive,no,material,no,no,,"He is seen here in one of those films, 'East Of Eden' alongside Lois Smith .",yes,yes,no
+H00147,human,female,1,2,subject,active,n/a,material,no,no,,she’s very level-headed,yes,yes,no
+H00147,human,female,1,3,absent,none,n/a,material,no,no,,her feet are well,no,no,yes
+H00147,human,female,1,4,absent,none,n/a,material,no,no,,truly on the ground.,no,no,yes
+H00354,human,male,1,1,subject,active,n/a,material,no,no,,"""There's no question that the American people have tired of war just like the Afghan people have tired of war,"" he added",yes,yes,no
+H00354,human,male,1,2,absent,none,n/a,material,yes,no,,stressing that the U.S. government would continue with its strategy in Afghanistan.,no,no,yes
+H00075,human,female,1,1,subject,active,n/a,material,no,no,,As Malcolm McGregor she had worked for both sides of politics .,yes,yes,no
+H00011,human,female,1,1,absent,none,n/a,material,no,no,,Support,no,no,yes
+H00011,human,female,1,2,subject,active,n/a,material,no,no,,"Stacey admitted that she lost the weight quicker than her sister,",yes,yes,no
+H00011,human,female,1,3,absent,none,n/a,material,no,no,,needed Katie to help her maintain it .,no,no,yes
+H00252,human,male,1,1,subject,active,n/a,material,no,no,,"'easily 20ft long', a measurement he said was accurate",yes,no,yes
+H00252,human,male,1,2,absent,none,n/a,material,no,no,,that is .,no,no,yes
+H00169,human,female,1,1,subject,active,n/a,material,no,no,,"‘Want to see their idea of a matured woman,’ she writes beside a picture of a childlike empress.",yes,yes,no
+H00081,human,female,1,1,absent,none,n/a,material,no,no,,Special needs,no,no,yes
+H00081,human,female,1,2,absent,none,n/a,mental,no,no,,"Morgan Arnold's mother, Cindi Arnold, said her daughter, pictured, had special needs",no,yes,yes
+H00081,human,female,1,3,subject,active,n/a,material,yes,no,,that she would comment on the charges when the time was right .,yes,no,yes
+H00214,human,male,1,1,absent,none,n/a,material,no,no,,‘It’s so good to get home,no,no,yes
+H00214,human,male,1,2,absent,none,n/a,material,no,no,,the long English season,no,no,yes
+H00214,human,male,1,3,subject,active,n/a,mental,no,no,,"to play in the local comp down in Scone,' he said.",yes,yes,no
+H00180,human,female,1,1,absent,none,n/a,material,no,no,,"""This is an ongoing investigation,",no,no,yes
+H00180,human,female,1,2,subject,active,n/a,mental,no,no,,"we're moving very quickly,"" she said.",yes,yes,no
+H00119,human,female,1,1,subject,passive,no,material,no,no,,"'She was devastated,' Ms Jones told the MailOnline.",yes,yes,no
+H00219,human,male,1,1,absent,none,n/a,material,no,no,,"The situation in Zengcheng remains tense, according to a businessman who asked to be identified only by his surname, Hu,",no,yes,yes
+H00219,human,male,1,2,subject,active,n/a,material,no,yes,,he was concerned about reprisals from government officials.,yes,no,yes
+H00097,human,female,1,1,subject,active,n/a,material,no,no,,She never regained consciousness,yes,yes,no
+H00097,human,female,1,2,absent,none,n/a,material,no,no,,its conclusion.,no,no,yes
+H00092,human,female,1,1,subject,active,n/a,material,no,yes,,"In the posting, Kardashian talked about the pressures of reality television, saying she had a difficult time making the decision to film her wedding.",yes,yes,no
+H00035,human,female,1,1,absent,none,n/a,material,no,yes,,"The Lone Peak ambulance arrived at 6.06pm, about 26 minutes",no,yes,yes
+H00035,human,female,1,2,absent,none,n/a,material,no,no,,the 911 call was made,no,no,yes
+H00035,human,female,1,3,absent,none,n/a,material,no,yes,,about 20 minutes,no,no,yes
+H00035,human,female,1,4,subject,passive,no,material,no,no,,she was found.,yes,no,yes
+H00317,human,male,1,1,subject,passive,no,material,no,no,,He was arrested this week in a major FBI sting .,yes,yes,no
+H00038,human,female,1,1,subject,active,n/a,material,no,no,,She testified that she helped Escoto plan,yes,yes,no
+H00038,human,female,1,2,absent,none,n/a,material,no,no,,"carry out the murder of his new bride, Wendy Trapaga, 21, in 2002 .",no,no,yes
+H00326,human,male,1,1,absent,none,n/a,material,no,no,,With Mia safe,no,no,yes
+H00326,human,male,1,2,absent,none,n/a,relational,no,no,,sound Di Maria was able to turn his full attention back to playing football,no,no,yes
+H00326,human,male,1,3,absent,none,n/a,material,no,no,,Real Madrid had signed Bale in his place,no,no,yes
+H00326,human,male,1,4,subject,active,n/a,material,no,yes,,he appeared to be facing up to a season on the bench.,yes,no,yes
+H00333,human,male,1,1,subject,active,n/a,material,no,no,,"The White House spent $2,952,278 in flight expenses this year for two trips President Barack Obama took on which he spent a large chunk of his time playing golf.",yes,yes,no
+H00202,human,male,1,1,subject,active,n/a,material,no,no,,Sterling makes no mistake as he fires the ball towards goal for Liverpool's third of the evening .,yes,yes,no
+H00114,human,female,1,1,subject,active,n/a,material,yes,no,,A Triple J spokeswoman told Daily Mail Australia last week she could not comment on the movement.,yes,yes,no
+H00020,human,female,1,1,subject,active,n/a,material,no,no,,She makes a ton of money.,yes,yes,no
+H00078,human,female,1,1,subject,active,n/a,material,no,no,,"The Duchess of Cambridge's sister Piipa (left) has been appointed a 'contributing editor' for Vanity Fair (right), signing a lucrative deal to supply the respected US magazine with her thoughts on 'classic British pastimes' The six-page feature also includes a glossy photoshoot showing Pippa, 29, in form-fitting tennis whites as she leaps athletically in the air – with make-up",yes,yes,no
+H00078,human,female,1,2,absent,none,n/a,material,no,no,,"hair still immaculate, of course.",no,no,yes
+H00095,human,female,1,1,subject,active,n/a,mental,no,no,,She said it was unclear what was unfolding at the main police station.,yes,yes,no
+H00304,human,male,1,1,absent,none,n/a,material,no,no,,"'We've been making whiskey a long time,",no,no,yes
+H00304,human,male,1,2,subject,active,n/a,mental,yes,no,,"we know that would not uphold the quality that people expect from Tennessee whiskey,' he said.",yes,yes,no
+H00140,human,female,1,1,absent,none,n/a,material,no,no,,Suni Faith Anderson fainted,no,yes,yes
+H00140,human,female,1,2,absent,none,n/a,material,no,no,,hit her head on a table,no,no,yes
+H00140,human,female,1,3,subject,active,n/a,material,yes,no,,Judge Eric Ludlow told her she would serve up to 15 years.,yes,no,yes
+H00277,human,male,1,1,subject,active,n/a,material,yes,no,,He told me that I did not ask if my patrol car can dirty the air - did you?,yes,yes,no
+H00315,human,male,1,1,absent,none,n/a,material,no,no,,Alan Diaz keeps asking the same question everyone is,no,yes,yes
+H00315,human,male,1,2,subject,active,n/a,material,yes,yes,,"How could this person he knew, who seemed a little off, kill children?",yes,no,yes
+H00289,human,male,1,1,absent,none,n/a,material,no,no,,"James stood up for the boy,",no,yes,yes
+H00289,human,male,1,2,subject,active,n/a,material,no,no,,he,yes,no,yes
+H00289,human,male,1,3,absent,none,n/a,material,no,no,,Dooley had a confrontation.,no,no,yes
+H00049,human,female,1,1,absent,none,n/a,material,no,no,,I felt like I was going to die in there,no,yes,yes
+H00049,human,female,1,2,subject,active,n/a,material,no,no,,"of the anxiety I was feeling,' she told the station.",yes,no,yes
+H00158,human,female,1,1,absent,none,n/a,material,yes,no,,(and) would state at that point that it was,no,yes,yes
+H00158,human,female,1,2,subject,active,n/a,material,yes,no,,she was a woman rather than there was a difference of view as to how things could proceed.’,yes,no,yes
+H00107,human,female,1,1,subject,active,n/a,material,no,no,,She had her own mind,yes,yes,no
+H00107,human,female,1,2,absent,none,n/a,material,no,no,,was very independent,no,no,yes
+H00107,human,female,1,3,subject,active,n/a,material,no,no,,she was very friendly,yes,no,yes
+H00107,human,female,1,4,subject,active,n/a,material,yes,no,,would do anything for anybody if she could. ',yes,no,yes
+H00106,human,female,1,1,absent,none,n/a,material,no,no,,Federal investigators learned of the affair,no,yes,yes
+H00106,human,female,1,2,subject,active,n/a,material,no,no,,"Kelley complained to an FBI agent that she was receiving harassing e-mails from a woman later identified as Petraeus's mistress, Paula Broadwell.",yes,no,yes
+H00199,human,male,1,2,absent,none,n/a,material,no,no,,we have to regroup,no,no,yes
+H00199,human,male,1,3,subject,active,n/a,material,no,no,,"there's still everything to play for,"" he added.",yes,yes,no
+H00313,human,male,1,1,subject,passive,no,material,no,no,,He was forced to undergo keyhole surgery,yes,yes,no
+H00313,human,male,1,2,absent,none,n/a,material,no,no,,missed Uruguay's opening game defeat by Costa Rica,no,no,yes
+H00313,human,male,1,3,absent,none,n/a,material,no,no,,making a near miraculous return in time to face England just five weeks,no,no,yes
+H00313,human,male,1,4,absent,none,n/a,material,no,no,,"his operation, scoring both goals in the South American side's 2-1 win.",no,no,yes
+H00128,human,female,1,1,subject,active,n/a,material,yes,no,,"Maria is playing really well, she can win the tournament.""",yes,yes,no
+H00229,human,male,1,1,absent,none,n/a,material,no,no,,At 3.14am was Aerosmith's duet with Run DMC,no,no,yes
+H00229,human,male,1,2,absent,none,n/a,material,no,no,,"Walk This Way, which Mr Beale gave a 1 in ten",no,no,yes
+H00229,human,male,1,3,absent,none,n/a,material,no,no,,called 'the lowest point of the performance',no,no,yes
+H00229,human,male,1,4,subject,active,n/a,mental,no,no,,"its chorus was repeated every ten minutes for the rest of the night, he said.",yes,yes,no
+H00174,human,female,1,1,subject,active,n/a,mental,no,yes,,Mrs. Obama said she wanted to appear with Laura Bush,yes,yes,no
+H00174,human,female,1,2,absent,none,n/a,material,no,no,,'I like this woman.',no,no,yes
+H00152,human,female,1,1,subject,passive,no,material,no,no,,"telling Burns she had got lost, driven the wrong way",yes,yes,no
+H00152,human,female,1,2,absent,none,n/a,material,no,no,,slept in her .,no,no,yes
+H00012,human,female,1,1,subject,active,n/a,material,no,no,,"She opted to keep the child, who is believed to have been born in early 2014.",yes,yes,no
+H00291,human,male,1,1,subject,passive,yes,material,no,no,,"He is being represented by Jason Flores-Williams, co-founder of the Whistleblower Defense League,",yes,yes,no
+H00291,human,male,1,2,absent,none,n/a,material,no,no,,is soliciting donations for his defense online.,no,no,yes
+H00070,human,female,1,1,subject,active,n/a,material,no,no,,"I know what Phoebe felt as she walked the halls as a freshman at a Massachusetts school, listening to the jeers",yes,yes,no
+H00070,human,female,1,2,subject,active,n/a,material,yes,no,,"whispers, praying she could make it to homeroom",yes,no,yes
+H00070,human,female,1,3,absent,none,n/a,material,no,no,,math class in one piece.,no,no,yes
+H00253,human,male,1,1,subject,active,n/a,material,no,no,,"He has now written to the show’s creator, Matt Groening, urging him to put the cartoon character on a ‘realistic’ healthy eating plan in an attempt to slim him down.",yes,yes,no
+H00210,human,male,1,1,absent,none,n/a,material,no,no,,‘The value of the lead was,no,no,yes
+H00210,human,male,1,2,subject,active,n/a,mental,no,no,,"a small proportion of the cost inflicted upon the churches concerned,’ he said.",yes,yes,no
+H00285,human,male,1,1,subject,active,n/a,material,no,no,,"He has a lot of friends in the paddock – obviously being a Frenchman many of them are from France – so I have been spending some time with them, particularly Jean-Eric Vergne.",yes,yes,no
+H00071,human,female,1,1,subject,active,n/a,relational,no,no,,She was so surprised that Cliff had to ask her twice,yes,no,yes
+H00071,human,female,1,2,subject,active,n/a,material,no,no,,she managed to say 'yes'.,yes,no,yes
+H00144,human,female,1,1,absent,none,n/a,material,no,no,,"Stoke-on-Trent, to help get her back into her flat",no,no,yes
+H00144,human,female,1,2,subject,passive,no,material,no,no,,she was locked .,yes,no,yes
+H00010,human,female,1,1,subject,active,n/a,material,no,no,,"Guinness World Records doesn’t feature their family in every edition, so she carries a 2003 copy to show doubters.",yes,yes,no
+H00245,human,male,1,1,subject,active,n/a,material,no,no,,"He called the evidence against Demjanjuk ""overwhelming.""",yes,yes,no
+H00349,human,male,1,1,subject,active,n/a,material,no,no,,"He cared for everybody, it doesn't matter who you were.",yes,yes,no
+H00247,human,male,1,1,subject,active,n/a,material,no,yes,,He also spoke about George about how much he’s loving his Dad role.’,yes,yes,no
+H00244,human,male,1,1,absent,none,n/a,material,no,no,,"The results didn't turn up bones, body parts",no,no,yes
+H00244,human,male,1,2,subject,active,n/a,mental,no,no,,"other evidence, he said.",yes,yes,no
+H00208,human,male,1,1,subject,active,n/a,mental,no,no,,"Philip Seymour Hoffman, who plays the priest targeted by Streep's character in the film, says he ""adores"" her.",yes,yes,no
+H00160,human,female,1,2,absent,none,n/a,material,yes,no,,"Bush expressed confidence that her husband will ultimately be remembered as ""somebody who stood for freedom",no,no,yes
+H00160,human,female,1,3,subject,active,n/a,material,no,yes,,"who stood for the security of our country,"" she admitted that she's worried about the current situation in Afghanistan.",yes,yes,no
+H00251,human,male,1,1,subject,active,n/a,mental,no,yes,,'He does not appear to have sustained any injury,yes,yes,no
+H00251,human,male,1,2,absent,none,n/a,material,yes,no,,could just be not used to encountering humans.,no,no,yes
+H00216,human,male,1,1,subject,passive,no,material,no,no,,He was treated at the same hospital for a bladder infection in 2002 .,yes,yes,no
+H00100,human,female,1,1,subject,active,n/a,material,no,no,,"A stash of cannabis was also found in the home, which she then explained she needed to ‘come down’",yes,yes,no
+H00100,human,female,1,2,absent,none,n/a,material,no,no,,doing .,no,no,yes
+H00123,human,female,1,1,subject,active,n/a,material,no,no,,The tennis star has shown that again that she is taking her Australian Open defeat to Victoria Azarenka in her stride,yes,yes,no
+H00123,human,female,1,2,absent,none,n/a,material,no,no,,took full advantage of her opportunity to have fun on the sand in the Dubai desert.,no,no,yes
+H00032,human,female,1,1,subject,active,n/a,material,yes,no,,She could certainly look at what Eugenie Bouchard has achieved in the intervening time,yes,yes,no
+H00032,human,female,1,2,subject,active,n/a,material,no,no,,"believe she is able to exceed that, as she is more than her equal in physical talent alone.",yes,no,yes
+H00335,human,male,1,1,absent,none,n/a,material,no,no,,"So in June last year Gilbert, who has two daughters",no,no,yes
+H00335,human,male,1,2,subject,active,n/a,material,no,no,,"is a grandfather, was introduced to Christine Bell, whose home he burgled twice.",yes,yes,no
+H00157,human,female,1,1,subject,active,n/a,material,no,no,,"the dance, Pamela admitted she had struggled with her dress, with host .",yes,yes,no
+H00044,human,female,1,1,subject,active,n/a,mental,no,no,,"Speaking on the documentary Bodyshockers, which airs on Channel 4 tonight, she said",yes,yes,no
+H00044,human,female,1,2,absent,none,n/a,material,no,no,,'I was a wild child when I was a teenager,no,no,yes
+H00044,human,female,1,3,absent,none,n/a,material,no,no,,I'm far from that now. ',no,no,yes
+H00155,human,female,1,1,subject,active,n/a,material,no,yes,,"Bush indicated that she didn't think it was fair for Obama to be labeled a ""socialist"" by critics",yes,yes,no
+H00155,human,female,1,2,absent,none,n/a,material,no,no,,expressed her disappointment with the intensely polarized nature of contemporary American politics.,no,no,yes
+H00159,human,female,1,1,subject,active,n/a,mental,no,no,,"She said when she arrived in Bosnia on March 25, 1996, ""I remember landing under sniper fire.",yes,yes,no
+H00008,human,female,1,1,subject,active,n/a,mental,no,no,,"Park said Monday that she was ""viewing the threat from North Korea in a serious manner.""",yes,yes,no
+H00121,human,female,1,1,subject,active,n/a,material,yes,no,,"If it wasn't for the tube she still has, you wouldn't know there was anything wrong.",yes,yes,no
+H00205,human,male,1,1,absent,none,n/a,material,no,no,,"Lauren Silverman, who has enjoyed holidays on Cowell's yacht - sometimes with her husband",no,no,yes
+H00205,human,male,1,2,absent,none,n/a,material,no,yes,,"sometimes just with the X-Factor creator, lived a life of luxury that was empty without her husband Andrew around",no,no,yes
+H00205,human,male,1,3,subject,active,n/a,mental,no,no,,"he was often away on business, the man who raised her has claimed.",yes,yes,no
+H00279,human,male,1,1,subject,active,n/a,relational,no,no,,Holtby had been on the field only 10 minutes when he fell badly on his shoulder,yes,no,yes
+H00279,human,male,1,2,absent,none,n/a,material,no,no,,clashing with Frankfurt's Martin Lanig.,no,no,yes
+H00148,human,female,1,1,absent,none,n/a,material,no,no,,"Solo had pleaded not guilty in that case,",no,yes,yes
+H00148,human,female,1,2,subject,active,n/a,material,no,no,,she continued to play for the U.S. team,yes,no,yes
+H00148,human,female,1,3,absent,none,n/a,material,no,no,,"with her National Women's Soccer League team, the Seattle Reign,",no,no,yes
+H00148,human,female,1,4,absent,none,n/a,material,no,no,,awaiting trial.,no,no,yes
+H00007,human,female,1,1,subject,active,n/a,relational,no,no,,Not that she is averse to original material.,yes,no,yes
+H00094,human,female,1,1,subject,active,n/a,material,yes,no,,"Ashamed Cho could face up to 15 years in prison if found guilty of all four charges she faces, according to Attorney Park Jin Nyoung, spokesman for the Korean Bar Association.",yes,yes,no
+H00320,human,male,1,1,subject,passive,no,material,no,no,,"Afterwards, John Hay, the show’s Commissioning Editor, told Femail that he’s been waking up with the tunes in his head",yes,yes,no
+H00320,human,male,1,2,absent,none,n/a,material,no,no,,walking down the street humming them.,no,no,yes
+H00060,human,female,1,1,subject,active,n/a,material,no,yes,,"Carole had married her first husband Steven Davis in 1973 when she was about 20,",yes,yes,no
+H00060,human,female,1,2,absent,none,n/a,material,no,no,,they later split.,no,no,yes
+H00124,human,female,1,1,absent,none,n/a,relational,no,yes,,"It's hard to imagine Meryl Streep having second thoughts about tackling any role,",no,no,yes
+H00124,human,female,1,2,subject,active,n/a,material,no,yes,,"the actress admits that she had doubts about ""Doubt,"" her newest project.",yes,no,yes
+H00246,human,male,1,1,subject,active,n/a,mental,no,no,,"'All I am is a cash cow, a walking ATM,' he said.",yes,yes,no
+H00201,human,male,1,1,subject,active,n/a,relational,no,no,,"He's a disgrace to his country, his race,",yes,no,yes
+H00201,human,male,1,2,subject,active,n/a,material,no,no,,what he laughably describes as his profession.',yes,no,yes
+H00056,human,female,1,1,subject,active,n/a,mental,no,no,,"Speaking to Daily Mail Australia, Ms Alavi's distressed co-worker said she didn't know 'how",yes,yes,no
+H00056,human,female,1,2,absent,none,n/a,material,no,no,,why this happened.',no,no,yes
+H00171,human,female,1,1,subject,active,n/a,mental,no,yes,,"Speaking about the treatment, she said",yes,yes,no
+H00171,human,female,1,2,absent,none,n/a,material,no,no,,'I have tried,no,no,yes
+H00171,human,female,1,3,absent,none,n/a,material,no,no,,loved lipo - it was great for me,no,no,yes
+H00171,human,female,1,4,absent,none,n/a,material,no,no,,really made me feel good in my body.',no,no,yes
+H00336,human,male,1,1,absent,none,n/a,mental,no,no,,Nigerian police said Yusuf had been shot,no,yes,yes
+H00336,human,male,1,2,absent,none,n/a,material,no,no,,"trying to escape,",no,no,yes
+H00336,human,male,1,3,subject,passive,no,material,no,yes,,other reports said he had been summarily executed.,yes,no,yes
+H00242,human,male,1,1,subject,active,n/a,mental,yes,yes,,He will say the same over the coming weeks as he starts to dream about finally getting his hands on the trophy he has coveted all his life.,yes,yes,no
+H00025,human,female,1,1,subject,active,n/a,mental,no,no,,She said,yes,yes,no
+H00025,human,female,1,2,absent,none,n/a,material,yes,yes,,'Maybe I'll do Vegas next.,no,no,yes
+H00318,human,male,1,1,subject,active,n/a,material,no,yes,,"James Murdoch insisted Tuesday that he knew little about the scale of phone hacking by people working for the News of the World, as he continued his fight to limit the damage the scandal does to him",yes,yes,no
+H00318,human,male,1,2,absent,none,n/a,material,no,no,,his family's media empire.,no,no,yes
+H00104,human,female,1,1,absent,none,n/a,material,no,no,,The new soldier is living the Hollywood dream,no,no,yes
+H00104,human,female,1,2,subject,active,n/a,material,no,no,,She won a Grammy Award.,yes,yes,no
+H00134,human,female,1,1,absent,none,n/a,material,no,no,,"""I'm just here on my own, happy",no,no,yes
+H00134,human,female,1,2,subject,active,n/a,mental,no,no,,"having a good time with Josh,"" she said.",yes,yes,no
+H00101,human,female,1,2,subject,active,n/a,material,no,no,,Coleen admitted during an . interview in the Daily Mirror earlier this month that she was looking .,yes,yes,no
+H00063,human,female,1,1,subject,passive,no,mental,no,no,,"Valeria Lukyanova said she was attacked outside her home in Odessa, Ukraine on Halloween night .",yes,yes,no
+H00168,human,female,1,1,absent,none,n/a,material,no,no,,Keri Anne-Payne talks through the mental,no,no,yes
+H00168,human,female,1,2,subject,active,n/a,material,no,no,,physical training that she has undergone on her Olympic journey .,yes,no,yes
+H00267,human,male,1,1,absent,none,n/a,material,no,no,,"Thompson, who drove a Porsche",no,no,yes
+H00267,human,male,1,2,subject,active,n/a,mental,no,no,,"lived in a five-bedroom home with his wife, said he had run up debts of more than £120,000",yes,yes,no
+H00267,human,male,1,3,absent,none,n/a,material,no,no,,a career in the armed forces,no,no,yes
+H00267,human,male,1,4,absent,none,n/a,material,no,no,,the police.,no,no,yes
+H00198,human,male,1,1,subject,active,n/a,material,no,yes,,"The wills show John Cadbury, who created the eponymous chocolate empire, left a personal estate of 43,773 pounds (around 4.2 million pounds today) -- $69,000 ($6.6 million) -- when he died in 1889.",yes,yes,no
+H00319,human,male,1,2,subject,active,n/a,material,no,no,,he hasn't sworn off public life completely.,yes,yes,no
+H00258,human,male,1,1,subject,active,n/a,material,no,no,,He sustained his injuries doing the sport he loved most.,yes,yes,no
+H00061,human,female,1,1,subject,active,n/a,mental,no,no,,"As for Oscar buzz surrounding her performance, the actress said she's keeping her fingers crossed for Streep",yes,yes,no
+H00061,human,female,1,2,absent,none,n/a,material,no,no,,"Davis to be nominated for their roles in ""Doubt""",no,no,yes
+H00061,human,female,1,3,absent,none,n/a,material,no,no,,has no expectations for herself.,no,no,yes
+H00132,human,female,1,1,absent,none,n/a,material,no,no,,"On New Year's Day, Windy Hill lay in a hospital bed",no,yes,yes
+H00132,human,female,1,2,subject,active,n/a,material,no,no,,described to her doctor the feeling she'd been having.,yes,no,yes
+H00176,human,female,1,1,subject,active,n/a,material,no,no,,"Despite showcasing an enviably honed physique in the campaign shots, modest Amy reveals that she admires another star's body.",yes,yes,no
+H00085,human,female,1,1,subject,active,n/a,material,no,yes,,"She reportedly woke up at 5am every morning, spending at least two hours applying false eyelashes, false hair extensions, layers of foundation",yes,yes,no
+H00085,human,female,1,2,absent,none,n/a,material,no,no,,other makeup products in a bid to look like a Barbie doll.,no,no,yes
+H00009,human,female,1,2,subject,active,n/a,material,no,no,,"Brown shot back that ""she calls it fear-mongering",yes,no,yes
+H00009,human,female,1,3,absent,none,n/a,material,no,no,,"I call it rational fear.""",no,yes,yes
+H00172,human,female,1,1,subject,active,n/a,mental,no,no,,(Louise said she didn't think she had.),yes,yes,no
+H00145,human,female,1,1,absent,none,n/a,material,no,no,,another picture of her,no,no,yes
+H00145,human,female,1,2,subject,active,n/a,material,no,no,,"a friend, she later tweeted",yes,yes,no
+H00145,human,female,1,3,absent,none,n/a,material,no,no,,'My brothers .,no,no,yes
+H00341,human,male,1,1,subject,active,n/a,material,yes,no,,Right-back Avdija Vrsajevic drags the ball wide with a shot when he could have easily played the ball across the six-yard box,yes,yes,no
+H00341,human,male,1,2,absent,none,n/a,material,no,no,,into the path of Dzeko.,no,no,yes
+H00019,human,female,1,1,subject,active,n/a,mental,no,no,,"'All the photos of me is like me ""coming out"",' she said.",yes,yes,no
+H00002,human,female,1,1,subject,passive,no,mental,yes,no,,Paramedics said the hole in Shauna Tiaffay's head was so deep they first thought she may have been shot.,yes,yes,no
+H00248,human,male,1,1,subject,active,n/a,material,no,no,,Wildman insisted he did not take part in the raid at the museum which took place in the evening of April 5 last year.,yes,yes,no
+H00059,human,female,1,1,subject,active,n/a,material,no,no,,She,yes,no,yes
+H00059,human,female,1,2,absent,none,n/a,material,no,no,,"her husband, Lawrence, lived together in their flat, in Haverstock Hill, Belsize Park, north London, for 48 years, until his death in 1994.",no,yes,yes
+H00225,human,male,1,1,subject,active,n/a,material,no,no,,"In a similar fashion, he took her to McDonald's, took her to the mall",yes,yes,no
+H00225,human,male,1,2,absent,none,n/a,material,no,no,,made her feel safe.,no,no,yes
+H00006,human,female,1,1,absent,none,n/a,mental,no,no,,Ms Montenegro said the temptation of making good money,no,yes,yes
+H00006,human,female,1,2,subject,active,n/a,material,yes,no,,escorting was one she could not refuse .,yes,no,yes
+H00087,human,female,1,1,absent,none,n/a,material,no,no,,Linda vehemently dismisses the claims,no,yes,yes
+H00087,human,female,1,2,subject,active,n/a,material,no,no,,says she always took care of her appearance.,yes,no,yes
+H00232,human,male,1,1,absent,none,n/a,material,no,no,,First --,no,no,yes
+H00232,human,male,1,2,subject,active,n/a,relational,no,no,,"most important -- did Pistorius know Steenkamp was behind the door in his bathroom when he fired four shots through it on Valentine's Day last year, killing her?",yes,no,yes
+H00353,human,male,1,1,subject,active,n/a,material,no,no,,"He . also reflected on the weeklong trip, recalling some of the folks he met .",yes,yes,no
+H00307,human,male,1,1,subject,active,n/a,mental,no,no,,"from Pernetti, Barchi said he 'agreed with",yes,yes,no
+H00307,human,male,1,2,absent,none,n/a,material,no,no,,supported his .,no,no,yes
+H00031,human,female,1,1,subject,passive,no,material,no,no,,She was initially diagnosed with cervical cancer in March last year,yes,yes,no
+H00031,human,female,1,2,absent,none,n/a,material,no,no,,an annual smear test.,no,no,yes
+H00116,human,female,1,1,subject,active,n/a,material,no,no,,"She left the store when no staff member came to help,",yes,yes,no
+H00116,human,female,1,2,subject,active,n/a,material,no,no,,when she contacted Tesco to complain she was told the fruit was age restricted,yes,no,yes
+H00116,human,female,1,3,absent,none,n/a,material,yes,no,,it can be turned into alcohol.,no,no,yes
+H00133,human,female,1,1,subject,active,n/a,mental,no,no,,"She said they introduced her to older men, cars, alcohol cigarettes",yes,yes,no
+H00133,human,female,1,2,absent,none,n/a,material,no,no,,cannabis.,no,no,yes
+H00308,human,male,1,1,subject,active,n/a,mental,no,no,,Robertson said that he expected Heathrow to be fully open on Thursday,yes,yes,no
+H00308,human,male,1,2,absent,none,n/a,material,yes,no,,"that the airport was ""as prepared as we can be"" for further predicted snow later this week.",no,no,yes
+H00191,human,male,1,1,absent,none,n/a,material,no,yes,,Perhaps Carswell had the courage to jump ship,no,yes,yes
+H00191,human,male,1,2,subject,active,n/a,material,no,no,,"four years ago he romped home in Clacton with a 12,500 majority.",yes,no,yes
+H00250,human,male,1,1,absent,none,n/a,material,no,no,,"His sentence was scheduled to end in 2009,",no,yes,yes
+H00250,human,male,1,2,subject,active,n/a,material,no,no,,he was out of prison on parole.,yes,no,yes
+H00321,human,male,1,1,subject,passive,no,material,no,no,,He is suspected of two double homicides .,yes,yes,no
+H00293,human,male,1,1,subject,active,n/a,material,no,no,,He studied history at the University of East Anglia,yes,yes,no
+H00293,human,male,1,2,absent,none,n/a,material,no,no,,"King’s College, London,",no,no,yes
+H00293,human,male,1,3,absent,none,n/a,material,no,no,,worked in television,no,no,yes
+H00293,human,male,1,4,absent,none,n/a,material,no,no,,investment banking,no,no,yes
+H00293,human,male,1,5,absent,none,n/a,material,no,no,,politics.,no,no,yes
+H00189,human,male,1,1,absent,none,n/a,material,no,no,,"Let's say that somewhere in the world American intelligence comes across an individual it has good reason to believe is an al Qaeda operative,",no,yes,yes
+H00189,human,male,1,2,subject,active,n/a,material,no,no,,he has a cell phone in his possession.,yes,no,yes
+H00055,human,female,1,1,subject,active,n/a,mental,no,no,,She said,yes,yes,no
+H00055,human,female,1,2,absent,none,n/a,material,no,no,,'I was running,no,no,yes
+H00055,human,female,1,3,absent,none,n/a,material,no,no,,circuit training constantly.,no,no,yes
+H00234,human,male,1,1,subject,active,n/a,material,no,no,,He has no racist feelings,yes,yes,no
+H00234,human,male,1,2,subject,active,n/a,material,no,no,,is deeply ashamed of what he did.',yes,no,yes
+H00243,human,male,1,1,subject,passive,no,material,no,no,,He was described as a 'calm,yes,yes,no
+H00243,human,male,1,2,absent,none,n/a,material,no,no,,mellow' person who 'thought everything through'.,no,no,yes
+H00188,human,male,1,1,subject,active,n/a,mental,no,no,,"As Putin returned from the G20 in Brisbane where he was under siege from Western leaders, Poroshenko claimed his army is now better prepared to fight to defend its territory than when the conflict began.",yes,yes,no
+H00204,human,male,1,1,subject,passive,no,material,no,no,,He was included in the line-up for a famous photograph with a host of BBC stars outside Broadcasting House that year.,yes,yes,no
+H00043,human,female,1,2,subject,active,n/a,material,no,no,,she is doing it the hard way.,yes,yes,no
+H00351,human,male,1,1,absent,none,n/a,material,no,no,,Scheidt was convicted in August 2012 of two counts of practicing medicine without a license,no,yes,yes
+H00351,human,male,1,2,subject,active,n/a,material,no,no,,"two counts of impersonating a physician's assistant in August 2011, when he was 17 .",yes,no,yes
+H00122,human,female,1,1,absent,none,n/a,material,no,no,,Jerry Hall in 2005 (left),no,no,yes
+H00122,human,female,1,3,subject,active,n/a,material,no,no,,as she launches new e-readers by Sony in 2008 (right) Arriving for The Noble Gift Gala in 2009 (left),yes,yes,no
+H00122,human,female,1,4,absent,none,n/a,material,no,no,,launching Invisible Zinc suncare range (right) in 2010 .,no,no,yes
+H00170,human,female,1,1,subject,passive,no,material,no,no,,"At age 30, she was diagnosed with bipolar disorder.",yes,yes,no
+H00033,human,female,1,1,subject,active,n/a,mental,no,no,,"Everybody was crying inside,"" she said.",yes,yes,no
+H00284,human,male,1,1,subject,active,n/a,material,no,no,,He added,yes,yes,no
+H00284,human,male,1,2,absent,none,n/a,material,no,no,,'It's a bummer for us ending on the losing side,no,no,yes
+H00284,human,male,1,3,absent,none,n/a,material,no,no,,"a game of 120 minutes that gave everything to the fans, a real drama, a thriller.",no,no,yes
+H00018,human,female,1,1,subject,active,n/a,material,no,no,,"She also repeated her outspoken criticism of the government of Myanmar, also known by its former name of Burma, which has come under fire for imprisoning pro-democracy activist Aung San Suu Kyi.",yes,yes,no
+H00125,human,female,1,1,subject,active,n/a,relational,no,no,,It was unclear to whom she was referring.,yes,no,yes
+H00022,human,female,1,1,subject,active,n/a,material,no,no,,"jibe, she tweeted",yes,yes,no
+H00022,human,female,1,2,absent,none,n/a,material,no,yes,,"‘Teamwork is also about giving the people around you, .",no,no,yes
+H00021,human,female,1,1,subject,active,n/a,material,no,no,,"""It was always them together, all five of them always together,"" she told CNN affiliate KVII.",yes,yes,no
+H00146,human,female,1,1,absent,none,n/a,mental,no,no,,"Mrs Bowness-Major, who works as a florist, said",no,yes,yes
+H00146,human,female,1,2,subject,active,n/a,material,yes,no,,‘She can't go on public transport in case someone has a cold,yes,no,yes
+H00146,human,female,1,3,absent,none,n/a,material,no,no,,sneezes on her.,no,no,yes
+H00179,human,female,1,1,absent,none,n/a,material,no,no,,Rebecca Adlington tweeted a picture of her Olympic Village bedroom,no,yes,yes
+H00179,human,female,1,2,subject,active,n/a,material,no,no,,worried that she had overfilled it with her belongings .,yes,no,yes
+H00015,human,female,1,2,subject,active,n/a,relational,no,no,,there's one thing she does know.,yes,yes,no
+H00062,human,female,1,1,absent,none,n/a,relational,no,no,,"LOS ANGELES, California (CNN) -- Janelle Monae is a girl from another planet,",no,no,yes
+H00062,human,female,1,2,subject,active,n/a,material,no,no,,she's invading your world.,yes,no,yes
+H00079,human,female,1,2,absent,none,n/a,relational,no,no,,"weeks later, back in February, the girl was back in hospital fighting for her life",no,no,yes
+H00079,human,female,1,3,subject,active,n/a,material,no,no,,she broke out in rash-like bruises,yes,no,yes
+H00079,human,female,1,4,absent,none,n/a,material,no,no,,was bleeding from the nose,no,no,yes
+H00079,human,female,1,5,absent,none,n/a,material,no,no,,gums.,no,no,yes
+H00249,human,male,1,1,absent,none,n/a,material,yes,no,,Kastigar would not elaborate on what else was in the bag,no,yes,yes
+H00249,human,male,1,2,absent,none,n/a,material,no,no,,"said ""it gives us some indication to where (Loughner) was",no,no,yes
+H00249,human,male,1,3,subject,active,n/a,material,no,no,,"what he was doing.""",yes,no,yes
+H00212,human,male,1,1,subject,active,n/a,mental,no,no,,"""There are so many Iraqi groups all over Facebook,"" he said.",yes,yes,no
+H00005,human,female,1,1,subject,active,n/a,relational,no,no,,She is a friend,yes,no,yes
+H00005,human,female,1,2,absent,none,n/a,material,no,no,,some-one I admire with a fascinating story.,no,no,yes
+H00332,human,male,1,1,subject,active,n/a,material,no,no,,The grandfather grabbed the youngster by the shoulders as he slipped down,yes,yes,no
+H00332,human,male,1,2,absent,none,n/a,material,no,no,,was pulled in to the gap,no,no,yes
+H00332,human,male,1,3,absent,none,n/a,material,no,no,,became wedged .,no,no,yes
+H00083,human,female,1,1,absent,none,n/a,material,no,no,,Family,no,no,yes
+H00083,human,female,1,2,absent,none,n/a,mental,no,no,,"Her mother, also Mandy (right) said her daughter was 'brave'",no,yes,yes
+H00083,human,female,1,3,subject,active,n/a,material,no,no,,'stubborn' 'One night she had been at the youth centre,yes,no,yes
+H00083,human,female,1,4,absent,none,n/a,material,no,no,,was walking home.,no,no,yes
+H00154,human,female,1,1,absent,none,n/a,material,no,no,,"Ms Willett, who is mother to Charlie, eight,",no,no,yes
+H00154,human,female,1,2,absent,none,n/a,material,no,no,,"Kaleb, three, has undergone surgery, chemotherapy",no,yes,yes
+H00154,human,female,1,3,absent,none,n/a,material,no,no,,radiotherapy,no,no,yes
+H00154,human,female,1,4,subject,active,n/a,material,no,yes,,has been warned she is unlikely to survive until 2016.,yes,no,yes
+H00207,human,male,1,1,subject,active,n/a,relational,yes,yes,,"He's the kind of person who, he says, can hack into the most sophisticated computer system,",yes,no,yes
+H00207,human,male,1,2,absent,none,n/a,material,no,no,,"forget to show up for an interview,",no,no,yes
+H00207,human,male,1,3,absent,none,n/a,material,no,no,,cancel at the last minute.,no,no,yes
+H00227,human,male,1,1,subject,passive,yes,material,no,no,,"On Sunday, he was mobbed by fans - mostly young Panamanian girls -",yes,yes,no
+H00227,human,male,1,2,subject,active,n/a,material,no,no,,it became public that he was chilling out in Panama .,yes,no,yes
+H00276,human,male,1,1,subject,active,n/a,material,no,no,,When he first saw the video of coach .,yes,yes,no
+H00042,human,female,1,1,absent,none,n/a,material,no,no,,The actress,no,no,yes
+H00042,human,female,1,2,subject,active,n/a,material,no,no,,writer got her first break on ITV’s diet club drama Fat Friends in 2000 where she also struck up a friendship with co-star James Corden.,yes,yes,no
+H00096,human,female,1,1,subject,active,n/a,material,no,no,,She needs to see me eating,yes,yes,no
+H00096,human,female,1,2,absent,none,n/a,material,no,no,,being happy.,no,no,yes
+H00239,human,male,1,2,subject,active,n/a,material,yes,no,,"tomorrow I will be there to see this house come down,' he told WOIO-TV.",yes,yes,no
+H00051,human,female,1,1,subject,active,n/a,material,no,no,,If she was right,yes,no,yes
+H00051,human,female,1,2,absent,none,n/a,material,no,no,,"it was not just an overactive hand-to-mouth cake thing, then I better call my doctor pronto to schedule my own test.",no,yes,yes
+H00156,human,female,1,1,absent,none,n/a,material,no,yes,,Audio of the call posted online suggests a woman spoke briefly to the DJs,no,yes,yes
+H00156,human,female,1,2,subject,active,n/a,material,no,no,,she put the call through early Tuesday morning to the ward where the Duchess of Cambridge was being treated for acute morning sickness.,yes,no,yes
+H00200,human,male,1,1,subject,active,n/a,mental,no,no,,"again for filming ... not any more for climbing,' he said, adding he did .",yes,yes,no
+H00164,human,female,1,1,subject,active,n/a,relational,no,yes,,What is most shocking about Giffords now is how much she looks like her old self.,yes,no,yes
+H00077,human,female,1,1,absent,none,n/a,material,no,no,,A personal trainer collapsed in court,no,yes,yes
+H00077,human,female,1,2,subject,passive,no,material,no,no,,she was jailed for having sex with a 14-year-old boy during a two year affair.,yes,no,yes
+H00238,human,male,1,1,subject,passive,no,material,no,no,,He had been accused of sexually fondling another girl.,yes,yes,no
+H00028,human,female,1,1,subject,active,n/a,material,yes,no,,Doctors want to get her cancer into remission with chemotherapy so that she can receive a bone marrow transplant when the time comes.,yes,yes,no
+H00130,human,female,1,1,absent,none,n/a,material,no,no,,Tragic,no,no,yes
+H00130,human,female,1,2,absent,none,n/a,material,no,no,,"Stacey Bowman, 25, died in her sleep",no,yes,yes
+H00130,human,female,1,3,subject,active,n/a,material,no,no,,she was five months pregnant with her second child.,yes,no,yes
+H00046,human,female,1,1,subject,active,n/a,mental,no,no,,She said,yes,yes,no
+H00046,human,female,1,2,absent,none,n/a,material,no,no,,‘There’s no point getting angry,no,no,yes
+H00046,human,female,1,3,absent,none,n/a,material,no,no,,asking “why me?” - that’s not going to get you anywhere.’,no,no,yes
+H00196,human,male,1,1,subject,active,n/a,mental,no,yes,,A Marine veteran jailed in Mexico on weapons charges for allegedly bringing guns across the border said he never intended to leave the country,yes,yes,no
+H00196,human,male,1,2,absent,none,n/a,material,no,no,,missed an exit when heading to meet friends in a border town.,no,no,yes
+H00129,human,female,1,1,subject,active,n/a,relational,no,no,,"The 56-year-old is an object-sexual, meaning that she has romantic feelings towards inanimate objects.",yes,no,yes
+H00068,human,female,1,1,subject,active,n/a,material,no,no,,"""She took it all public, didn't she?""",yes,yes,no
+H00269,human,male,1,1,subject,active,n/a,mental,yes,no,,"""I'd so much rather get home tonight,"" he said.",yes,yes,no
+H00224,human,male,1,1,subject,active,n/a,material,no,yes,,"He answers Sitton's questions with apparent ease, not as a man who had committed a heinous crime.",yes,yes,no
+H00001,human,female,1,1,absent,none,n/a,material,no,no,,Last year in October,no,no,yes
+H00001,human,female,1,2,absent,none,n/a,material,no,no,,November they parted,no,no,yes
+H00001,human,female,1,3,subject,active,n/a,mental,no,no,,"the relationship had deteriorated so much, she said.",yes,yes,no
+H00297,human,male,1,1,subject,passive,no,material,no,no,,He was arraigned on January 12 on eight counts relating to distributing child porn,yes,yes,no
+H00297,human,male,1,2,absent,none,n/a,material,no,no,,"was held on $250,000 bond.",no,no,yes
+H00278,human,male,1,1,absent,none,n/a,material,no,no,,"In May 2014, 67-year-old Stanton Deeley died in his jail cell by suicide just one hour",no,yes,yes
+H00278,human,male,1,2,subject,active,n/a,material,no,no,,"he was going to accept a plea deal for burglary charges, .",yes,no,yes
+H00339,human,male,1,1,subject,active,n/a,material,no,no,,"'I am standing strong - we are standing strong,' he wrote.",yes,yes,no
+H00076,human,female,1,1,absent,none,n/a,material,no,no,,Now doctors have upped her dosage,no,yes,yes
+H00076,human,female,1,2,subject,active,n/a,material,yes,no,,hope she will not suffer an infection that will set her back.,yes,no,yes
+H00240,human,male,1,1,subject,active,n/a,mental,yes,no,,"Roger Daltrey, the frontman of The Who, has said he will ‘never, ever’ forgive Labour for their policies on immigration.",yes,yes,no
+H00282,human,male,1,1,subject,active,n/a,material,no,no,,"He told the Arab-language television network Al-Jazeera on Sunday that the accusations are ""clearly a smear campaign.""",yes,yes,no
+H00165,human,female,1,1,absent,none,n/a,relational,no,no,,"shelf, goin' like, I'm like, what the...' Genius",no,no,yes
+H00165,human,female,1,2,subject,active,n/a,material,yes,no,,June is seen doing 'quick math' in order to calculate the saving she can make on jars of mustard .,yes,no,yes
+H00197,human,male,1,2,absent,none,n/a,material,no,yes,,allegedly shooting his dad,no,no,yes
+H00197,human,male,1,3,absent,none,n/a,material,no,no,,"brother as they watched television, Rushing smothered his brother to death",no,yes,yes
+H00197,human,male,1,4,subject,active,n/a,material,no,no,,"he was not ""bleeding out fast enough,"" according to an affidavit filed in an Oklahoma state court.",yes,no,yes
+H00069,human,female,1,1,absent,none,n/a,mental,no,no,,"Neighbours said they had been told the mother was stabbed to death,",no,yes,yes
+H00069,human,female,1,2,subject,active,n/a,material,no,no,,it was not confirmed how she died.,yes,no,yes
+H00193,human,male,1,1,subject,passive,yes,material,yes,no,,Michael Gove once joked that he’d rather be represented on the world stage by his dog than by Ed Miliband.,yes,yes,no
+H00268,human,male,1,1,subject,active,n/a,material,yes,no,,Pataki decided in the middle of his third term in office that he would not seek a fourth term.,yes,yes,no
+H00222,human,male,1,1,absent,none,n/a,material,no,no,,Confronted,no,no,yes
+H00222,human,male,1,2,absent,none,n/a,mental,no,no,,"questioned at the Raleigh airport on July 25, Greenoe initially said they were non-working samples that belonged to Jolie Rouge, according to the complaint,",no,yes,yes
+H00222,human,male,1,3,subject,active,n/a,material,no,no,,"later told authorities that he bought the weapons ""as a means to provide high quality firearms to his employees",yes,no,yes
+H00222,human,male,1,4,subject,active,n/a,material,yes,no,,"providing overseas maritime protection,"" since he could not buy high quality weapons overseas.",yes,no,yes
+H00030,human,female,1,1,absent,none,n/a,material,no,no,,"Ms Laing paid back £25,000 in the expenses scandal",no,yes,yes
+H00030,human,female,1,2,subject,active,n/a,material,no,no,,anger that she sold her state-funded second home for a £1million profit without paying capital gains tax.,yes,no,yes
+H00185,human,male,1,1,subject,active,n/a,mental,no,yes,,When asked about his subsequent tweets Gill said he was ‘being sarcastic’.,yes,yes,no
+H00261,human,male,1,1,subject,active,n/a,mental,no,no,,"'I am deeply convinced that Russia did not commit any violations of international law,' he said.",yes,yes,no
+H00003,human,female,1,2,subject,active,n/a,material,no,no,,"Muslim, she went to a Church of England school, where friends called her Emma.",yes,yes,no
+H00241,human,male,1,1,absent,none,n/a,material,no,no,,Balotelli has since found new love with model Fanny Neguesha,no,yes,yes
+H00241,human,male,1,2,absent,none,n/a,material,no,no,,has posted pictures of the two of them on his Twitter account as well as one showing 'his,no,no,yes
+H00241,human,male,1,3,absent,none,n/a,material,no,no,,hers' football shirts with their names on the back,no,no,yes
+H00241,human,male,1,4,subject,active,n/a,material,no,no,,"he has given her a £100,000 diamond engagement ring.",yes,no,yes
+H00142,human,female,1,1,subject,active,n/a,relational,no,no,,She is not a true pioneer.,yes,no,yes
+H00065,human,female,1,1,absent,none,n/a,material,no,no,,"The 75-year-old grandmother has been retired for years,",no,yes,yes
+H00065,human,female,1,2,subject,active,n/a,material,no,no,,she hasn't forgotten her skills,yes,no,yes
+H00065,human,female,1,3,absent,none,n/a,material,no,no,,definitely hasn't lost her nerve.,no,no,yes
+H00337,human,male,1,1,subject,active,n/a,material,no,no,,However Guardiola has ruled out a move back to his former side by stating he does not think he is the 'solution' for Barcelona.,yes,yes,no
+H00294,human,male,1,1,subject,active,n/a,material,no,no,,"World No. 1 Novak Djokovic clinched his 50th win of the season Wednesday as he beat rising star Dominic Thiem, 6-3 6-4.",yes,yes,no
+H00290,human,male,1,1,subject,active,n/a,mental,no,no,,"In one post, he said there hasn't been a day since the movie was released in 1993 that someone doesn't tell him how much they loved the film.",yes,yes,no
+H00098,human,female,1,1,subject,passive,no,material,no,no,,She was shaken up,yes,yes,no
+H00098,human,female,1,2,subject,active,n/a,material,no,no,,she wasn’t going to let it bother her.,yes,no,yes
+H00300,human,male,1,1,subject,active,n/a,material,no,no,,"Then, when he learned of Francis' role, he got angry.",yes,yes,no
+H00271,human,male,1,1,subject,active,n/a,material,no,yes,,I heard about the great things he was doing by himself with just a couple of friends.,yes,yes,no
+H00153,human,female,1,1,subject,active,n/a,material,no,no,,She added,yes,yes,no
+H00153,human,female,1,2,absent,none,n/a,material,no,no,,'The first Louboutin Bibi Pump I made was quite a learning experience.,no,no,yes
+H00264,human,male,1,1,subject,active,n/a,material,no,no,,"Mr Weininger from Rugby, Warkwickshire, admitted he bought the pudding to cheer himself up",yes,yes,no
+H00264,human,male,1,2,absent,none,n/a,material,no,no,,his relationship ended.,no,no,yes
+H00323,human,male,1,1,subject,active,n/a,mental,no,no,,He later said,yes,yes,no
+H00323,human,male,1,2,absent,none,n/a,material,no,no,,'This is the best moment of my life.,no,no,yes
+H00262,human,male,1,1,subject,active,n/a,material,no,no,,He then asked,yes,yes,no
+H00262,human,male,1,2,absent,none,n/a,material,no,no,,'Imagine your territory was infiltrated by death squads.,no,no,yes
+H00295,human,male,1,1,absent,none,n/a,material,no,no,,Platini's celebration,no,no,yes
+H00295,human,male,1,2,absent,none,n/a,material,no,no,,"scoring the penalty was widely criticized,",no,yes,yes
+H00295,human,male,1,3,subject,active,n/a,material,yes,no,,"he justified playing the game by arguing that if it had not gone ahead, it ""would have been the end of football.""",yes,no,yes
+H00161,human,female,1,1,subject,active,n/a,mental,no,no,,"In the program, she claims she saw two men attack him, adding",yes,yes,no
+H00161,human,female,1,2,absent,none,n/a,material,yes,no,,'No jury will convict me.,no,no,yes
+H00040,human,female,1,2,subject,active,n/a,material,no,no,,she soon learned her normal teenage experiences were going to be different from those of her friends.,yes,yes,no
+H00273,human,male,1,1,absent,none,n/a,material,no,no,,Bohn's defense team argued that Bohn was mentally ill,no,yes,yes
+H00273,human,male,1,2,subject,passive,yes,material,no,no,,he had been abandoned by his mother as a child.,yes,no,yes
+H00221,human,male,1,1,subject,active,n/a,material,no,no,,"Mr Vergara has told police that he does not want to file charges against Ms Benattia,",yes,yes,no
+H00221,human,male,1,2,subject,active,n/a,material,yes,no,,he may have to give evidence against her.,yes,no,yes
+H00352,human,male,1,1,subject,active,n/a,material,no,no,,The 29-year-old Swede added that he did not realise Markovic had been sent off until he was surrounded by angry Liverpool players.,yes,yes,no
+H00306,human,male,1,2,subject,active,n/a,material,yes,no,,"I thought 'he's cute, I wonder if I could ever run into him somewhere'.",yes,yes,no
+H00298,human,male,1,1,absent,none,n/a,material,no,no,,'It's citrus,no,no,yes
+H00298,human,male,1,2,subject,active,n/a,mental,no,no,,"apricot with some honeysuckle at the end,' he said.",yes,yes,no
+H00257,human,male,1,1,absent,none,n/a,material,no,no,,Ms Atherden added,no,yes,yes
+H00257,human,male,1,2,absent,none,n/a,material,no,no,,'I was shocked,no,no,yes
+H00257,human,male,1,3,subject,passive,no,material,no,no,,devastated to be told he had been killed.,yes,no,yes
+H00131,human,female,1,1,absent,none,n/a,material,no,no,,The former Miss Newcastle has teamed up with online retailer lasula.co.uk to offer shoppers the chance to copy her style,no,yes,yes
+H00131,human,female,1,2,subject,passive,no,material,yes,no,,show the world that she can be taken seriously.,yes,no,yes
+H00299,human,male,1,1,absent,none,n/a,material,no,no,,Tragic,no,no,yes
+H00299,human,male,1,2,subject,passive,no,material,no,no,,"AJ Underwood, 10, accidentally hanged himself from his bunk bed with a rope he had been given to practice knot tying for a Boy Scout merit badge .",yes,yes,no
+H00057,human,female,1,1,subject,active,n/a,mental,no,no,,"A CNN iReporter in Lagos, who gave her name as Jan Young, said Saturday she expected the race to be tight.",yes,yes,no
+H00093,human,female,1,1,subject,active,n/a,mental,no,no,,"""We are definitely on track to have a significantly different user experience by the end of this month -- that was our commitment -- than people experienced on October 1"" when the enrollment website launched, she said.",yes,yes,no
+H00103,human,female,1,1,subject,active,n/a,material,no,no,,"She now lives with a couple who adore her,",yes,yes,no
+H00103,human,female,1,2,absent,none,n/a,material,no,no,,"they send me photographs of Rosebud, who goes fishing",no,no,yes
+H00103,human,female,1,3,absent,none,n/a,material,no,no,,"camping,",no,no,yes
+H00103,human,female,1,4,absent,none,n/a,material,no,no,,lies in the sun snoring.,no,no,yes
+H00254,human,male,1,1,subject,active,n/a,material,no,no,,The advert starts with a man reading a newspaper as he takes a relaxing soak in the tub.,yes,yes,no
+H00329,human,male,1,1,absent,none,n/a,material,no,no,,"Messi rails against false speculation one moment,",no,yes,yes
+H00329,human,male,1,2,absent,none,n/a,material,no,no,,then uses the platform of the Ballon d’Or,no,no,yes
+H00329,human,male,1,3,subject,active,n/a,material,yes,no,,to announce that he does not know where he will be next season.,yes,no,yes
+H00110,human,female,1,1,absent,none,n/a,mental,no,no,,Her father said,no,yes,yes
+H00110,human,female,1,2,subject,active,n/a,material,yes,no,,‘She will often come into .,yes,no,yes
+H00150,human,female,1,1,absent,none,n/a,material,no,no,,"Aimee Copeland, pictured, a 24-year-old graduate student at the University of West Georgia, suffered a nasty cut on her thigh when her zipline broke",no,yes,yes
+H00150,human,female,1,2,subject,active,n/a,material,no,no,,"she plunged into the Little Tallapoosa River, east of Atlanta.",yes,no,yes
+H00192,human,male,1,1,absent,none,n/a,relational,no,no,,It was a gentle slope - nothing more than Box Hill near where we live -,no,no,yes
+H00192,human,male,1,2,subject,active,n/a,material,no,no,,he didn't need ropes,yes,no,yes
+H00192,human,male,1,3,absent,none,n/a,material,no,no,,a helmet.,no,no,yes
+H00135,human,female,1,1,subject,active,n/a,material,no,no,,'She has no convictions for any similar offences.,yes,yes,no
+H00127,human,female,1,1,subject,active,n/a,material,yes,yes,,"CNN spoke with a friend of Nancy Lanza who said she'd grown concerned about Adam lately, worrying about what she was going to do with her boy who was growing up, maybe in the way that all mothers worry.",yes,yes,no
+H00348,human,male,1,2,subject,active,n/a,relational,no,no,,"Jackie O hit back, saying what he did was considered 'bestiality, 'it's wrong'",yes,no,yes
+H00348,human,male,1,3,absent,none,n/a,material,no,no,,'illegal'.,no,no,yes
+H00311,human,male,1,1,absent,none,n/a,material,no,no,,Thinking outside the tool box,no,no,yes
+H00311,human,male,1,2,subject,active,n/a,material,no,no,,"Dan Paquette from Davidson, North Carolina, was caught on camera as he flipped his hammer in the air",yes,yes,no
+H00311,human,male,1,3,absent,none,n/a,material,no,no,,caught it perfectly in his belt holster .,no,no,yes
+H00074,human,female,1,1,subject,active,n/a,mental,no,no,,"""We extend the hand of friendship,"" she said.",yes,yes,no
+H00235,human,male,1,1,subject,active,n/a,material,no,no,,"This week, 18-year-old Southampton full back Luke Shaw proves he still has things to improve on defensively in his game, why Manchester United goal poacher Javier Hernandez is failing to find the back of the net",yes,yes,no
+H00235,human,male,1,2,absent,none,n/a,material,no,no,,Liverpool's 5ft 6in midfielder is more than a match against bigger opposition... ................................................................................................................................................,no,no,yes
+H00203,human,male,1,1,absent,none,n/a,material,no,no,,‘The operation went well,no,yes,yes
+H00203,human,male,1,2,subject,active,n/a,material,no,no,,"he was due to leave the hospital on Monday, February 16.",yes,no,yes
+H00256,human,male,1,1,subject,active,n/a,mental,no,no,,"'They made the right decision,' he said outside court.",yes,yes,no
+H00266,human,male,1,1,subject,active,n/a,material,no,no,,"Like many people in the doll community he has chosen to stay anonymous as enthusiasts often experience negative reactions,",yes,yes,no
+H00266,human,male,1,2,absent,none,n/a,material,no,no,,often choose to keep the dolls secretly in their homes .,no,no,yes
+H00270,human,male,1,1,subject,passive,no,material,no,no,,He was asked where the signatures came from,yes,yes,no
+H00270,human,male,1,2,absent,none,n/a,material,no,no,,told officers,no,no,yes
+H00270,human,male,1,3,absent,none,n/a,material,no,yes,,'I send the guys around to get those people to sign.',no,no,yes
+H00109,human,female,1,1,subject,passive,no,mental,no,no,,"She was shot four times in the head, Connecticut Chief Medical Examiner H. Wayne Carver said Tuesday.",yes,yes,no
+H00034,human,female,1,1,absent,none,n/a,relational,no,no,,allegations were a ‘complete fabrication’,no,no,yes
+H00034,human,female,1,2,subject,active,n/a,material,no,no,,that she had invented the .,yes,no,yes
+H00138,human,female,1,2,subject,active,n/a,material,no,no,,"she disclosed how her dogs chewed the TV remote control, causing the family to miss nearly 40 minutes of the two-hour Downton Abbey Christmas special.",yes,yes,no
+H00206,human,male,1,1,absent,none,n/a,material,no,no,,"Eventually, it emerges that the girl is, in fact, an elderly",no,yes,yes
+H00206,human,male,1,2,absent,none,n/a,material,no,no,,"reclusive landlady who lives above Tom, called Mrs Bartholomew,",no,no,yes
+H00206,human,male,1,3,subject,active,n/a,material,no,no,,he has been visiting events that were real in her past.,yes,no,yes
+H00162,human,female,1,1,subject,active,n/a,material,no,no,,"For her efforts, she won the Nobel Peace Prize in 1991.",yes,yes,no
+H00342,human,male,1,1,subject,active,n/a,mental,no,yes,,"Anthony Castro, in an exclusive NBC ""Today"" show interview, said he thinks that sentence is ""the best possible.""",yes,yes,no
+H00118,human,female,1,1,absent,none,n/a,mental,no,no,,Ms Alison said that Big W were 'repeat offenders' in selling products which sexualised young children,no,yes,yes
+H00118,human,female,1,2,subject,active,n/a,material,yes,no,,that she would like to see the retail giant withdraw the bauble shirt from their shelves .,yes,no,yes
+H00029,human,female,1,1,subject,passive,no,material,no,no,,She is pictured with Robert Bathurst as her on-screen husband David in the hit ITV series .,yes,yes,no
+H00167,human,female,1,1,subject,active,n/a,mental,no,no,,"When she asked how they intended to get such photos, Foster said the prosecutor told her",yes,yes,no
+H00167,human,female,1,2,absent,none,n/a,material,no,no,,"'We just take him down to the hospital, give him a shot",no,no,yes
+H00167,human,female,1,3,absent,none,n/a,material,no,no,,then take the pictures that we need.',no,no,yes
+H00330,human,male,1,1,subject,active,n/a,material,no,no,,"He saw Fryberg go up to a table of students, ""came up from behind ...",yes,no,yes
+H00330,human,male,1,2,absent,none,n/a,material,no,yes,,"fired about six bullets into the backs of them,"" Luton told CNN.",no,yes,yes
+H00139,human,female,1,2,absent,none,n/a,material,yes,no,,"today's artist must contend with issues such as being perceived as ""brands""",no,yes,yes
+H00139,human,female,1,3,subject,active,n/a,material,yes,no,,being judged for their personal lives - all of which she feels would probably have hampered the creativity of some of the legends like John Lennon,yes,no,yes
+H00139,human,female,1,4,absent,none,n/a,material,no,no,,others.,no,no,yes
+H00292,human,male,1,1,absent,none,n/a,material,no,no,,Armed,no,no,yes
+H00292,human,male,1,2,subject,active,n/a,material,no,no,,"A bodyguard, in plain clothes, was armed with a Taser as he guarded the Duchess in north London .",yes,no,yes
+H00237,human,male,1,1,absent,none,n/a,material,no,no,,Ms Roach argued with the manager,no,yes,yes
+H00237,human,male,1,2,subject,active,n/a,material,no,no,,claims he then told her,yes,no,yes
+H00237,human,male,1,3,subject,active,n/a,material,yes,no,,"'Well, he'll have to wear a warmer coat tomorrow.'",yes,no,yes
+H00334,human,male,1,1,absent,none,n/a,material,yes,no,,"‘We do not have any such premises [for sex parties] in Fareham, so I would want to see if it is a breach of licensing",no,no,yes
+H00334,human,male,1,2,subject,active,n/a,mental,no,no,,"planning,’ he said.",yes,yes,no
+H00350,human,male,1,1,subject,active,n/a,material,no,no,,"He died in 1898 leaving 4,145 pounds (450,000 pounds today) -- $6,500 ($710,000 today).",yes,yes,no
+H00274,human,male,1,1,subject,active,n/a,material,yes,no,,"On speaking to him, he learned Childers could have seen the creature responsible for the print.",yes,yes,no
+H00088,human,female,1,1,subject,active,n/a,mental,no,yes,,"said she was washing dishes at the time of the incident, SAPA reported.",yes,yes,no
+H00037,human,female,1,1,subject,active,n/a,material,yes,no,,"With a few sessions, she told Brown, she could obtain the shape she had always wanted.",yes,yes,no
+H00137,human,female,1,1,absent,none,n/a,material,no,no,,Pharaoh,no,no,yes
+H00137,human,female,1,2,absent,none,n/a,material,no,no,,Even,no,no,yes
+H00137,human,female,1,3,absent,none,n/a,material,no,no,,her wardrobe is now full of weird,no,no,yes
+H00137,human,female,1,4,subject,active,n/a,material,no,no,,"wonderful costumes, Mary hasn't broken the bank in her quest to be the best dressed - she has only spent $400 as many of her outfits were homemade .",yes,yes,no
+H00108,human,female,1,1,absent,none,n/a,material,no,no,,Scene,no,no,yes
+H00108,human,female,1,2,absent,none,n/a,material,no,no,,A pool of blood is seen in the bedroom,no,no,yes
+H00108,human,female,1,3,subject,active,n/a,material,no,yes,,the prosecution is alleging this is where she slit his throat .,yes,yes,no
+H00182,human,female,1,1,subject,active,n/a,mental,yes,no,,She said a former colleague later told her the boss had been worried she would poison the food.,yes,yes,no
+H00190,human,male,1,1,subject,active,n/a,material,no,no,,"be extradited is, I’m afraid, not accepted,’ he added.",yes,yes,no
+H00084,human,female,1,1,absent,none,n/a,material,no,no,,"'From what I gather, there’s no intention to charge",no,no,yes
+H00084,human,female,1,2,subject,active,n/a,mental,no,no,,"this was handled inefficiently,' she said.",yes,yes,no
+H00187,human,male,1,1,subject,active,n/a,mental,no,no,,"'He did everything naked,' Phillip said.",yes,yes,no
+H00233,human,male,1,1,subject,passive,no,material,no,no,,He has been denied access to any of his computer files since being arrested in April last year - since which time he has been unable to work as a barrister.,yes,yes,no
+H00322,human,male,1,1,absent,none,n/a,material,no,no,,A three-year-old girl abandoned at a Los Angeles shopping center on Saturday looks set to be reunited with her father,no,yes,yes
+H00322,human,male,1,2,subject,active,n/a,material,no,yes,,he contacted police following media reports about the girl's disappearance.,yes,no,yes
+H00316,human,male,1,1,subject,active,n/a,material,yes,no,,He will embark on the second stage of his round the world challenge next month when he attempts to swim the 15 miles from Jordan’s Gulf of Aqaba in Asia to the Egyptian coast in Africa.,yes,yes,no
+H00052,human,female,1,1,subject,active,n/a,material,no,no,,"The sweat-stained sheets of Thomas Eric Duncan, the first person diagnosed with Ebola in the United States, still on her bed, a woman quarantined in a Dallas apartment said Thursday that she desperately wants her family's nightmare to end.",yes,no,yes
+H00338,human,male,1,1,subject,active,n/a,material,yes,no,,Will he pick the wrong targets,yes,yes,no
+H00338,human,male,1,2,absent,none,n/a,material,no,no,,invite a South Korean retaliatory strike?,no,no,yes
+H00305,human,male,1,1,subject,active,n/a,material,no,no,,He added that the detective's life had been saved by his bullet-proof vest.,yes,yes,no
+H00149,human,female,1,1,subject,active,n/a,material,no,no,,She succumbed to the horrific disease in December 2010.,yes,yes,no
+H00117,human,female,1,1,absent,none,n/a,material,no,no,,'I rang her in a terrible state,no,yes,yes
+H00117,human,female,1,2,subject,active,n/a,material,no,no,,she arranged to see Archie,yes,no,yes
+H00117,human,female,1,3,absent,none,n/a,material,no,no,,ran a series of tests to put my mind at ease.,no,no,yes
+H00024,human,female,1,1,subject,active,n/a,mental,yes,no,,"She said, due to social pressure, young girls feel they must look a certain way -",yes,yes,no
+H00024,human,female,1,2,absent,none,n/a,material,yes,no,,so may reduce their food intake in a bid to be thin.,no,no,yes
+H00036,human,female,1,1,absent,none,n/a,material,no,no,,Won was imprisoned in 2008,no,yes,yes
+H00036,human,female,1,2,subject,active,n/a,material,no,no,,"a court ruled that she posed as an ordinary North Korean defector, then used sex to extract secrets from South Korean military officers.",yes,no,yes
+H00099,human,female,1,1,subject,passive,no,material,no,yes,,During Monday's editorial meeting -- in which Clinton was seeking the Daily News' endorsement ahead of Pennsylvania's April 22 primary -- she was asked about the apparent discrepancy.,yes,yes,no
+H00296,human,male,1,1,subject,active,n/a,mental,yes,no,,"In March, HSBC's CEO Stuart Gulliver had said he would ""fixate on costs"" in 2013.",yes,yes,no
+H00186,human,male,1,1,subject,active,n/a,material,no,no,,They are also looking into Mr Setzer's past to see if he had been .,yes,yes,no
+H00151,human,female,1,1,subject,passive,no,material,no,no,,"She was scheduled to perform in a revival of Stephen Sondheim's ""A Little Night Music"" this year, following a January benefit performance of the show.",yes,yes,no
+H00283,human,male,1,1,absent,none,n/a,material,no,no,,"Television replays show Suarez moving his head towards Chiellini, who responded by swinging an arm",no,yes,yes
+H00283,human,male,1,2,subject,passive,no,material,no,yes,,chasing the referee to apparently insist he had been bitten on his shoulder.,yes,no,yes
+H00041,human,female,1,1,subject,active,n/a,material,no,no,,She also told how she has been left without bones in her nose,yes,yes,no
+H00041,human,female,1,2,absent,none,n/a,material,no,no,,the attack in a hotel room in west London .,no,no,yes
+H00194,human,male,1,1,absent,none,n/a,material,no,no,,Sudden death,no,no,yes
+H00194,human,male,1,2,absent,none,n/a,relational,no,no,,Drummer Rigby was off-duty,no,no,yes
+H00194,human,male,1,3,subject,passive,no,material,no,no,,walking near to the barracks when he was attacked,yes,no,yes
+H00194,human,male,1,4,absent,none,n/a,material,no,no,,killed .,no,no,yes
+H00064,human,female,1,1,subject,active,n/a,material,no,yes,,"British PIP implant recipient Rowena Mackintosh, told CNN she was worried about the potential impact on her health.",yes,yes,no
+H00275,human,male,1,1,subject,active,n/a,mental,yes,no,,"""By the end of the month, we will have some very clear indications of what their intentions are,"" he said.",yes,yes,no
+H00236,human,male,1,1,absent,none,n/a,material,no,no,,"""What's horrifying is I have the same first",no,no,yes
+H00236,human,male,1,2,subject,active,n/a,mental,no,no,,"last name,"" he said.",yes,yes,no
+H00023,human,female,1,1,subject,active,n/a,relational,yes,no,,'The . need of the hour is to provide her good counselling so that she can .,yes,no,yes
+H00136,human,female,1,1,absent,none,n/a,material,no,no,,‘Steph went on to score two goals in that match,no,yes,yes
+H00136,human,female,1,2,subject,active,n/a,material,no,no,,"someone said, “That’s why she was playing”.’",yes,no,yes
+H00310,human,male,1,1,subject,active,n/a,material,no,no,,He missed supporting kids,yes,yes,no
+H00310,human,male,1,2,absent,none,n/a,material,no,no,,"being a part of their development, teaching them to love the game, to deal appropriately with the highs",no,no,yes
+H00310,human,male,1,3,absent,none,n/a,material,no,no,,the lows.,no,no,yes
+H00177,human,female,1,1,subject,active,n/a,relational,no,no,,When she was alive she was the centre of our family.,yes,no,yes
+H00184,human,male,1,2,subject,active,n/a,relational,yes,no,,"all he would say was, ""Get Away!",yes,no,yes
+H00050,human,female,1,1,absent,none,n/a,material,no,no,,"Model Myla Dalbesio has made history by landing a coveted Calvin Klein underwear campaign, even",no,yes,yes
+H00050,human,female,1,2,subject,passive,yes,material,no,no,,she is considered plus-size by the fashion industry's standards.,yes,no,yes
+H00195,human,male,1,2,subject,active,n/a,mental,no,no,,"opening the garage for her, Mr Gaskell said he returned to his other house to continue laying down flooring",yes,yes,no
+H00195,human,male,1,3,absent,none,n/a,material,no,no,,was startled to later find his ex-wife in the kitchen.,no,no,yes
+H00340,human,male,1,1,subject,active,n/a,material,no,no,,When Powers googled his own name he was stunned to find anonymous posts on Cheaterville.com accusing him of being unfaithful .,yes,no,yes
+H00347,human,male,1,1,subject,active,n/a,relational,no,no,,He was a grafter for .,yes,no,yes
+H00173,human,female,1,2,absent,none,n/a,material,no,no,,her hair is now growing back,no,no,yes
+H00173,human,female,1,3,subject,active,n/a,material,no,yes,,she is once again chasing around,yes,no,yes
+H00173,human,female,1,4,subject,active,n/a,material,no,no,,"her three youngest children, Mrs Bachini is realistic - she still has cancer.",yes,yes,no
+H00111,human,female,1,1,subject,active,n/a,material,no,no,,"'I don't want you standing where I am today,' she added.",yes,yes,no
+H00080,human,female,1,1,absent,none,n/a,material,no,no,,New beginning,no,no,yes
+H00080,human,female,1,2,absent,none,n/a,material,no,no,,"Bartiromo's contract with CNBC expires November 24,",no,no,yes
+H00080,human,female,1,3,subject,active,n/a,material,yes,no,,which she will move to Fox Business Network .,yes,no,yes
+H00327,human,male,1,1,absent,none,n/a,material,no,no,,"""The victim went to lie down",no,no,yes
+H00327,human,male,1,2,subject,active,n/a,mental,no,no,,"he woke up tied to the bed with his wife tugging his clothes off,"" police said.",yes,yes,no
+H00175,human,female,1,1,absent,none,n/a,material,no,no,,Ros-Lehtinen also urged the State Department to work incessantly to reunite Hammar with his family,no,yes,yes
+H00175,human,female,1,2,subject,active,n/a,material,no,no,,said she's disappointed the agency has not told her what efforts have been made.,yes,no,yes
+H00343,human,male,1,1,absent,none,n/a,material,no,no,,"censorious than any examiner, school teacher,",no,no,yes
+H00343,human,male,1,2,subject,active,n/a,mental,no,no,,"parent,’ he said.",yes,yes,no
+H00082,human,female,1,1,subject,active,n/a,material,no,no,,She added,yes,yes,no
+H00082,human,female,1,2,absent,none,n/a,material,no,yes,,"‘E-cigarettes are likely to be gateway devices for nicotine addiction among youth, opening up a whole new market for tobacco.’",no,no,yes
+H00004,human,female,1,1,absent,none,n/a,material,no,no,,"The military had set up a flood relief center, """,no,no,yes
+H00004,human,female,1,2,subject,active,n/a,mental,no,no,,"now even that has water coming in it,"" she said.",yes,yes,no
+H00143,human,female,1,1,subject,active,n/a,material,no,no,,she created a 'Go Go Juice' mixture of Mountain Dew,yes,yes,no
+H00143,human,female,1,2,absent,none,n/a,material,no,no,,Red Bull,no,no,yes
+H00143,human,female,1,3,absent,none,n/a,material,no,no,,15 bags of Pixy Stix - tubes of powdered sugar often known as 'pageant .,no,no,yes
+H00302,human,male,1,1,subject,active,n/a,material,no,no,,"the various ads he, Fishburne",yes,no,yes
+H00302,human,male,1,2,absent,none,n/a,material,no,no,,"even Morgan Freeman have starred in, .",no,no,yes
+H00230,human,male,1,1,subject,active,n/a,material,yes,no,,He won’t want to upset her too much.,yes,yes,no
+H00113,human,female,1,1,subject,active,n/a,material,no,yes,,"She is going on about soul searching, hearts broken, crying in the dark, time passing",yes,yes,no
+H00113,human,female,1,2,absent,none,n/a,material,no,yes,,that kind of baloney.,no,no,yes
+H00215,human,male,1,1,subject,active,n/a,material,no,no,,He suffered a traumatic head injury,yes,yes,no
+H00215,human,male,1,2,absent,none,n/a,material,no,no,,"a cardiac arrest,",no,no,yes
+H00215,human,male,1,3,absent,none,n/a,material,no,no,,was later pronounced dead by paramedics.,no,no,yes
+H00346,human,male,1,1,subject,active,n/a,mental,yes,no,,"'I'd be put straight into police custody if I went back,' he said.",yes,yes,no
+H00102,human,female,1,1,subject,active,n/a,material,no,no,,She wants [the nation to have] a peaceful transition to a democracy,yes,yes,no
+H00102,human,female,1,2,absent,none,n/a,material,no,no,,to have the chance for Burma to really build itself [into] a very wealthy,no,no,yes
+H00102,human,female,1,3,absent,none,n/a,material,no,no,,"educated nation.""",no,no,yes
+H00288,human,male,1,1,subject,active,n/a,material,no,no,,He worked to live,yes,yes,no
+H00288,human,male,1,2,absent,none,n/a,material,yes,no,,"would spend his time, when not with his family, out with friends at the club",no,no,yes
+H00288,human,male,1,3,absent,none,n/a,material,no,no,,enjoying one of his many hobbies.,no,no,yes
+H00014,human,female,1,1,subject,active,n/a,mental,no,yes,,"Lohan said she was ""kind of numb"" when Sautner sentenced her to 120 days in jail",yes,yes,no
+H00014,human,female,1,2,absent,none,n/a,material,no,no,,480 hours of community service.,no,no,yes
+H00309,human,male,1,2,absent,none,n/a,material,no,no,,"becoming one of the stars of the 2014 World Cup in Brazil, Rodriguez left the French side to join Champions League winners Real Madrid,",no,yes,yes
+H00309,human,male,1,3,subject,active,n/a,material,no,no,,he won the Club World Cup over the weekend.,yes,no,yes
+H00259,human,male,1,1,subject,active,n/a,material,no,no,,"Anthony Castro, Ariel's son, told MailOnline last week that he fears his father targeted Gina, then 14,",yes,yes,no
+H00259,human,male,1,2,absent,none,n/a,material,no,no,,of her relationship with Arlene.,no,no,yes
+H00120,human,female,1,1,absent,none,n/a,material,no,no,,Shirley Muldowney's nitro-fuel dragster once had a front tire blow in Montreal,no,yes,yes
+H00120,human,female,1,2,subject,active,n/a,material,no,no,,she broke both legs when it crashed.,yes,no,yes
+H00112,human,female,1,1,subject,active,n/a,material,no,no,,Julia emerges in a stunning floor-length white dress as she walks through a crowded party .,yes,yes,no
+H00048,human,female,1,1,absent,none,n/a,material,no,no,,Miss Davis,no,no,yes
+H00048,human,female,1,2,subject,active,n/a,material,no,no,,"mother Lesley, who says she",yes,no,yes
+H00048,human,female,1,3,absent,none,n/a,material,no,no,,Georgia's stepfather Arthur tried to keep her weight under control .,no,no,yes
+H00016,human,female,1,1,subject,passive,no,mental,no,no,,"The unidentified victim claimed Jones, 30, forced himself on her in the hospital's imaging center, where she was sent",yes,yes,no
+H00016,human,female,1,2,absent,none,n/a,material,no,no,,receiving treatment in the emergency room.,no,no,yes
+H00017,human,female,1,1,absent,none,n/a,mental,no,no,,Mr Devlin said,no,yes,yes
+H00017,human,female,1,2,subject,active,n/a,material,no,no,,'She was scared,yes,no,yes
+H00017,human,female,1,3,absent,none,n/a,material,no,no,,didn't want to go in. ',no,no,yes
+H00217,human,male,1,1,subject,active,n/a,mental,yes,no,,"Amazingly, Mr Martinez said he can now identify individual sharks",yes,yes,no
+H00217,human,male,1,2,absent,none,n/a,material,no,no,,says that they are also accustomed to his interaction.,no,no,yes
+H00303,human,male,1,1,absent,none,n/a,material,no,no,,Mr Pritchard was also involved in a bitter public dispute with his wife last year,no,yes,yes
+H00303,human,male,1,2,subject,active,n/a,material,no,no,,announcing that he was divorcing her.,yes,no,yes
+H00045,human,female,1,1,subject,active,n/a,material,yes,no,,A 16-year-old African-American asked what she should do if she is pulled over by the police at night.,yes,yes,no
+H00280,human,male,1,1,subject,active,n/a,material,no,no,,Stevens . admitted he was a longtime friend of Tiaffay's,yes,yes,no
+H00280,human,male,1,2,absent,none,n/a,material,no,no,,"worked for him as a . handyman,",no,no,yes
+H00280,human,male,1,3,absent,none,n/a,material,no,no,,denied any knowledge of the killing.,no,no,yes
+H00053,human,female,1,1,subject,active,n/a,material,no,no,,"When Kate met with CNN in Chicago, she didn't have her ukulele.",yes,yes,no
+H00072,human,female,1,1,subject,active,n/a,material,no,no,,She vomited at least twice in his presence.,yes,yes,no
+H00115,human,female,1,1,absent,none,n/a,relational,no,no,,Gable Tostee was two months ago charged with the murder of Warriena Wright,no,no,yes
+H00115,human,female,1,2,subject,active,n/a,material,no,yes,,"she allegedly fell from the balcony of his apartment in Gold Coast, Queensland, on August 8.",yes,no,yes
+H00126,human,female,1,1,subject,passive,yes,material,no,no,,"Her wedding day was blighted by her fixation on the amount of food she was expected to eat,",yes,yes,no
+H00126,human,female,1,2,absent,none,n/a,material,no,no,,the couple’s honeymoon the following summer was marked by compulsive exercise.,no,no,yes
+H00141,human,female,1,1,absent,none,n/a,material,yes,no,,'You can't be the director of children's services,no,no,yes
+H00141,human,female,1,2,subject,active,n/a,mental,no,no,,"not take responsibility for what happens to children,' she said.",yes,yes,no
+H00013,human,female,1,1,subject,passive,no,relational,no,no,,They are not sure when she was abducted from the . neighborhood.,yes,no,yes
+H00058,human,female,1,1,subject,active,n/a,material,yes,no,,"""Holding the nation's top law-enforcement officer in contempt of Congress would be a drastic, disproportionate action on the part of this body,"" she wrote.",yes,yes,no
+H00328,human,male,1,1,subject,passive,no,material,yes,no,,"He was sentenced to 13 years in prison for the holdup, then told to wait for orders that would specify when",yes,yes,no
+H00328,human,male,1,2,subject,active,n/a,material,no,yes,,where he was to report to prison.,yes,no,yes

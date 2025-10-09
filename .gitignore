@@ -12,3 +12,8 @@ analysis/tables/*.md
 data/raw/pilot.csv
 analysis/exports/
 .venv/
+
+# allow release exports
+!analysis/release/
+!analysis/release/*.csv
+!analysis/release/*.xlsx

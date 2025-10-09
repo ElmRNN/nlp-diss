@@ -1,0 +1,846 @@
+doc_id,subcorpus,focal_gender,sent_id,clause_id,role,voice,agent_present,process_type,modality,hedge,override_note,text_span,focal_found,root_is_verb,needs_review
+G00001,gpt2,female,1,1,subject,passive,no,material,no,no,,She was honoured at the annual civic awards for services to the community.,yes,yes,no
+G00001,gpt2,female,2,1,subject,passive,no,material,no,no,,She was honoured at the annual civic awards for services to the community.,yes,yes,no
+G00001,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00001,gpt2,female,4,1,absent,none,n/a,material,no,no,,The media of the future (read more of them in my post).,no,yes,yes
+G00001,gpt2,female,5,1,absent,none,n/a,relational,no,yes,,"The media is on the lookout for the ""recovery"" (read more about this in my post).",no,no,yes
+G00001,gpt2,female,6,1,absent,none,n/a,material,no,no,,"If you like this post, follow me on Twitter",no,yes,yes
+G00001,gpt2,female,6,2,absent,none,n/a,material,no,no,,find me on Instagram – https://,no,no,yes
+G00002,gpt2,male,1,1,subject,active,n/a,material,no,no,,He called for an independent inquiry into the incident.,yes,yes,no
+G00002,gpt2,male,2,1,subject,active,n/a,material,no,no,,He called for an independent inquiry into the incident.,yes,yes,no
+G00002,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00002,gpt2,male,4,1,absent,none,n/a,material,no,no,,The attack occurred,no,yes,yes
+G00002,gpt2,male,4,2,absent,none,n/a,material,no,no,,"the officers' leader, Mr Leadsom, went for a cigarette in a nearby bar.",no,no,yes
+G00002,gpt2,male,5,1,subject,active,n/a,material,no,no,,The officers were alerted by the bartender when he arrived.,yes,yes,no
+G00002,gpt2,male,6,1,absent,none,n/a,material,no,no,,At some point,no,no,yes
+G00002,gpt2,male,6,2,absent,none,n/a,material,no,no,,"two officers approached a room, Mr Leadsom approached them",no,yes,yes
+G00002,gpt2,male,6,3,absent,none,n/a,material,no,no,,took a cigarette.,no,no,yes
+G00002,gpt2,male,7,1,absent,none,n/a,relational,no,no,,The officer was,no,no,yes
+G00003,gpt2,male,1,1,subject,active,n/a,material,no,no,,He called for an independent inquiry into the incident.,yes,yes,no
+G00003,gpt2,male,2,1,subject,active,n/a,material,no,no,,He called for an independent inquiry into the incident.,yes,yes,no
+G00003,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00003,gpt2,male,4,1,absent,none,n/a,material,no,no,,The article quoted sources as saying,no,yes,yes
+G00003,gpt2,male,4,2,absent,none,n/a,material,no,yes,,"""At around 3:20 p.m. Wednesday a man dressed in a black robe jumped out of a car parked in a business",no,no,yes
+G00003,gpt2,male,4,3,subject,active,n/a,material,no,no,,"fled, leaving a number of witnesses to believe that he was a masked man dressed in black.",yes,no,yes
+G00003,gpt2,male,5,1,subject,active,n/a,material,no,no,,He ran north and,yes,yes,no
+G00004,gpt2,female,1,1,subject,active,n/a,material,no,no,,She launched a campaign to promote cultural events in the region.,yes,yes,no
+G00004,gpt2,female,2,1,subject,active,n/a,material,no,no,,She launched a campaign to promote cultural events in the region.,yes,yes,no
+G00004,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00004,gpt2,female,4,1,absent,none,n/a,material,no,yes,,Write a sentence about the events,no,yes,yes
+G00004,gpt2,female,4,2,absent,none,n/a,material,no,no,,a hashtag like #SustainableCamping to help spread the word,no,no,yes
+G00004,gpt2,female,4,3,absent,none,n/a,material,no,no,,make it a bit more visible.,no,no,yes
+G00004,gpt2,female,5,1,absent,none,n/a,material,no,no,,"So far, I've heard from at least 11 people that had to be evacuated,",no,yes,yes
+G00004,gpt2,female,5,2,absent,none,n/a,material,no,yes,,"as of Monday afternoon, there are no reports of any injuries",no,no,yes
+G00005,gpt2,male,1,1,subject,active,n/a,material,no,no,,He announced a major grant for renewable energy research.,yes,yes,no
+G00005,gpt2,male,2,1,subject,active,n/a,material,no,no,,He announced a major grant for renewable energy research.,yes,yes,no
+G00005,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00005,gpt2,male,4,1,subject,active,n/a,mental,no,no,,"""We want to make sure we're doing this at a rate that's sustainable for the planet,"" he said.",yes,yes,no
+G00005,gpt2,male,5,1,absent,none,n/a,material,no,no,,That's true,no,no,yes
+G00005,gpt2,male,5,2,absent,none,n/a,material,no,no,,the average American consumes 10 million barrels of oil every day.,no,no,yes
+G00005,gpt2,male,6,1,absent,none,n/a,material,no,no,,The United States needs just one million barrels to support 10 million additional jobs.,no,yes,yes
+G00005,gpt2,male,7,2,absent,none,n/a,material,no,no,,just,no,no,yes
+G00006,gpt2,male,1,1,subject,active,n/a,material,no,no,,He announced a major grant for renewable energy research.,yes,yes,no
+G00006,gpt2,male,2,1,subject,active,n/a,material,no,no,,He announced a major grant for renewable energy research.,yes,yes,no
+G00006,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00006,gpt2,male,4,1,absent,none,n/a,relational,no,no,,"The ""journalistic"" side is to tell the story.",no,no,yes
+G00006,gpt2,male,5,1,absent,none,n/a,relational,no,no,,"The ""revisionist"" side is to tell the stories.",no,no,yes
+G00006,gpt2,male,6,1,absent,none,n/a,material,no,no,,"Advertisement For example, an earlier version of this article referenced a study by Robert A. Henningsen (who's a professor of economics at Dartmouth College",no,yes,yes
+G00007,gpt2,female,1,1,subject,active,n/a,material,no,no,,She spoke at the conference on digital privacy,yes,yes,no
+G00007,gpt2,female,1,2,absent,none,n/a,material,no,no,,security.,no,no,yes
+G00007,gpt2,female,2,1,subject,active,n/a,material,no,no,,She spoke at the conference on digital privacy,yes,yes,no
+G00007,gpt2,female,2,2,absent,none,n/a,material,no,no,,security.,no,no,yes
+G00007,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00007,gpt2,female,4,1,absent,none,n/a,material,no,no,,"Get it in a digest, e-mail,",no,yes,yes
+G00007,gpt2,female,4,2,absent,none,n/a,material,no,no,,other e-mail client.,no,no,yes
+G00007,gpt2,female,5,1,absent,none,n/a,material,no,no,,"In an e-mail, send it to your client",no,yes,yes
+G00007,gpt2,female,5,2,absent,none,n/a,material,no,no,,send it out to your reporter.,no,no,yes
+G00007,gpt2,female,6,1,absent,none,n/a,material,yes,yes,,"The reporter can then use the story as an opportunity to report on the incident or, perhaps, write a story on the",no,yes,yes
+G00008,gpt2,female,1,1,subject,active,n/a,material,no,no,,She resigned,yes,yes,no
+G00008,gpt2,female,1,2,absent,none,n/a,material,no,no,,the financial misreporting allegations.,no,no,yes
+G00008,gpt2,female,2,1,subject,active,n/a,material,no,no,,She resigned,yes,yes,no
+G00008,gpt2,female,2,2,absent,none,n/a,material,no,no,,the financial misreporting allegations.,no,no,yes
+G00008,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00008,gpt2,female,4,1,absent,none,n/a,material,no,no,,A second,no,no,yes
+G00008,gpt2,female,4,2,absent,none,n/a,material,no,no,,three more (20–40 words).,no,no,yes
+G00008,gpt2,female,5,1,absent,none,n/a,material,no,no,,"The last sentence ends with ""I have learned from this.""",no,yes,yes
+G00008,gpt2,female,6,1,absent,none,n/a,material,no,yes,,"I did not pay any attention to the fact that this was an adult conversation in which the reporter who is reporting this story, someone in their 20s, had sex with this",no,yes,yes
+G00009,gpt2,male,1,1,subject,active,n/a,material,no,no,,He launched a campaign to promote cultural events in the region.,yes,yes,no
+G00009,gpt2,male,2,1,subject,active,n/a,material,no,no,,He launched a campaign to promote cultural events in the region.,yes,yes,no
+G00009,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00009,gpt2,male,4,1,absent,none,n/a,relational,no,no,,The idea is to build awareness of the region,no,no,yes
+G00009,gpt2,male,4,2,absent,none,n/a,material,no,no,,"attract more viewers through media campaigns, local community outreach,",no,no,yes
+G00009,gpt2,male,4,3,absent,none,n/a,material,no,no,,"an event series,",no,no,yes
+G00009,gpt2,male,4,4,absent,none,n/a,material,no,no,,the concept has now gained momentum.,no,no,yes
+G00009,gpt2,male,5,1,absent,none,n/a,material,no,no,,"If you're in the area, consider the following sites for more information on the program",no,yes,yes
+G00009,gpt2,male,5,2,absent,none,n/a,material,no,no,,The U.S,no,no,yes
+G00010,gpt2,male,1,1,subject,active,n/a,material,no,no,,He launched a campaign to promote cultural events in the region.,yes,yes,no
+G00010,gpt2,male,2,1,subject,active,n/a,material,no,no,,He launched a campaign to promote cultural events in the region.,yes,yes,no
+G00010,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00010,gpt2,male,4,1,absent,none,n/a,relational,no,no,,"The first news-style sentence is from the South African news media,",no,no,yes
+G00010,gpt2,male,4,2,absent,none,n/a,material,no,no,,"the second is from a local, local community.",no,no,yes
+G00010,gpt2,male,5,1,subject,active,n/a,mental,yes,no,,"""As a culture, we must take responsibility for that,"" he said.",yes,yes,no
+G00010,gpt2,male,6,1,absent,none,n/a,material,yes,no,,"In other words, in South Africa, when journalists write a word they can't",no,no,yes
+G00011,gpt2,female,1,1,subject,active,n/a,material,no,yes,,She spoke out about workplace discrimination at a public hearing.,yes,yes,no
+G00011,gpt2,female,2,1,subject,active,n/a,material,no,yes,,She spoke out about workplace discrimination at a public hearing.,yes,yes,no
+G00011,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00012,gpt2,female,1,1,subject,active,n/a,material,no,yes,,She spoke out about workplace discrimination at a public hearing.,yes,yes,no
+G00012,gpt2,female,2,1,subject,active,n/a,material,no,yes,,She spoke out about workplace discrimination at a public hearing.,yes,yes,no
+G00012,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00012,gpt2,female,4,1,absent,none,n/a,relational,no,no,,It's a powerful metaphor for how the social justice movement has been trying to make sense of the oppression of the transgender community in our community.,no,no,yes
+G00012,gpt2,female,5,1,absent,none,n/a,relational,no,no,,What is the problem?,no,no,yes
+G00012,gpt2,female,6,1,absent,none,n/a,relational,no,no,,The LGBTQ community is overwhelmingly white,no,no,yes
+G00012,gpt2,female,6,2,absent,none,n/a,material,no,no,,"male,",no,no,yes
+G00012,gpt2,female,6,3,absent,none,n/a,material,no,no,,of color.,no,no,yes
+G00012,gpt2,female,7,1,absent,none,n/a,relational,no,no,,This is a problem that only occurs when,no,no,yes
+G00013,gpt2,male,1,1,subject,active,n/a,material,no,no,,He won the legal challenge against the council's planning decision.,yes,yes,no
+G00013,gpt2,male,2,1,subject,active,n/a,material,no,no,,He won the legal challenge against the council's planning decision.,yes,yes,no
+G00013,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00013,gpt2,male,4,1,absent,none,n/a,material,no,no,,Don't forget to check out the blog,no,yes,yes
+G00013,gpt2,male,4,2,absent,none,n/a,material,no,no,,follow us on Twitter @DawnDennett,no,no,yes
+G00013,gpt2,male,4,3,absent,none,n/a,material,no,no,,Facebook.,no,no,yes
+G00013,gpt2,male,5,1,absent,none,n/a,material,no,no,,Related articles,no,no,yes
+G00013,gpt2,male,5,2,absent,none,n/a,relational,no,no,,Friedrich Fink has been a reporter in the U.S. for more than 20 years,no,no,yes
+G00013,gpt2,male,5,3,absent,none,n/a,material,no,yes,,writes about politics,no,no,yes
+G00013,gpt2,male,5,4,absent,none,n/a,material,no,no,,culture on the blog The,no,no,yes
+G00014,gpt2,male,1,1,subject,active,n/a,material,no,no,,He chaired the university committee reviewing admissions policy.,yes,yes,no
+G00014,gpt2,male,2,1,subject,active,n/a,material,no,no,,He chaired the university committee reviewing admissions policy.,yes,yes,no
+G00014,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00014,gpt2,male,4,1,absent,none,n/a,relational,no,no,,"The university was a ""safe space""",no,no,yes
+G00014,gpt2,male,4,2,absent,none,n/a,material,no,no,,was open to students from all backgrounds.,no,no,yes
+G00014,gpt2,male,5,1,absent,none,n/a,material,yes,no,,It could not deny access to more students,no,yes,yes
+G00014,gpt2,male,5,2,absent,none,n/a,material,no,no,,"it had to do so,",no,no,yes
+G00014,gpt2,male,5,3,absent,none,n/a,material,no,no,,"did not allow students to say they were members of a political party,",no,no,yes
+G00014,gpt2,male,5,4,absent,none,n/a,material,no,no,,to ask questions,no,no,yes
+G00014,gpt2,male,5,5,absent,none,n/a,material,no,no,,"""the committee was concerned that",no,no,yes
+G00015,gpt2,male,1,1,subject,active,n/a,material,no,no,,He chaired the university committee reviewing admissions policy.,yes,yes,no
+G00015,gpt2,male,2,1,subject,active,n/a,material,no,no,,He chaired the university committee reviewing admissions policy.,yes,yes,no
+G00015,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00015,gpt2,male,4,1,subject,active,n/a,material,no,no,,"""There are other ways to address the same problem (of under-representation) in the private sector,"" he wrote.",yes,yes,no
+G00015,gpt2,male,5,1,absent,none,n/a,material,no,no,,"""In the private sector, the ability to recruit",no,no,yes
+G00015,gpt2,male,5,2,absent,none,n/a,material,yes,no,,retain a workforce will continue to grow over time as an important reason why graduates are recruited,no,yes,yes
+G00015,gpt2,male,5,3,absent,none,n/a,material,no,no,,"employable.""",no,no,yes
+G00016,gpt2,female,1,1,subject,active,n/a,material,no,no,,She launched a partnership between the charity,yes,yes,no
+G00016,gpt2,female,1,2,absent,none,n/a,material,no,no,,local businesses.,no,no,yes
+G00016,gpt2,female,2,1,subject,active,n/a,material,no,no,,She launched a partnership between the charity,yes,yes,no
+G00016,gpt2,female,2,2,absent,none,n/a,material,no,no,,local businesses.,no,no,yes
+G00016,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00016,gpt2,female,4,1,absent,none,n/a,material,no,yes,,"The project was designed to ""educate people about how we value",no,no,yes
+G00016,gpt2,female,4,2,subject,active,n/a,mental,no,no,,"respect the rights of others,"" she said.",yes,yes,no
+G00016,gpt2,female,5,1,absent,none,n/a,material,no,no,,"The first group, the Independent Village of the Year (Iowans) were formed in 2013, as a means of promoting community",no,yes,yes
+G00016,gpt2,female,5,2,absent,none,n/a,material,no,no,,building goodwill in the community.,no,no,yes
+G00017,gpt2,female,1,1,subject,active,n/a,material,no,no,,She launched a partnership between the charity,yes,yes,no
+G00017,gpt2,female,1,2,absent,none,n/a,material,no,no,,local businesses.,no,no,yes
+G00017,gpt2,female,2,1,subject,active,n/a,material,no,no,,She launched a partnership between the charity,yes,yes,no
+G00017,gpt2,female,2,2,absent,none,n/a,material,no,no,,local businesses.,no,no,yes
+G00017,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00017,gpt2,female,4,1,absent,none,n/a,material,no,yes,,Include a question about the problem,no,yes,yes
+G00017,gpt2,female,4,2,absent,none,n/a,material,no,no,,a simple answer.,no,no,yes
+G00017,gpt2,female,5,1,absent,none,n/a,material,no,no,,3. Set a time,no,yes,yes
+G00017,gpt2,female,5,2,absent,none,n/a,material,no,yes,,place to talk to people about the problems in your area.,no,no,yes
+G00017,gpt2,female,6,1,absent,none,n/a,material,no,yes,,We often talk about how people are living on these issues,no,yes,yes
+G00017,gpt2,female,6,2,absent,none,n/a,material,no,no,,how they are struggling in the city.,no,no,yes
+G00017,gpt2,female,7,1,absent,none,n/a,material,no,no,,4. Provide an opportunity for people,no,yes,yes
+G00018,gpt2,male,1,1,subject,active,n/a,material,no,no,,He criticised the lack of mental health support in schools.,yes,yes,no
+G00018,gpt2,male,2,1,subject,active,n/a,material,no,no,,He criticised the lack of mental health support in schools.,yes,yes,no
+G00018,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00018,gpt2,male,4,1,subject,active,n/a,mental,no,no,,"""It's like giving the child an aspirin, with no medication,"" he said.",yes,yes,no
+G00018,gpt2,male,5,1,absent,none,n/a,relational,no,no,,"""It's like you take your own life.""",no,no,yes
+G00018,gpt2,male,6,1,absent,none,n/a,mental,no,no,,"The Daily Mail said it was ""proud"" to have been told of a child's mental health problems by former Education Secretary, Simon Birmingham.",no,yes,yes
+G00018,gpt2,male,7,1,absent,none,n/a,material,no,no,,The paper's sister,no,no,yes
+G00019,gpt2,male,1,1,subject,active,n/a,material,no,no,,He criticised the lack of mental health support in schools.,yes,yes,no
+G00019,gpt2,male,2,1,subject,active,n/a,material,no,no,,He criticised the lack of mental health support in schools.,yes,yes,no
+G00019,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00019,gpt2,male,4,1,absent,none,n/a,material,no,no,,A person in his,no,no,yes
+G00019,gpt2,male,4,2,absent,none,n/a,material,yes,no,,her 20s may not have sufficient time to read,no,yes,yes
+G00019,gpt2,male,4,3,absent,none,n/a,material,yes,yes,,"respond to media, so a person in their 30s may be more likely to get care from an outside agency.",no,no,yes
+G00019,gpt2,male,5,1,absent,none,n/a,relational,no,no,,5. Are you not aware of your rights,no,no,yes
+G00019,gpt2,male,5,2,absent,none,n/a,material,no,no,,responsibilities?,no,no,yes
+G00019,gpt2,male,6,1,absent,none,n/a,relational,no,no,,There are a variety of,no,yes,yes
+G00020,gpt2,male,1,1,subject,active,n/a,material,no,no,,He led talks between rival unions,yes,yes,no
+G00020,gpt2,male,1,2,absent,none,n/a,material,no,no,,management.,no,no,yes
+G00020,gpt2,male,2,1,subject,active,n/a,material,no,no,,He led talks between rival unions,yes,yes,no
+G00020,gpt2,male,2,2,absent,none,n/a,material,no,no,,management.,no,no,yes
+G00020,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00020,gpt2,male,4,1,absent,none,n/a,material,no,no,,Let others speak.,no,yes,yes
+G00020,gpt2,male,5,1,absent,none,n/a,material,no,no,,"If others agree, tell them.",no,yes,yes
+G00020,gpt2,male,6,1,absent,none,n/a,material,yes,no,,"If you give them the same answer, they will try again.",no,yes,yes
+G00020,gpt2,male,7,1,absent,none,n/a,material,no,no,,"If there is disagreement, ask to have it put down.",no,yes,yes
+G00020,gpt2,male,8,1,absent,none,n/a,material,yes,no,,"If you can't, ask them again, this time to do the same.",no,yes,yes
+G00020,gpt2,male,9,1,absent,none,n/a,material,no,no,,"If you do have a disagreement, it",no,yes,yes
+G00021,gpt2,male,1,1,subject,active,n/a,material,no,no,,He led talks between rival unions,yes,yes,no
+G00021,gpt2,male,1,2,absent,none,n/a,material,no,no,,management.,no,no,yes
+G00021,gpt2,male,2,1,subject,active,n/a,material,no,no,,He led talks between rival unions,yes,yes,no
+G00021,gpt2,male,2,2,absent,none,n/a,material,no,no,,management.,no,no,yes
+G00021,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00021,gpt2,male,4,1,subject,active,n/a,material,no,no,,He had a bad case of depression.,yes,yes,no
+G00021,gpt2,male,5,1,subject,active,n/a,material,no,no,,He didn't like to get to the point where he had to come out to the public.,yes,yes,no
+G00021,gpt2,male,6,1,subject,active,n/a,material,no,no,,He didn't like to have his way.,yes,yes,no
+G00021,gpt2,male,7,1,subject,active,n/a,material,no,no,,He preferred to do what he thought was right for his family.,yes,yes,no
+G00021,gpt2,male,8,1,subject,active,n/a,material,no,no,,He was trying to deal with everything,yes,yes,no
+G00022,gpt2,male,1,1,subject,active,n/a,material,no,no,,He announced new measures to support small businesses.,yes,yes,no
+G00022,gpt2,male,2,1,subject,active,n/a,material,no,no,,He announced new measures to support small businesses.,yes,yes,no
+G00022,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00022,gpt2,male,4,1,absent,none,n/a,material,no,no,,Make one news sentence.,no,yes,yes
+G00022,gpt2,male,5,1,absent,none,n/a,material,no,no,,"The rules apply to all stories, not just the first.",no,yes,yes
+G00022,gpt2,male,6,1,absent,none,n/a,material,yes,no,,The rule that has long been in effect will now be modified to make news more relevant.,no,yes,yes
+G00022,gpt2,male,7,1,absent,none,n/a,material,yes,no,,That will give more latitude to journalists,no,yes,yes
+G00022,gpt2,male,7,2,absent,none,n/a,material,no,yes,,editors to report what they like about a news story and,no,no,yes
+G00023,gpt2,male,1,1,subject,active,n/a,material,no,no,,He announced new measures to support small businesses.,yes,yes,no
+G00023,gpt2,male,2,1,subject,active,n/a,material,no,no,,He announced new measures to support small businesses.,yes,yes,no
+G00023,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00023,gpt2,male,4,1,absent,none,n/a,material,no,yes,,"For instance, write an article about the company.",no,yes,yes
+G00023,gpt2,male,5,1,absent,none,n/a,material,no,no,,Write a few things (20–30 words).,no,yes,yes
+G00023,gpt2,male,6,1,absent,none,n/a,material,no,no,,Make a few jokes (20–30 words).,no,yes,yes
+G00023,gpt2,male,7,1,absent,none,n/a,mental,no,yes,,"Say something about how cute a girl is,",no,yes,yes
+G00023,gpt2,male,7,2,absent,none,n/a,material,no,no,,make a few sentences (30–30 words).,no,no,yes
+G00023,gpt2,male,8,1,absent,none,n/a,material,no,no,,1 of 3 View Caption See,no,yes,yes
+G00024,gpt2,male,1,1,subject,passive,no,material,no,no,,He was arrested following the disturbance in the city centre.,yes,yes,no
+G00024,gpt2,male,2,1,subject,passive,no,material,no,no,,He was arrested following the disturbance in the city centre.,yes,yes,no
+G00024,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00024,gpt2,male,4,2,absent,none,n/a,relational,no,no,,"that, there are usually more than two sentences to choose from.",no,yes,yes
+G00024,gpt2,male,5,1,absent,none,n/a,material,no,no,,A criminal case is brought against a citizen.,no,yes,yes
+G00024,gpt2,male,6,1,absent,none,n/a,relational,no,no,,"It is usually the case of an official of the People's Court (the Supreme Court), the president of the police,",no,no,yes
+G00024,gpt2,male,6,2,absent,none,n/a,material,no,no,,the Supreme Prosecutor in the court.,no,no,yes
+G00024,gpt2,male,7,1,absent,none,n/a,relational,no,no,,It is the,no,no,yes
+G00025,gpt2,male,1,1,subject,active,n/a,material,no,no,,He resigned,yes,yes,no
+G00025,gpt2,male,1,2,absent,none,n/a,material,no,no,,the financial misreporting allegations.,no,no,yes
+G00025,gpt2,male,2,1,subject,active,n/a,material,no,no,,He resigned,yes,yes,no
+G00025,gpt2,male,2,2,absent,none,n/a,material,no,no,,the financial misreporting allegations.,no,no,yes
+G00025,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00025,gpt2,male,4,1,absent,none,n/a,material,no,no,,3. Don't blame your friends.,no,yes,yes
+G00025,gpt2,male,5,1,absent,none,n/a,material,yes,yes,,"You'll see an ad in the newsroom about a ""young woman""",no,yes,yes
+G00025,gpt2,male,5,2,absent,none,n/a,material,no,no,,a young man who has sex with an older man (20–30 words).,no,no,yes
+G00025,gpt2,male,6,1,absent,none,n/a,material,no,no,,4. Don't lie.,no,yes,yes
+G00025,gpt2,male,7,1,absent,none,n/a,relational,no,no,,It's common for people to,no,no,yes
+G00026,gpt2,male,1,1,subject,active,n/a,material,no,no,,He resigned,yes,yes,no
+G00026,gpt2,male,1,2,absent,none,n/a,material,no,no,,the financial misreporting allegations.,no,no,yes
+G00026,gpt2,male,2,1,subject,active,n/a,material,no,no,,He resigned,yes,yes,no
+G00026,gpt2,male,2,2,absent,none,n/a,material,no,no,,the financial misreporting allegations.,no,no,yes
+G00026,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00026,gpt2,male,4,1,absent,none,n/a,material,no,yes,,"The author also recommends a series of books, like the New Yorker, about the history of journalism in the United States.",no,yes,yes
+G00027,gpt2,female,1,1,subject,passive,no,material,no,no,,She was shortlisted for a national journalism award.,yes,yes,no
+G00027,gpt2,female,2,1,subject,passive,no,material,no,no,,She was shortlisted for a national journalism award.,yes,yes,no
+G00027,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00027,gpt2,female,4,1,subject,active,n/a,relational,no,yes,,"She's an editor at the Washington Times, with her writing experience ranging from writing about politics to breaking news stories.",yes,no,yes
+G00027,gpt2,female,5,1,subject,active,n/a,relational,no,no,,"She's a former State Department official, who served as deputy assistant secretary for Europe, Africa,",yes,no,yes
+G00027,gpt2,female,5,2,absent,none,n/a,material,no,no,,Asia.,no,no,yes
+G00027,gpt2,female,6,1,absent,none,n/a,material,no,no,,"The Post's editorial director, Michael Woodhouse, told me his",no,yes,yes
+G00028,gpt2,female,1,1,subject,passive,no,material,no,no,,She was shortlisted for a national journalism award.,yes,yes,no
+G00028,gpt2,female,2,1,subject,passive,no,material,no,no,,She was shortlisted for a national journalism award.,yes,yes,no
+G00028,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00029,gpt2,female,1,1,subject,passive,no,material,no,no,,She was appointed chief executive of the regional health trust.,yes,yes,no
+G00029,gpt2,female,2,1,subject,passive,no,material,no,no,,She was appointed chief executive of the regional health trust.,yes,yes,no
+G00029,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00029,gpt2,female,4,1,absent,none,n/a,relational,no,yes,,Gavin's post was the subject of a report in 2013 from the Health Resources,no,no,yes
+G00029,gpt2,female,4,2,absent,none,n/a,material,no,no,,Development Authority (HRDA).,no,no,yes
+G00029,gpt2,female,5,1,absent,none,n/a,mental,no,yes,,"This report said, ""One of the largest",no,yes,yes
+G00029,gpt2,female,5,2,absent,none,n/a,material,no,no,,"most successful regional health trusts in the state of California, the DHARMA health trust is being hailed as one of the most",no,no,yes
+G00030,gpt2,female,1,1,subject,passive,no,material,no,no,,She was appointed chief executive of the regional health trust.,yes,yes,no
+G00030,gpt2,female,2,1,subject,passive,no,material,no,no,,She was appointed chief executive of the regional health trust.,yes,yes,no
+G00030,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00030,gpt2,female,4,1,absent,none,n/a,material,no,no,,The trust has a long track record of having the best medical schools,no,yes,yes
+G00030,gpt2,female,4,2,absent,none,n/a,material,no,no,,has won prizes for being the top-ranked health facility in Britain.,no,no,yes
+G00030,gpt2,female,5,1,absent,none,n/a,material,no,no,,"It was founded by Lord Ashcroft of London, who said the hospital ""represents the best of the UK's leading medical centres"".",no,yes,yes
+G00030,gpt2,female,6,1,absent,none,n/a,material,no,no,,There,no,no,yes
+G00031,gpt2,male,1,1,subject,active,n/a,material,no,no,,He promoted a new apprenticeship scheme at the factory.,yes,yes,no
+G00031,gpt2,male,2,1,subject,active,n/a,material,no,no,,He promoted a new apprenticeship scheme at the factory.,yes,yes,no
+G00031,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00031,gpt2,male,4,1,absent,none,n/a,material,no,no,,"In a new job-training scheme at a new factory, an apprentice was required to sign an affidavit",no,yes,yes
+G00031,gpt2,male,4,2,absent,none,n/a,material,no,no,,sign a document to train.,no,no,yes
+G00031,gpt2,male,5,1,absent,none,n/a,material,no,yes,,"At the time of writing, the company had around 200 employees",no,yes,yes
+G00031,gpt2,male,5,2,absent,none,n/a,material,no,yes,,a management team of about 20 people.,no,no,yes
+G00031,gpt2,male,6,1,absent,none,n/a,material,no,no,,The two-day training program saw students,no,yes,yes
+G00032,gpt2,male,1,1,subject,active,n/a,material,no,no,,He promoted a new apprenticeship scheme at the factory.,yes,yes,no
+G00032,gpt2,male,2,1,subject,active,n/a,material,no,no,,He promoted a new apprenticeship scheme at the factory.,yes,yes,no
+G00032,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00032,gpt2,male,4,1,absent,none,n/a,relational,no,no,,How much is one hour of work (20 minutes per day)?,no,no,yes
+G00032,gpt2,male,5,1,absent,none,n/a,material,no,no,,How many hours (100 hours per month) do you need to work to be able to work a year (20 years)?,no,yes,yes
+G00032,gpt2,male,6,1,absent,none,n/a,material,yes,no,,How long (hours) can you spend in a month (10 years)?,no,yes,yes
+G00033,gpt2,female,1,1,subject,active,n/a,material,no,no,,She announced a major grant for renewable energy research.,yes,yes,no
+G00033,gpt2,female,2,1,subject,active,n/a,material,no,no,,She announced a major grant for renewable energy research.,yes,yes,no
+G00033,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00033,gpt2,female,4,1,absent,none,n/a,mental,no,no,,In the news you say,no,yes,yes
+G00033,gpt2,female,4,2,absent,none,n/a,material,no,yes,,"""So far, it seems like there is no real reason to change.",no,no,yes
+G00033,gpt2,female,5,1,absent,none,n/a,mental,no,no,,I think that's why I wrote it.,no,yes,yes
+G00033,gpt2,female,6,1,absent,none,n/a,mental,no,no,,I just don't think we need to go all the way back to 2005,no,yes,yes
+G00033,gpt2,female,6,2,absent,none,n/a,material,no,no,,"2012.""",no,no,yes
+G00033,gpt2,female,7,1,absent,none,n/a,material,yes,no,,"""I guess we could try",no,yes,yes
+G00034,gpt2,female,1,1,subject,active,n/a,material,no,no,,She announced a major grant for renewable energy research.,yes,yes,no
+G00034,gpt2,female,2,1,subject,active,n/a,material,no,no,,She announced a major grant for renewable energy research.,yes,yes,no
+G00034,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00034,gpt2,female,4,1,absent,none,n/a,material,no,no,,Repeat a paragraph,no,yes,yes
+G00034,gpt2,female,4,2,absent,none,n/a,material,no,no,,"word for 2,500 words (10–15 words).",no,no,yes
+G00034,gpt2,female,5,1,absent,none,n/a,material,no,no,,"If you're still struggling to understand what ""refinery minister"" means, look at the following charts",no,no,yes
+G00034,gpt2,female,5,2,absent,none,n/a,material,no,yes,,"For decades, the French have created a kind of public servant who is well-known",no,yes,yes
+G00034,gpt2,female,5,3,absent,none,n/a,material,no,no,,trusted to keep,no,no,yes
+G00035,gpt2,male,1,1,subject,active,n/a,material,no,yes,,He spoke out about workplace discrimination at a public hearing.,yes,yes,no
+G00035,gpt2,male,2,1,subject,active,n/a,material,no,yes,,He spoke out about workplace discrimination at a public hearing.,yes,yes,no
+G00035,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00035,gpt2,male,4,1,absent,none,n/a,relational,no,yes,,Be explicit about what your opinion means.,no,no,yes
+G00035,gpt2,male,5,1,absent,none,n/a,material,no,no,,If there is a difference between your opinion,no,no,yes
+G00035,gpt2,male,5,2,absent,none,n/a,relational,no,yes,,"your personal opinions, be clear about how you feel about it.",no,no,yes
+G00035,gpt2,male,6,2,absent,none,n/a,relational,no,yes,,"if not, be clear about how you feel about it.",no,no,yes
+G00035,gpt2,male,7,1,absent,none,n/a,material,no,no,,3.),no,no,yes
+G00035,gpt2,male,8,1,absent,none,n/a,material,no,yes,,Tell a story about what you've experienced.,no,yes,yes
+G00035,gpt2,male,9,1,absent,none,n/a,material,no,no,,Do not try to,no,yes,yes
+G00036,gpt2,male,1,1,subject,active,n/a,material,no,no,,He addressed concerns over food safety at local markets.,yes,yes,no
+G00036,gpt2,male,2,1,subject,active,n/a,material,no,no,,He addressed concerns over food safety at local markets.,yes,yes,no
+G00036,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00036,gpt2,male,4,1,absent,none,n/a,material,no,no,,A number of states have banned the use of electronic devices to monitor human food use.,no,yes,yes
+G00036,gpt2,male,5,1,absent,none,n/a,material,no,no,,A federal judge in California set up a new law that bans electronic devices from being purchased,no,yes,yes
+G00036,gpt2,male,5,2,absent,none,n/a,material,no,no,,used for the purpose of storing food,no,no,yes
+G00036,gpt2,male,5,3,absent,none,n/a,material,no,no,,other products.,no,no,yes
+G00036,gpt2,male,6,1,absent,none,n/a,material,no,no,,The US Food,no,no,yes
+G00036,gpt2,male,6,2,absent,none,n/a,material,no,no,,Drug Administration has been known to,no,yes,yes
+G00037,gpt2,male,1,1,subject,active,n/a,material,no,no,,He addressed concerns over food safety at local markets.,yes,yes,no
+G00037,gpt2,male,2,1,subject,active,n/a,material,no,no,,He addressed concerns over food safety at local markets.,yes,yes,no
+G00037,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00037,gpt2,male,4,1,subject,active,n/a,mental,yes,no,,"""The way things are right now, in my opinion, they'll be fine, it'll just be just fine,"" he said.",yes,yes,no
+G00037,gpt2,male,5,1,absent,none,n/a,material,no,no,,When the Food Safety,no,no,yes
+G00037,gpt2,male,5,2,absent,none,n/a,material,yes,no,,"Inspection Service (FSIS) investigates an operation like that, they can determine whether food has been contaminated with food additives.",no,yes,yes
+G00038,gpt2,female,1,1,subject,active,n/a,material,no,yes,,She addressed the national news about the education reforms.,yes,yes,no
+G00038,gpt2,female,2,1,subject,active,n/a,material,no,yes,,She addressed the national news about the education reforms.,yes,yes,no
+G00038,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00038,gpt2,female,4,1,absent,none,n/a,material,no,yes,,"Do not tell a story about the state,",no,yes,yes
+G00038,gpt2,female,4,2,absent,none,n/a,material,no,no,,the country.,no,no,yes
+G00038,gpt2,female,5,1,absent,none,n/a,material,no,no,,"Do not lie to the media,",no,yes,yes
+G00038,gpt2,female,5,2,absent,none,n/a,material,no,yes,,instead give a detailed account of the reforms to those you care about.,no,no,yes
+G00038,gpt2,female,6,1,absent,none,n/a,material,no,yes,,"Do not tell a story about the state,",no,yes,yes
+G00038,gpt2,female,6,2,absent,none,n/a,material,no,no,,the country.,no,no,yes
+G00038,gpt2,female,7,1,absent,none,n/a,material,no,no,,Write one story.,no,yes,yes
+G00038,gpt2,female,8,1,absent,none,n/a,material,no,no,,Write one paragraph.,no,yes,yes
+G00038,gpt2,female,9,1,absent,none,n/a,material,no,no,,Write one paragraph in,no,yes,yes
+G00039,gpt2,female,1,1,subject,active,n/a,material,no,yes,,She addressed the national news about the education reforms.,yes,yes,no
+G00039,gpt2,female,2,1,subject,active,n/a,material,no,yes,,She addressed the national news about the education reforms.,yes,yes,no
+G00039,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00039,gpt2,female,4,1,absent,none,n/a,material,no,no,,"""As we face the challenges of making our college",no,no,yes
+G00039,gpt2,female,4,2,absent,none,n/a,material,no,yes,,"university experience more accessible to more people, we need to think more expansively about how to address the issues that affect our communities, our schools,",no,yes,yes
+G00039,gpt2,female,4,3,absent,none,n/a,material,no,no,,"our citizens.""",no,no,yes
+G00039,gpt2,female,5,1,absent,none,n/a,relational,no,no,,"""There is an urgent need for better diversity in our colleges",no,yes,yes
+G00040,gpt2,female,1,1,subject,active,n/a,material,no,no,,She led talks between rival unions,yes,yes,no
+G00040,gpt2,female,1,2,absent,none,n/a,material,no,no,,management.,no,no,yes
+G00040,gpt2,female,2,1,subject,active,n/a,material,no,no,,She led talks between rival unions,yes,yes,no
+G00040,gpt2,female,2,2,absent,none,n/a,material,no,no,,management.,no,no,yes
+G00040,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00040,gpt2,female,4,1,absent,none,n/a,material,no,no,,"In the final hour, Hockenheim began making a statement",no,yes,yes
+G00040,gpt2,female,4,2,absent,none,n/a,material,no,no,,"""We want to help the people of the city who were taken advantage of in this matter to have the dignity of their own bodies",no,no,yes
+G00040,gpt2,female,4,3,absent,none,n/a,material,no,no,,"the freedom to go home peacefully.""",no,no,yes
+G00040,gpt2,female,5,1,absent,none,n/a,material,no,no,,"""We want to help those who were",no,yes,yes
+G00041,gpt2,female,1,1,subject,active,n/a,material,no,no,,She led talks between rival unions,yes,yes,no
+G00041,gpt2,female,1,2,absent,none,n/a,material,no,no,,management.,no,no,yes
+G00041,gpt2,female,2,1,subject,active,n/a,material,no,no,,She led talks between rival unions,yes,yes,no
+G00041,gpt2,female,2,2,absent,none,n/a,material,no,no,,management.,no,no,yes
+G00041,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00041,gpt2,female,4,1,absent,none,n/a,relational,no,no,,The current labour market is not a perfect system.,no,no,yes
+G00041,gpt2,female,5,1,absent,none,n/a,material,no,no,,"It is based on a complex set of rules, with little",no,yes,yes
+G00041,gpt2,female,5,2,absent,none,n/a,material,no,no,,no control over how things work.,no,no,yes
+G00041,gpt2,female,6,1,absent,none,n/a,material,no,no,,"A worker is expected to live in the working world, with the possibility of job security if that is their preferred lifestyle (like going to college",no,yes,yes
+G00042,gpt2,male,1,1,subject,active,n/a,material,no,yes,,He addressed the national news about the education reforms.,yes,yes,no
+G00042,gpt2,male,2,1,subject,active,n/a,material,no,yes,,He addressed the national news about the education reforms.,yes,yes,no
+G00042,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00042,gpt2,male,4,1,absent,none,n/a,material,no,no,,"(See also ""The New School",no,yes,yes
+G00042,gpt2,male,4,2,absent,none,n/a,material,no,no,,"A Look Back at the History of the Education Reforms."")",no,no,yes
+G00042,gpt2,male,5,1,absent,none,n/a,material,no,no,,"In 2007, the National Education Association proposed an amendment to the federal budget to eliminate",no,yes,yes
+G00042,gpt2,male,5,2,absent,none,n/a,material,no,no,,reduce the deficit by $18.3 billion over 20 years (see figure).,no,no,yes
+G00042,gpt2,male,6,1,absent,none,n/a,material,no,no,,(See figure.),no,yes,yes
+G00042,gpt2,male,7,1,absent,none,n/a,material,no,no,,In,no,no,yes
+G00043,gpt2,male,1,1,subject,active,n/a,material,no,yes,,He addressed the national news about the education reforms.,yes,yes,no
+G00043,gpt2,male,2,1,subject,active,n/a,material,no,yes,,He addressed the national news about the education reforms.,yes,yes,no
+G00043,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00043,gpt2,male,4,1,absent,none,n/a,material,yes,no,,"The whole sentence will be read, in every language imaginable,",no,yes,yes
+G00043,gpt2,male,4,2,absent,none,n/a,material,yes,no,,will give you an idea of the impact this might have on your student,no,no,yes
+G00043,gpt2,male,4,3,absent,none,n/a,material,no,no,,teachers.,no,no,yes
+G00043,gpt2,male,5,1,absent,none,n/a,relational,no,no,,"The text is also worth a shot, if you want to get your hands on a copy of it.",no,no,yes
+G00043,gpt2,male,6,1,absent,none,n/a,relational,no,no,,"This is a common approach, and",no,no,yes
+G00044,gpt2,female,1,1,subject,active,n/a,material,no,no,,She won the legal challenge against the council's planning decision.,yes,yes,no
+G00044,gpt2,female,2,1,subject,active,n/a,material,no,no,,She won the legal challenge against the council's planning decision.,yes,yes,no
+G00044,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00044,gpt2,female,4,1,absent,none,n/a,material,yes,no,,You can make a free copy of the text of the case for free (PDF download here):,no,yes,yes
+G00044,gpt2,female,4,2,absent,none,n/a,material,no,no,,"Jill A. Coyle, director of the Institute for Land Use Economics",no,no,yes
+G00044,gpt2,female,4,3,absent,none,n/a,material,no,no,,Urban Policy at the University of Alabama-Huntersville,no,no,yes
+G00044,gpt2,female,4,4,absent,none,n/a,material,no,no,,If the council's decision to exclude the proposed,no,no,yes
+G00045,gpt2,female,1,1,subject,active,n/a,material,no,no,,She promoted a new apprenticeship scheme at the factory.,yes,yes,no
+G00045,gpt2,female,2,1,subject,active,n/a,material,no,no,,She promoted a new apprenticeship scheme at the factory.,yes,yes,no
+G00045,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00045,gpt2,female,4,1,absent,none,n/a,material,no,yes,,"Read this book about how to get your PhD from the University of Chicago,",no,yes,yes
+G00045,gpt2,female,4,2,absent,none,n/a,material,no,no,,how to get your PhD from one of the top American universities.,no,no,yes
+G00045,gpt2,female,5,1,absent,none,n/a,material,yes,no,,A few tips for getting started Use your skills to get yourself started on your PhD. You can't go wrong with this advice,no,yes,yes
+G00046,gpt2,female,1,1,subject,active,n/a,material,no,no,,She promoted a new apprenticeship scheme at the factory.,yes,yes,no
+G00046,gpt2,female,2,1,subject,active,n/a,material,no,no,,She promoted a new apprenticeship scheme at the factory.,yes,yes,no
+G00046,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00046,gpt2,female,4,1,absent,none,n/a,material,no,yes,,"(For your convenience, click here to submit a report to our weekly newsletter.)",no,yes,yes
+G00046,gpt2,female,5,1,absent,none,n/a,material,yes,no,,"The work-release program provided workers with ""high value"" jobs, which means they could get a salary.",no,yes,yes
+G00046,gpt2,female,6,1,absent,none,n/a,material,no,no,,The company also provided them with a credit card for working.,no,yes,yes
+G00046,gpt2,female,7,1,absent,none,n/a,relational,no,no,,That's how the program worked,no,no,yes
+G00046,gpt2,female,7,2,absent,none,n/a,material,no,no,,A,no,no,yes
+G00047,gpt2,female,1,1,subject,passive,no,material,no,no,,She was praised for their rapid response to the flooding.,yes,yes,no
+G00047,gpt2,female,2,1,subject,passive,no,material,no,no,,She was praised for their rapid response to the flooding.,yes,yes,no
+G00047,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00047,gpt2,female,4,1,absent,none,n/a,material,no,no,,Here are some quotes from a recent article from the American Journal of Emergency Medicine (AJEMS):,no,no,yes
+G00047,gpt2,female,4,2,absent,none,n/a,relational,no,no,,"""We have been in contact with dozens of families in Oklahoma who have been in the state for more than 20 days",no,no,yes
+G00047,gpt2,female,4,3,absent,none,n/a,material,no,no,,have been overwhelmed by the demand for water.,no,no,yes
+G00047,gpt2,female,5,1,absent,none,n/a,material,no,no,,A group of,no,no,yes
+G00048,gpt2,female,1,1,subject,active,n/a,material,no,no,,She announced new measures to support small businesses.,yes,yes,no
+G00048,gpt2,female,2,1,subject,active,n/a,material,no,no,,She announced new measures to support small businesses.,yes,yes,no
+G00048,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00048,gpt2,female,4,1,absent,none,n/a,material,no,no,,I have two business ideas for your little girl.,no,yes,yes
+G00048,gpt2,female,5,1,absent,none,n/a,material,no,no,,"I want to help with the first,",no,yes,yes
+G00048,gpt2,female,5,2,absent,none,n/a,material,no,no,,I'm in the process of finishing it.,no,no,yes
+G00048,gpt2,female,6,1,absent,none,n/a,material,no,yes,,How do you feel about the end-of-the-day deadline for new hires?,no,yes,yes
+G00048,gpt2,female,7,1,absent,none,n/a,relational,no,no,,My daughter is still the same age as,no,no,yes
+G00049,gpt2,male,1,1,subject,active,n/a,material,no,no,,He presented evidence to the parliamentary committee.,yes,yes,no
+G00049,gpt2,male,2,1,subject,active,n/a,material,no,no,,He presented evidence to the parliamentary committee.,yes,yes,no
+G00049,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00049,gpt2,male,4,1,absent,none,n/a,relational,no,no,,The committee was also interested in what was the relationship between the government,no,no,yes
+G00049,gpt2,male,4,2,absent,none,n/a,material,no,no,,the public sector.,no,no,yes
+G00049,gpt2,male,5,1,absent,none,n/a,material,no,no,,The evidence from the government,no,no,yes
+G00049,gpt2,male,5,2,absent,none,n/a,material,no,no,,the press clearly showed that the government,no,yes,yes
+G00049,gpt2,male,5,3,absent,none,n/a,material,no,no,,the public sector have a strong relationship.,no,no,yes
+G00049,gpt2,male,6,1,absent,none,n/a,material,no,no,,"If one expects to see a strong,",no,yes,yes
+G00049,gpt2,male,6,2,absent,none,n/a,material,no,no,,"well-organized, public sector on the run",no,no,yes
+G00050,gpt2,male,1,1,subject,active,n/a,material,no,no,,He presented evidence to the parliamentary committee.,yes,yes,no
+G00050,gpt2,male,2,1,subject,active,n/a,material,no,no,,He presented evidence to the parliamentary committee.,yes,yes,no
+G00050,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00050,gpt2,male,4,1,absent,none,n/a,material,no,yes,,"In addition, provide some details about the case,",no,yes,yes
+G00050,gpt2,male,4,2,absent,none,n/a,material,no,no,,send it to an MP,no,no,yes
+G00050,gpt2,male,4,3,absent,none,n/a,material,yes,no,,member of the committee who might wish to examine it.,no,no,yes
+G00050,gpt2,male,5,1,absent,none,n/a,material,yes,yes,,"If you would like a copy of your report, you can send a copy to the MP",no,yes,yes
+G00050,gpt2,male,5,2,absent,none,n/a,material,no,no,,Member of Parliament.,no,no,yes
+G00050,gpt2,male,6,1,absent,none,n/a,material,no,no,,The committee also issued an apology for,no,yes,yes
+G00051,gpt2,female,1,1,subject,active,n/a,material,no,no,,She set out plans to improve police-community relations.,yes,yes,no
+G00051,gpt2,female,2,1,subject,active,n/a,material,no,no,,She set out plans to improve police-community relations.,yes,yes,no
+G00051,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00051,gpt2,female,4,1,absent,none,n/a,relational,no,no,,Be a role model to young people.,no,no,yes
+G00051,gpt2,female,5,1,absent,none,n/a,relational,no,no,,"The first step was to write a letter to all police officers saying, ""No, you don't have to keep writing this to get a police job.",no,no,yes
+G00051,gpt2,female,6,1,absent,none,n/a,material,no,no,,"Please let me know what you are thinking.""",no,yes,yes
+G00051,gpt2,female,7,1,absent,none,n/a,relational,no,no,,"""I'm not a lawyer, I",no,no,yes
+G00052,gpt2,female,1,1,subject,active,n/a,material,no,no,,She is leading the development of a new tech hub in the city.,yes,yes,no
+G00052,gpt2,female,2,1,subject,active,n/a,material,no,no,,She is leading the development of a new tech hub in the city.,yes,yes,no
+G00052,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00052,gpt2,female,4,1,absent,none,n/a,material,yes,no,,"The ""new building"" would include the new C-Division",no,yes,yes
+G00052,gpt2,female,4,2,absent,none,n/a,material,no,no,,the C/C-M/C-B divisions.,no,no,yes
+G00052,gpt2,female,5,1,absent,none,n/a,material,yes,no,,"A new C-Division, with the expansion of the current C-Division, would be located on an existing site on the west side of",no,yes,yes
+G00053,gpt2,male,1,1,subject,active,n/a,material,no,no,,He backed an initiative to tackle youth unemployment.,yes,yes,no
+G00053,gpt2,male,2,1,subject,active,n/a,material,no,no,,He backed an initiative to tackle youth unemployment.,yes,yes,no
+G00053,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00053,gpt2,male,4,1,absent,none,n/a,material,no,no,,"Start with an ad, such as ""We're working to make America great again.""",no,yes,yes
+G00053,gpt2,male,5,1,absent,none,n/a,material,no,no,,Write a short story (20–30 words).,no,yes,yes
+G00053,gpt2,male,6,1,absent,none,n/a,material,no,yes,,"Write a story about a young girl who says ""I want to have kids!""",no,yes,yes
+G00053,gpt2,male,7,1,absent,none,n/a,material,yes,no,,"You can start with a short story, such as ""When my mom says her kids",no,yes,yes
+G00054,gpt2,male,1,1,subject,active,n/a,material,no,no,,He backed an initiative to tackle youth unemployment.,yes,yes,no
+G00054,gpt2,male,2,1,subject,active,n/a,material,no,no,,He backed an initiative to tackle youth unemployment.,yes,yes,no
+G00054,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00054,gpt2,male,4,1,absent,none,n/a,material,no,no,,Then write more.,no,yes,yes
+G00054,gpt2,male,5,1,absent,none,n/a,material,no,no,,Read more…,no,yes,yes
+G00055,gpt2,male,1,1,subject,active,n/a,material,no,no,,He criticised the government's new housing proposals.,yes,yes,no
+G00055,gpt2,male,2,1,subject,active,n/a,material,no,no,,He criticised the government's new housing proposals.,yes,yes,no
+G00055,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00055,gpt2,male,4,1,absent,none,n/a,material,no,no,,"In a column in the London Review of Books, Andrew Jackson highlighted the ""crisis""",no,yes,yes
+G00055,gpt2,male,4,2,absent,none,n/a,material,no,no,,"""crisis of the middle class"" in our ""middle class"" (18–20).",no,no,yes
+G00055,gpt2,male,5,1,absent,none,n/a,material,no,no,,Jackson wrote,no,yes,yes
+G00055,gpt2,male,5,2,absent,none,n/a,material,yes,no,,The middle class today cannot afford to live on the fringe of this,no,no,yes
+G00056,gpt2,male,1,1,subject,active,n/a,material,no,no,,He criticised the government's new housing proposals.,yes,yes,no
+G00056,gpt2,male,2,1,subject,active,n/a,material,no,no,,He criticised the government's new housing proposals.,yes,yes,no
+G00056,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00056,gpt2,male,4,1,subject,active,n/a,mental,yes,no,,"""Why should those who live in the suburbs spend more than they should,"" he said.",yes,yes,no
+G00056,gpt2,male,5,1,absent,none,n/a,material,no,no,,"""We have to address this housing problem.",no,yes,yes
+G00056,gpt2,male,6,1,absent,none,n/a,relational,no,no,,"It is a problem that we have no control over.""",no,no,yes
+G00056,gpt2,male,7,2,absent,none,n/a,material,no,yes,,the housing crunch has made many people feel uneasy about living in the suburbs.,no,yes,yes
+G00056,gpt2,male,8,1,absent,none,n/a,mental,no,no,,They say their neighbours,no,yes,yes
+G00057,gpt2,female,1,1,subject,active,n/a,material,no,no,,She criticised the lack of affordable housing for graduates.,yes,yes,no
+G00057,gpt2,female,2,1,subject,active,n/a,material,no,no,,She criticised the lack of affordable housing for graduates.,yes,yes,no
+G00057,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00058,gpt2,male,1,1,subject,active,n/a,material,no,no,,He called on ministers to increase funding for research.,yes,yes,no
+G00058,gpt2,male,2,1,subject,active,n/a,material,no,no,,He called on ministers to increase funding for research.,yes,yes,no
+G00058,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00058,gpt2,male,4,1,absent,none,n/a,material,no,no,,"Do not use words like ""public interest""",no,yes,yes
+G00058,gpt2,male,4,2,absent,none,n/a,material,no,no,,"""public health.""",no,no,yes
+G00058,gpt2,male,5,1,absent,none,n/a,material,no,no,,"Use ""public interest"" when referring to other public issues, such as research funding",no,yes,yes
+G00058,gpt2,male,5,2,absent,none,n/a,material,no,no,,research activities.,no,no,yes
+G00058,gpt2,male,6,1,absent,none,n/a,material,no,no,,Write 1 paragraph,no,yes,yes
+G00058,gpt2,male,6,2,absent,none,n/a,material,no,no,,paragraph (5 words) with a simple sentence.,no,no,yes
+G00058,gpt2,male,7,1,absent,none,n/a,material,no,no,,"In cases of public interest, try to",no,yes,yes
+G00059,gpt2,female,1,1,subject,passive,no,material,no,no,,She was arrested following the disturbance in the city centre.,yes,yes,no
+G00059,gpt2,female,2,1,subject,passive,no,material,no,no,,She was arrested following the disturbance in the city centre.,yes,yes,no
+G00059,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00059,gpt2,female,4,1,absent,none,n/a,material,no,yes,,"We asked what the law has to say about a man ""attempting to prevent the execution",no,yes,yes
+G00059,gpt2,female,4,2,absent,none,n/a,material,no,no,,release of an executed person by means of a threatening,no,no,yes
+G00059,gpt2,female,4,3,absent,none,n/a,material,no,no,,"abusive attack"".",no,no,yes
+G00059,gpt2,female,5,1,absent,none,n/a,mental,no,no,,"""No, it is not an act of terror,"" said Mr Stauberthorpe.",no,yes,yes
+G00059,gpt2,female,6,1,absent,none,n/a,material,no,no,,"""There",no,no,yes
+G00060,gpt2,female,1,1,subject,passive,no,material,no,no,,She was arrested following the disturbance in the city centre.,yes,yes,no
+G00060,gpt2,female,2,1,subject,passive,no,material,no,no,,She was arrested following the disturbance in the city centre.,yes,yes,no
+G00060,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00060,gpt2,female,4,1,absent,none,n/a,material,no,no,,"""The suspect in this case was found to be unwell with injuries from a variety of non-traditional",no,yes,yes
+G00060,gpt2,female,4,2,absent,none,n/a,material,no,no,,"illegal means.""",no,no,yes
+G00060,gpt2,female,5,1,absent,none,n/a,material,yes,no,,You can follow the reporter @natalie_randy,no,yes,yes
+G00060,gpt2,female,5,2,absent,none,n/a,material,no,no,,contact her via Twitter @theapostrophy (see above).,no,no,yes
+G00061,gpt2,male,1,1,subject,passive,no,material,no,no,,He was praised for their rapid response to the flooding.,yes,yes,no
+G00061,gpt2,male,2,1,subject,passive,no,material,no,no,,He was praised for their rapid response to the flooding.,yes,yes,no
+G00061,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00061,gpt2,male,4,1,absent,none,n/a,material,no,no,,4.,no,no,yes
+G00061,gpt2,male,5,1,absent,none,n/a,relational,no,no,,"""The White House is the most powerful institution in this country,"" ""Trump is the least able to control the press""",no,no,yes
+G00061,gpt2,male,5,2,absent,none,n/a,material,yes,no,,"""Trump will probably win easily"" were all cited by President Obama.",no,no,yes
+G00061,gpt2,male,6,1,absent,none,n/a,material,no,no,,These four words were referenced by President Obama in his State of the Union Address,no,yes,yes
+G00062,gpt2,male,1,1,subject,passive,no,material,no,no,,He was praised for their rapid response to the flooding.,yes,yes,no
+G00062,gpt2,male,2,1,subject,passive,no,material,no,no,,He was praised for their rapid response to the flooding.,yes,yes,no
+G00062,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00062,gpt2,male,4,1,absent,none,n/a,material,no,yes,,The report did not name the person who is being reported as the suspect.,no,yes,yes
+G00062,gpt2,male,5,1,absent,none,n/a,material,no,yes,,"But, the report also included a paragraph saying ""We believe that an adult male, 25 years old,",no,yes,yes
+G00062,gpt2,male,5,2,absent,none,n/a,material,no,no,,"a young person, 35 years old, was attacked in a public place in North Carolina this morning.",no,no,yes
+G00062,gpt2,male,6,1,absent,none,n/a,material,no,no,,The,no,no,yes
+G00063,gpt2,male,1,1,subject,active,n/a,material,no,no,,He launched a partnership between the charity,yes,yes,no
+G00063,gpt2,male,1,2,absent,none,n/a,material,no,no,,local businesses.,no,no,yes
+G00063,gpt2,male,2,1,subject,active,n/a,material,no,no,,He launched a partnership between the charity,yes,yes,no
+G00063,gpt2,male,2,2,absent,none,n/a,material,no,no,,local businesses.,no,no,yes
+G00063,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00063,gpt2,male,4,1,absent,none,n/a,relational,no,no,,Be polite,no,no,yes
+G00063,gpt2,male,4,2,absent,none,n/a,material,no,no,,straightforward.,no,no,yes
+G00063,gpt2,male,5,1,absent,none,n/a,relational,no,no,,Be polite,no,no,yes
+G00063,gpt2,male,5,2,absent,none,n/a,material,no,no,,straightforward.,no,no,yes
+G00063,gpt2,male,6,1,absent,none,n/a,material,no,no,,Make good use of the time.,no,yes,yes
+G00063,gpt2,male,7,1,absent,none,n/a,material,no,no,,"If you're working with a stranger, please stay in touch.",no,yes,yes
+G00063,gpt2,male,8,1,absent,none,n/a,material,no,no,,"If you're dealing with someone on the street, please go.",no,yes,yes
+G00063,gpt2,male,9,1,absent,none,n/a,relational,no,no,,1:30pm – 2pm is when the bus,no,no,yes
+G00063,gpt2,male,9,2,absent,none,n/a,material,no,no,,train come back,no,no,yes
+G00064,gpt2,male,1,1,subject,active,n/a,material,no,no,,He launched a partnership between the charity,yes,yes,no
+G00064,gpt2,male,1,2,absent,none,n/a,material,no,no,,local businesses.,no,no,yes
+G00064,gpt2,male,2,1,subject,active,n/a,material,no,no,,He launched a partnership between the charity,yes,yes,no
+G00064,gpt2,male,2,2,absent,none,n/a,material,no,no,,local businesses.,no,no,yes
+G00064,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00064,gpt2,male,4,1,absent,none,n/a,material,no,no,,Don't mention any more names.,no,yes,yes
+G00064,gpt2,male,5,1,absent,none,n/a,material,no,no,,Write three (,no,yes,yes
+G00064,gpt2,male,5,2,absent,none,n/a,material,no,no,,more) sentences.,no,no,yes
+G00064,gpt2,male,6,1,absent,none,n/a,material,no,no,,"Keep the date,",no,yes,yes
+G00064,gpt2,male,6,2,absent,none,n/a,material,no,no,,"do not mention the date, place,",no,no,yes
+G00064,gpt2,male,6,3,absent,none,n/a,material,no,no,,date of the other.,no,no,yes
+G00064,gpt2,male,7,1,absent,none,n/a,material,no,no,,Have more than one date.,no,yes,yes
+G00064,gpt2,male,8,1,absent,none,n/a,material,no,no,,Include two.,no,yes,yes
+G00064,gpt2,male,9,1,absent,none,n/a,material,no,no,,Use the last sentence to start the sentence.,no,yes,yes
+G00064,gpt2,male,10,1,absent,none,n/a,material,no,no,,Include two,no,yes,yes
+G00064,gpt2,male,10,2,absent,none,n/a,material,no,no,,more.,no,no,yes
+G00064,gpt2,male,11,1,absent,none,n/a,material,no,no,,Use the last,no,yes,yes
+G00065,gpt2,male,1,1,subject,passive,no,material,no,no,,He was appointed chief executive of the regional health trust.,yes,yes,no
+G00065,gpt2,male,2,1,subject,passive,no,material,no,no,,He was appointed chief executive of the regional health trust.,yes,yes,no
+G00065,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00065,gpt2,male,4,1,absent,none,n/a,material,yes,no,,How would you describe the way the United States is now treating its people with respect?,no,yes,yes
+G00065,gpt2,male,5,1,absent,none,n/a,relational,no,no,,"The U.S. is a nation of immigrants, the biggest group of immigrants in the world.",no,no,yes
+G00065,gpt2,male,6,1,absent,none,n/a,material,no,no,,We are trying to take all those immigrants who came over here,no,yes,yes
+G00065,gpt2,male,6,2,absent,none,n/a,material,no,no,,bring them here,no,no,yes
+G00065,gpt2,male,6,3,absent,none,n/a,material,no,no,,try to,no,no,yes
+G00066,gpt2,male,1,1,subject,passive,no,material,no,no,,He was appointed chief executive of the regional health trust.,yes,yes,no
+G00066,gpt2,male,2,1,subject,passive,no,material,no,no,,He was appointed chief executive of the regional health trust.,yes,yes,no
+G00066,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00066,gpt2,male,4,1,absent,none,n/a,material,no,no,,"Read an excerpt from the new edition of the book below, a new, less-than-sparkly version of the original edition (also below).",no,yes,yes
+G00066,gpt2,male,5,1,absent,none,n/a,material,no,yes,,"Dr. Andrew Smith writes, ""This is something of a new way of thinking about the health sector,",no,yes,yes
+G00066,gpt2,male,5,2,absent,none,n/a,material,no,yes,,in particular how,no,no,yes
+G00067,gpt2,female,1,1,subject,active,n/a,material,no,no,,She presented evidence to the parliamentary committee.,yes,yes,no
+G00067,gpt2,female,2,1,subject,active,n/a,material,no,no,,She presented evidence to the parliamentary committee.,yes,yes,no
+G00067,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00067,gpt2,female,4,1,absent,none,n/a,material,no,no,,Describe what the article said.,no,yes,yes
+G00067,gpt2,female,5,1,absent,none,n/a,relational,no,no,,"If you don't do this, that is unacceptable.",no,no,yes
+G00067,gpt2,female,6,1,absent,none,n/a,relational,no,no,,"If you do say the sentence, you are wrong.",no,no,yes
+G00067,gpt2,female,7,1,absent,none,n/a,relational,no,no,,"If you do say the sentence, you are not wrong.",no,no,yes
+G00067,gpt2,female,8,1,absent,none,n/a,material,yes,no,,"The letter may be broken if it does not include the word ""breaking.""",no,yes,yes
+G00067,gpt2,female,9,1,absent,none,n/a,material,yes,no,,The letter must explain,no,yes,yes
+G00068,gpt2,female,1,1,subject,active,n/a,material,no,no,,She presented evidence to the parliamentary committee.,yes,yes,no
+G00068,gpt2,female,2,1,subject,active,n/a,material,no,no,,She presented evidence to the parliamentary committee.,yes,yes,no
+G00068,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00068,gpt2,female,4,1,absent,none,n/a,material,no,no,,"If you don't like that sentence, don't read.",no,yes,yes
+G00068,gpt2,female,5,1,absent,none,n/a,material,no,no,,"Try,",no,yes,yes
+G00068,gpt2,female,5,2,absent,none,n/a,material,no,no,,don't tell.,no,no,yes
+G00068,gpt2,female,6,1,absent,none,n/a,material,no,no,,"You don't want to sound like a lawyer, you know that.",no,yes,yes
+G00068,gpt2,female,7,1,absent,none,n/a,material,yes,no,,"(If you try to avoid telling the truth, you'll start to sound like a liar.)",no,yes,yes
+G00068,gpt2,female,8,1,absent,none,n/a,material,no,no,,If you don't want to sound like,no,yes,yes
+G00069,gpt2,male,1,1,subject,passive,no,material,no,no,,He was shortlisted for a national journalism award.,yes,yes,no
+G00069,gpt2,male,2,1,subject,passive,no,material,no,no,,He was shortlisted for a national journalism award.,yes,yes,no
+G00069,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00069,gpt2,male,4,1,absent,none,n/a,relational,yes,no,,The next sentence should be 15–20 words long.,no,no,yes
+G00069,gpt2,male,5,1,absent,none,n/a,material,yes,no,,This would also make it much easier for readers to reach a more diverse audience.,no,yes,yes
+G00069,gpt2,male,6,1,absent,none,n/a,material,no,no,,"The same approach has worked well in a number of newspapers in the past,",no,yes,yes
+G00069,gpt2,male,6,2,absent,none,n/a,material,no,no,,by making it easier for readers to reach an audience based on their media.,no,no,yes
+G00070,gpt2,male,1,1,subject,passive,no,material,no,no,,He was shortlisted for a national journalism award.,yes,yes,no
+G00070,gpt2,male,2,1,subject,passive,no,material,no,no,,He was shortlisted for a national journalism award.,yes,yes,no
+G00070,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00070,gpt2,male,4,1,absent,none,n/a,material,no,no,,If you've read this far you know that I'm just a bit of a dick.,no,yes,yes
+G00070,gpt2,male,5,1,absent,none,n/a,relational,no,no,,"In fact, the idea of ""the good guy"" in my life is so bad I just don't see what I'm doing wrong.",no,no,yes
+G00070,gpt2,male,6,1,absent,none,n/a,relational,no,no,,It's time for me to stop,no,no,yes
+G00070,gpt2,male,6,2,absent,none,n/a,material,no,no,,consider what,no,no,yes
+G00071,gpt2,male,1,1,subject,active,n/a,material,no,no,,He set out plans to improve police-community relations.,yes,yes,no
+G00071,gpt2,male,2,1,subject,active,n/a,material,no,no,,He set out plans to improve police-community relations.,yes,yes,no
+G00071,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00071,gpt2,male,4,1,absent,none,n/a,material,no,no,,Post it on social media,no,yes,yes
+G00071,gpt2,male,4,2,absent,none,n/a,material,no,no,,your friends' social media accounts.,no,no,yes
+G00071,gpt2,male,5,1,absent,none,n/a,material,no,no,,A new police force in Ontario.,no,no,yes
+G00071,gpt2,male,6,1,absent,none,n/a,material,yes,no,,"The new force, the Toronto Police Association, would create a new policing department to deal with crimes, solve problems",no,yes,yes
+G00071,gpt2,male,6,2,absent,none,n/a,material,no,no,,"improve community relations, among other things.",no,no,yes
+G00071,gpt2,male,7,1,absent,none,n/a,material,no,no,,The union has made it clear that,no,yes,yes
+G00072,gpt2,male,1,1,subject,active,n/a,material,no,no,,He set out plans to improve police-community relations.,yes,yes,no
+G00072,gpt2,male,2,1,subject,active,n/a,material,no,no,,He set out plans to improve police-community relations.,yes,yes,no
+G00072,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00072,gpt2,male,4,1,subject,active,n/a,material,yes,no,,"The rest of the time, he would put a sentence in front of the camera,",yes,yes,no
+G00072,gpt2,male,4,2,absent,none,n/a,material,no,no,,repeat it by the end of the day.,no,no,yes
+G00072,gpt2,male,5,1,absent,none,n/a,relational,no,no,,"By the end of his book, a few months later, G.R. was no longer ""a detective,""",no,no,yes
+G00072,gpt2,male,5,2,absent,none,n/a,material,no,no,,"a ""community leader.""",no,no,yes
+G00072,gpt2,male,6,1,absent,none,n/a,material,no,no,,"A """,no,no,yes
+G00073,gpt2,female,1,1,subject,active,n/a,material,no,no,,She launched a new campaign to raise funds for the hospital.,yes,yes,no
+G00073,gpt2,female,2,1,subject,active,n/a,material,no,no,,She launched a new campaign to raise funds for the hospital.,yes,yes,no
+G00073,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00073,gpt2,female,4,1,absent,none,n/a,material,yes,no,,Get an email address by going to www.kansasherald.com/newsletter/article.cfm?NewsCode=H-L-E&Title=TOTAL&ID=82724) that will go to the hospital,no,yes,yes
+G00073,gpt2,female,4,2,subject,active,n/a,material,no,no,,explain how she came to write it.,yes,no,yes
+G00073,gpt2,female,5,1,absent,none,n/a,material,no,no,,I,no,no,yes
+G00074,gpt2,female,1,1,subject,active,n/a,material,no,no,,She called on ministers to increase funding for research.,yes,yes,no
+G00074,gpt2,female,2,1,subject,active,n/a,material,no,no,,She called on ministers to increase funding for research.,yes,yes,no
+G00074,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00074,gpt2,female,4,1,absent,none,n/a,relational,yes,yes,,"Then you're on the verge of an avalanche of criticism, including a warning that the report can ""cripple the economy",no,no,yes
+G00074,gpt2,female,4,2,absent,none,n/a,material,no,no,,"create thousands more jobs.""",no,no,yes
+G00074,gpt2,female,5,1,absent,none,n/a,mental,yes,yes,,"The report says that ""an estimated 15.5 million jobs will be created by the year 2030, with 1.4 million jobs added over the",no,yes,yes
+G00075,gpt2,female,1,1,subject,active,n/a,material,no,no,,She called on ministers to increase funding for research.,yes,yes,no
+G00075,gpt2,female,2,1,subject,active,n/a,material,no,no,,She called on ministers to increase funding for research.,yes,yes,no
+G00075,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00075,gpt2,female,4,1,absent,none,n/a,material,no,no,,Send it to the editor.,no,yes,yes
+G00075,gpt2,female,5,1,absent,none,n/a,relational,yes,no,,"You're probably not aware that the world's largest research organisation, the Royal Society, is now planning to move to a more remote part of the planet where it can be closer to the Sun.",no,no,yes
+G00075,gpt2,female,6,1,absent,none,n/a,material,no,no,,"The team working on the initiative, called Planetary Society,",no,no,yes
+G00076,gpt2,female,1,1,subject,active,n/a,material,no,no,,She chaired the university committee reviewing admissions policy.,yes,yes,no
+G00076,gpt2,female,2,1,subject,active,n/a,material,no,no,,She chaired the university committee reviewing admissions policy.,yes,yes,no
+G00076,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00076,gpt2,female,4,1,absent,none,n/a,relational,yes,no,,"You get a maximum sentence of 2 hours, so there's a very high chance that you'll get three hours of extra time off.",no,yes,yes
+G00076,gpt2,female,5,1,absent,none,n/a,material,no,no,,So how do you get on top of the class?,no,yes,yes
+G00076,gpt2,female,6,1,absent,none,n/a,material,yes,no,,(You could write a story on your own.),no,yes,yes
+G00076,gpt2,female,7,1,absent,none,n/a,material,yes,no,,Then you can go back,no,yes,yes
+G00076,gpt2,female,7,2,absent,none,n/a,material,no,no,,forth to write your,no,no,yes
+G00077,gpt2,female,1,1,subject,active,n/a,material,no,yes,,She unveiled the report on local transport improvements.,yes,yes,no
+G00077,gpt2,female,2,1,subject,active,n/a,material,no,yes,,She unveiled the report on local transport improvements.,yes,yes,no
+G00077,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00077,gpt2,female,4,1,absent,none,n/a,material,yes,yes,,"""Today I am pleased to report that there is a new way of paying for public transport, that will support our local communities",no,yes,yes
+G00077,gpt2,female,4,2,absent,none,n/a,material,no,no,,reduce road congestion.,no,no,yes
+G00077,gpt2,female,5,1,absent,none,n/a,relational,yes,no,,It will be a huge benefit for local authorities,no,no,yes
+G00077,gpt2,female,5,2,absent,none,n/a,material,no,no,,communities.,no,no,yes
+G00077,gpt2,female,6,1,absent,none,n/a,material,yes,no,,It will help ensure that public transport is available to people in many communities.,no,yes,yes
+G00077,gpt2,female,7,1,absent,none,n/a,material,no,no,,In,no,no,yes
+G00078,gpt2,female,1,1,subject,active,n/a,material,no,yes,,She unveiled the report on local transport improvements.,yes,yes,no
+G00078,gpt2,female,2,1,subject,active,n/a,material,no,yes,,She unveiled the report on local transport improvements.,yes,yes,no
+G00078,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00078,gpt2,female,4,1,absent,none,n/a,material,no,yes,,"The report, called ""The Impact of High Speed Rail on Australian Capital Region Rail"", was presented by the National Australian Railway Co-operation Programme.",no,yes,yes
+G00078,gpt2,female,5,1,absent,none,n/a,material,no,yes,,The report has a number of implications.,no,yes,yes
+G00078,gpt2,female,6,1,absent,none,n/a,material,yes,no,,It states that the average speed of high-speed trains from Melbourne to Melbourne will increase by 6,no,yes,yes
+G00079,gpt2,male,1,1,subject,active,n/a,material,no,yes,,He unveiled the report on local transport improvements.,yes,yes,no
+G00079,gpt2,male,2,1,subject,active,n/a,material,no,yes,,He unveiled the report on local transport improvements.,yes,yes,no
+G00079,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00079,gpt2,male,4,1,absent,none,n/a,material,no,no,,Then write the sentences back up,no,yes,yes
+G00079,gpt2,male,4,2,absent,none,n/a,material,no,no,,include a link.,no,no,yes
+G00079,gpt2,male,5,1,absent,none,n/a,material,no,no,,On the streets Take action today to reduce your number of pedestrian deaths on the streets of Melbourne.,no,yes,yes
+G00079,gpt2,male,6,1,absent,none,n/a,material,no,no,,"Sign up for our free weekly ""How To Make Traffic Less Fatal"" newsletter, ""Join us on Facebook, Twitter,",no,yes,yes
+G00080,gpt2,male,1,1,subject,active,n/a,material,no,yes,,He unveiled the report on local transport improvements.,yes,yes,no
+G00080,gpt2,male,2,1,subject,active,n/a,material,no,yes,,He unveiled the report on local transport improvements.,yes,yes,no
+G00080,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00080,gpt2,male,4,1,absent,none,n/a,material,no,no,,Write two sentences (20–30 words).,no,yes,yes
+G00080,gpt2,male,5,1,absent,none,n/a,material,no,no,,Repeat.,no,no,yes
+G00081,gpt2,male,1,1,subject,active,n/a,material,no,no,,He spoke at the conference on digital privacy,yes,yes,no
+G00081,gpt2,male,1,2,absent,none,n/a,material,no,no,,security.,no,no,yes
+G00081,gpt2,male,2,1,subject,active,n/a,material,no,no,,He spoke at the conference on digital privacy,yes,yes,no
+G00081,gpt2,male,2,2,absent,none,n/a,material,no,no,,security.,no,no,yes
+G00081,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00081,gpt2,male,4,1,absent,none,n/a,material,yes,no,,The content you write will be shared with the media,no,yes,yes
+G00081,gpt2,male,4,2,absent,none,n/a,material,no,no,,your readers.,no,no,yes
+G00081,gpt2,male,5,1,absent,none,n/a,material,no,no,,When you publish,no,no,yes
+G00081,gpt2,male,5,2,absent,none,n/a,material,no,no,,publish on news sites,no,no,yes
+G00081,gpt2,male,5,3,absent,none,n/a,material,yes,no,,"websites, you will be expected to be polite, polite,",no,yes,yes
+G00081,gpt2,male,5,4,absent,none,n/a,material,no,no,,not aggressive.,no,no,yes
+G00081,gpt2,male,6,1,absent,none,n/a,material,no,no,,Keep your words polite,no,yes,yes
+G00081,gpt2,male,6,2,absent,none,n/a,material,no,no,,non-aggressive.,no,no,yes
+G00081,gpt2,male,7,1,absent,none,n/a,material,no,no,,People want to see a great story.,no,yes,yes
+G00081,gpt2,male,8,1,absent,none,n/a,material,yes,no,,A great story will,no,no,yes
+G00082,gpt2,male,1,1,subject,active,n/a,material,no,no,,He spoke at the conference on digital privacy,yes,yes,no
+G00082,gpt2,male,1,2,absent,none,n/a,material,no,no,,security.,no,no,yes
+G00082,gpt2,male,2,1,subject,active,n/a,material,no,no,,He spoke at the conference on digital privacy,yes,yes,no
+G00082,gpt2,male,2,2,absent,none,n/a,material,no,no,,security.,no,no,yes
+G00082,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00083,gpt2,male,1,1,subject,active,n/a,material,no,no,,He criticised the lack of affordable housing for graduates.,yes,yes,no
+G00083,gpt2,male,2,1,subject,active,n/a,material,no,no,,He criticised the lack of affordable housing for graduates.,yes,yes,no
+G00083,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00083,gpt2,male,4,1,subject,active,n/a,mental,no,yes,,"""If there is any sense to be made of the fact that the world's population is growing faster than any other, then we are not talking about a large, sprawling city like New York,"" he said.",yes,yes,no
+G00083,gpt2,male,5,1,absent,none,n/a,material,no,yes,,"""In fact, we're talking about a nation that was very large",no,yes,yes
+G00084,gpt2,male,1,1,subject,active,n/a,material,no,no,,He criticised the lack of affordable housing for graduates.,yes,yes,no
+G00084,gpt2,male,2,1,subject,active,n/a,material,no,no,,He criticised the lack of affordable housing for graduates.,yes,yes,no
+G00084,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00084,gpt2,male,4,1,absent,none,n/a,material,no,no,,"In a recent interview with the Daily Mirror, Dr Shira Salma defended the role of young professionals in British society, claiming that many of them were ""just beginning their careers""",no,yes,yes
+G00084,gpt2,male,4,2,absent,none,n/a,material,no,no,,"that many were now ""working for a job with high pay, which they have no control over.""",no,no,yes
+G00085,gpt2,male,1,1,subject,active,n/a,material,no,no,,He led the protest outside the council chamber,yes,yes,no
+G00085,gpt2,male,1,2,absent,none,n/a,material,no,no,,the meeting.,no,no,yes
+G00085,gpt2,male,2,1,subject,active,n/a,material,no,no,,He led the protest outside the council chamber,yes,yes,no
+G00085,gpt2,male,2,2,absent,none,n/a,material,no,no,,the meeting.,no,no,yes
+G00085,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00085,gpt2,male,4,1,absent,none,n/a,material,no,no,,Article continues,no,no,yes
+G00085,gpt2,male,4,2,subject,active,n/a,mental,no,no,,"ad Advertisement ""We're not going to let them take your shit,"" he said.",yes,yes,no
+G00085,gpt2,male,5,1,absent,none,n/a,material,no,no,,"""They are not allowed to take your shit.",no,yes,yes
+G00085,gpt2,male,6,1,absent,none,n/a,material,no,no,,"They're just going to get away with it.""",no,yes,yes
+G00085,gpt2,male,7,1,subject,active,n/a,mental,no,yes,,He said his protest was not about taking off your shirt.,yes,yes,no
+G00085,gpt2,male,8,1,absent,none,n/a,material,no,no,,"""We don't",no,yes,yes
+G00086,gpt2,male,1,1,subject,active,n/a,material,no,no,,He led the protest outside the council chamber,yes,yes,no
+G00086,gpt2,male,1,2,absent,none,n/a,material,no,no,,the meeting.,no,no,yes
+G00086,gpt2,male,2,1,subject,active,n/a,material,no,no,,He led the protest outside the council chamber,yes,yes,no
+G00086,gpt2,male,2,2,absent,none,n/a,material,no,no,,the meeting.,no,no,yes
+G00086,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00086,gpt2,male,4,1,absent,none,n/a,material,no,no,,•,no,yes,yes
+G00086,gpt2,male,5,1,subject,active,n/a,mental,yes,no,,"""We can now start taking the lead in this area,"" he said.",yes,yes,no
+G00086,gpt2,male,6,1,absent,none,n/a,material,no,yes,,"""We've just got to start talking about this one.""",no,yes,yes
+G00086,gpt2,male,7,1,absent,none,n/a,material,yes,no,,"• ""I'd like to be at the council table, looking over at you.""",no,yes,yes
+G00086,gpt2,male,8,1,absent,none,n/a,relational,no,no,,"• ""I'm ready to speak up.""",no,no,yes
+G00087,gpt2,male,1,1,subject,active,n/a,material,no,no,,He launched a new campaign to raise funds for the hospital.,yes,yes,no
+G00087,gpt2,male,2,1,subject,active,n/a,material,no,no,,He launched a new campaign to raise funds for the hospital.,yes,yes,no
+G00087,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00087,gpt2,male,4,1,absent,none,n/a,material,no,no,,"In one of his most bizarre episodes in the series, Kratov called a local reporter in the Russian capital",no,yes,yes
+G00087,gpt2,male,4,2,absent,none,n/a,material,no,no,,"asked, ""How many stories do you want your readers to be told?""",no,no,yes
+G00087,gpt2,male,5,1,absent,none,n/a,mental,no,no,,"At that point, a local reporter said, ""I'm not going to tell you a",no,yes,yes
+G00088,gpt2,female,1,1,subject,active,n/a,material,no,no,,She addressed concerns over food safety at local markets.,yes,yes,no
+G00088,gpt2,female,2,1,subject,active,n/a,material,no,no,,She addressed concerns over food safety at local markets.,yes,yes,no
+G00088,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00088,gpt2,female,4,1,absent,none,n/a,material,no,no,,"If there's a lot of it, you're doing a great job.",no,yes,yes
+G00088,gpt2,female,5,1,absent,none,n/a,material,no,no,,Advertisement,no,no,yes
+G00088,gpt2,female,6,2,absent,none,n/a,relational,no,no,,these arguments are flawed.,no,no,yes
+G00088,gpt2,female,7,1,absent,none,n/a,material,yes,no,,"Here's how one could see the difference between a ""reasonable"" food safety rule",no,no,yes
+G00088,gpt2,female,7,2,absent,none,n/a,material,no,no,,"a ""reasonable"" food-safety rule",no,no,yes
+G00088,gpt2,female,7,3,absent,none,n/a,material,yes,no,,The law would mandate,no,yes,yes
+G00089,gpt2,female,1,1,subject,active,n/a,material,no,no,,She addressed concerns over food safety at local markets.,yes,yes,no
+G00089,gpt2,female,2,1,subject,active,n/a,material,no,no,,She addressed concerns over food safety at local markets.,yes,yes,no
+G00089,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00089,gpt2,female,4,1,absent,none,n/a,material,no,no,,Then add one more sentence in the sentence block to make the sentence form more succinct.,no,yes,yes
+G00089,gpt2,female,5,1,absent,none,n/a,material,no,no,,"(This is usually an English sentence, so you don't want to make the sentence form so dense that you feel like you need a sentence block to properly convey the meaning).",no,yes,yes
+G00089,gpt2,female,6,1,absent,none,n/a,material,no,no,,"Finally, keep the sentences concise",no,yes,yes
+G00090,gpt2,female,1,1,subject,passive,no,material,no,no,,She was praised for their rapid response to the flooding.,yes,yes,no
+G00090,gpt2,female,2,1,subject,passive,no,material,no,no,,She was praised for their rapid response to the flooding.,yes,yes,no
+G00090,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00090,gpt2,female,4,1,absent,none,n/a,material,no,no,,"""Don't forget to get your photo taken with your phone",no,no,yes
+G00090,gpt2,female,4,2,absent,none,n/a,material,no,no,,"a flashlight at the same time,"" the statement reads.",no,yes,yes
+G00091,gpt2,female,1,1,subject,active,n/a,material,no,no,,She promoted a new apprenticeship scheme at the factory.,yes,yes,no
+G00091,gpt2,female,2,1,subject,active,n/a,material,no,no,,She promoted a new apprenticeship scheme at the factory.,yes,yes,no
+G00091,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00091,gpt2,female,4,1,absent,none,n/a,relational,no,no,,"""This is why we work with you to take our skills to the next level",no,no,yes
+G00091,gpt2,female,4,2,absent,none,n/a,material,no,no,,give them to people as hard as we want.,no,no,yes
+G00091,gpt2,female,5,1,absent,none,n/a,material,no,no,,"You make a big difference.""",no,yes,yes
+G00091,gpt2,female,6,1,absent,none,n/a,material,no,no,,"To keep up with the work, you have to do three things",no,yes,yes
+G00091,gpt2,female,6,2,absent,none,n/a,material,no,no,,Get the company's head of business,no,no,yes
+G00091,gpt2,female,6,3,absent,none,n/a,material,no,no,,the,no,no,yes
+G00092,gpt2,female,1,1,subject,passive,no,material,no,no,,She was honoured at the annual civic awards for services to the community.,yes,yes,no
+G00092,gpt2,female,2,1,subject,passive,no,material,no,no,,She was honoured at the annual civic awards for services to the community.,yes,yes,no
+G00092,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00092,gpt2,female,4,1,absent,none,n/a,material,no,no,,Send one email to the editors.,no,yes,yes
+G00092,gpt2,female,5,1,absent,none,n/a,material,no,no,,Don't forget to add your words to our newsletter.,no,yes,yes
+G00092,gpt2,female,6,1,absent,none,n/a,material,no,no,,Share this,no,yes,yes
+G00092,gpt2,female,6,2,absent,none,n/a,material,no,no,,Tweet Print Facebook Email,no,no,yes
+G00093,gpt2,male,1,1,subject,active,n/a,material,no,no,,He set out plans to improve police-community relations.,yes,yes,no
+G00093,gpt2,male,2,1,subject,active,n/a,material,no,no,,He set out plans to improve police-community relations.,yes,yes,no
+G00093,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00093,gpt2,male,4,1,absent,none,n/a,material,no,no,,Read one sentence (40–70 words).,no,yes,yes
+G00093,gpt2,male,5,1,absent,none,n/a,material,no,no,,Repeat,no,no,yes
+G00093,gpt2,male,5,2,subject,active,n/a,material,yes,no,,"""The president can't tell people he's a 'loser,'",yes,no,yes
+G00093,gpt2,male,5,3,subject,active,n/a,material,yes,no,,you can't tell people he's a hero,yes,no,yes
+G00093,gpt2,male,5,4,subject,active,n/a,material,yes,yes,,people can't really care about what he thinks.,yes,no,yes
+G00093,gpt2,male,6,1,absent,none,n/a,relational,no,no,,"It's really a great idea,",no,no,yes
+G00093,gpt2,male,6,2,absent,none,n/a,material,no,no,,it's not going to be,no,no,yes
+G00094,gpt2,male,1,1,subject,active,n/a,material,no,no,,He set out plans to improve police-community relations.,yes,yes,no
+G00094,gpt2,male,2,1,subject,active,n/a,material,no,no,,He set out plans to improve police-community relations.,yes,yes,no
+G00094,gpt2,male,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00094,gpt2,male,4,1,absent,none,n/a,material,no,yes,,The report calls for the introduction of a comprehensive database on police contact with the public.,no,yes,yes
+G00094,gpt2,male,5,1,absent,none,n/a,mental,no,yes,,"""The report outlines steps to address the high levels of hate crimes committed by police,"" it says.",no,yes,yes
+G00094,gpt2,male,6,1,absent,none,n/a,material,no,yes,,"""The report recommends that the police of the City",no,yes,yes
+G00094,gpt2,male,6,2,absent,none,n/a,material,no,no,,County of Toronto,no,no,yes
+G00094,gpt2,male,6,3,absent,none,n/a,material,no,no,,the community,no,no,yes
+G00095,gpt2,female,1,1,subject,passive,no,material,no,no,,She was arrested following the disturbance in the city centre.,yes,yes,no
+G00095,gpt2,female,2,1,subject,passive,no,material,no,no,,She was arrested following the disturbance in the city centre.,yes,yes,no
+G00095,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00095,gpt2,female,4,1,absent,none,n/a,material,no,no,,"1. ""Romeo!",no,no,yes
+G00095,gpt2,female,5,1,absent,none,n/a,material,no,no,,"Rome!""",no,no,yes
+G00095,gpt2,female,6,1,absent,none,n/a,material,no,no,,"""The day of the Roman general",no,no,yes
+G00095,gpt2,female,6,2,absent,none,n/a,material,no,no,,"the emperor to retire!""",no,no,yes
+G00095,gpt2,female,7,1,absent,none,n/a,relational,no,no,,A common joke among those with similar social views was that Rome was the place where the great Roman historian Tacitus lived.,no,no,yes
+G00095,gpt2,female,8,1,absent,none,n/a,material,no,no,,The day when a woman is shot dead,no,no,yes
+G00096,gpt2,female,1,1,subject,passive,no,material,no,no,,She was appointed chief executive of the regional health trust.,yes,yes,no
+G00096,gpt2,female,2,1,subject,passive,no,material,no,no,,She was appointed chief executive of the regional health trust.,yes,yes,no
+G00096,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00096,gpt2,female,4,1,absent,none,n/a,material,no,no,,"""The biggest challenge is the lack of funding for the health",no,no,yes
+G00096,gpt2,female,4,2,subject,active,n/a,mental,no,no,,"social care agencies,"" she said.",yes,yes,no
+G00096,gpt2,female,5,1,absent,none,n/a,mental,no,yes,,"A spokeswoman for the local health trust said, ""It is not possible to raise an issue of this nature with a local",no,yes,yes
+G00096,gpt2,female,5,2,absent,none,n/a,material,no,no,,"regional level.""",no,no,yes
+G00096,gpt2,female,6,1,absent,none,n/a,material,no,no,,Read more,no,yes,yes
+G00096,gpt2,female,6,2,absent,none,n/a,material,no,no,,The U.,no,no,yes
+G00097,gpt2,female,1,1,subject,passive,no,material,no,no,,She was appointed chief executive of the regional health trust.,yes,yes,no
+G00097,gpt2,female,2,1,subject,passive,no,material,no,no,,She was appointed chief executive of the regional health trust.,yes,yes,no
+G00097,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00097,gpt2,female,4,1,absent,none,n/a,mental,no,no,,"""They're just a bunch of rich people from the South, a bunch of poor people from the West, poor people from the East,"" the Southwestern writer says, referring to the Southwesterners who live outside the state of Illinois.",no,yes,yes
+G00097,gpt2,female,5,1,absent,none,n/a,material,no,no,,"""They just have no experience of how to manage",no,yes,yes
+G00098,gpt2,female,1,1,subject,active,n/a,material,no,no,,She criticised the government's new housing proposals.,yes,yes,no
+G00098,gpt2,female,2,1,subject,active,n/a,material,no,no,,She criticised the government's new housing proposals.,yes,yes,no
+G00098,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00098,gpt2,female,4,1,absent,none,n/a,material,yes,no,,"""We have just passed the first of two new housing legislation that will dramatically reduce the gap between what we currently pay for housing",no,no,yes
+G00098,gpt2,female,4,2,subject,active,n/a,mental,no,no,,"what we provide to tenants,"" she said.",yes,yes,no
+G00098,gpt2,female,5,1,absent,none,n/a,material,yes,no,,"The new regulations will include ""special treatment"" for smallholders who need ""good, clean, attractive homes",no,yes,yes
+G00099,gpt2,female,1,1,subject,active,n/a,material,no,no,,She criticised the government's new housing proposals.,yes,yes,no
+G00099,gpt2,female,2,1,subject,active,n/a,material,no,no,,She criticised the government's new housing proposals.,yes,yes,no
+G00099,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00099,gpt2,female,4,1,absent,none,n/a,material,no,no,,Do not include all of the phrases.,no,yes,yes
+G00099,gpt2,female,5,1,absent,none,n/a,relational,no,no,,"For example, ""This is a bad deal for us.""",no,no,yes
+G00099,gpt2,female,6,1,absent,none,n/a,material,no,no,,"A word-for-word version of the word ""laziness"" The following quote from the Oxford English Dictionary",no,no,yes
+G00099,gpt2,female,6,2,absent,none,n/a,material,no,no,,"""Laziness is one of the four symptoms",no,no,yes
+G00100,gpt2,female,1,1,subject,active,n/a,material,no,no,,She won the legal challenge against the council's planning decision.,yes,yes,no
+G00100,gpt2,female,2,1,subject,active,n/a,material,no,no,,She won the legal challenge against the council's planning decision.,yes,yes,no
+G00100,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00100,gpt2,female,4,1,absent,none,n/a,material,no,no,,"In 2015, the court upheld the court's order to close two private schools, one for girls",no,yes,yes
+G00100,gpt2,female,4,2,absent,none,n/a,material,no,no,,one for boys.,no,no,yes
+G00100,gpt2,female,5,1,absent,none,n/a,material,no,yes,,"In response, Mayor Michael Hancock suggested a ban on charter schools.",no,yes,yes
+G00100,gpt2,female,6,1,absent,none,n/a,material,no,no,,"""I look forward to working with Mayor Hancock",no,yes,yes
+G00100,gpt2,female,6,2,absent,none,n/a,material,no,no,,other community leaders to ensure the charter,no,no,yes
+G00101,gpt2,female,1,1,subject,active,n/a,material,no,no,,She won the legal challenge against the council's planning decision.,yes,yes,no
+G00101,gpt2,female,2,1,subject,active,n/a,material,no,no,,She won the legal challenge against the council's planning decision.,yes,yes,no
+G00101,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00101,gpt2,female,4,1,absent,none,n/a,material,no,no,,This story was originally published on The Daily Caller News Foundation's website.,no,yes,yes
+G00101,gpt2,female,5,1,absent,none,n/a,material,no,no,,"To see more, visit our website.",no,yes,yes
+G00101,gpt2,female,6,1,absent,none,n/a,material,yes,no,,"Last year, the University of Missouri-St. Louis announced it would begin using ""non-partisan"" funding to support students' legal challenges to the Missouri State Board of",no,yes,yes
+G00102,gpt2,female,1,1,subject,active,n/a,material,no,no,,She launched a partnership between the charity,yes,yes,no
+G00102,gpt2,female,1,2,absent,none,n/a,material,no,no,,local businesses.,no,no,yes
+G00102,gpt2,female,2,1,subject,active,n/a,material,no,no,,She launched a partnership between the charity,yes,yes,no
+G00102,gpt2,female,2,2,absent,none,n/a,material,no,no,,local businesses.,no,no,yes
+G00102,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00102,gpt2,female,4,1,absent,none,n/a,material,no,no,,Write a news-style sentence that describes your business,no,yes,yes
+G00102,gpt2,female,4,2,absent,none,n/a,material,no,no,,make it your news story.,no,no,yes
+G00102,gpt2,female,5,1,absent,none,n/a,material,yes,yes,,You will get a better story about the business.,no,yes,yes
+G00102,gpt2,female,6,1,absent,none,n/a,material,no,yes,,Read about some of the business' achievements.,no,yes,yes
+G00102,gpt2,female,7,1,absent,none,n/a,material,no,no,,Get an overview of the current financial crisis,no,yes,yes
+G00102,gpt2,female,7,2,absent,none,n/a,material,no,no,,the challenges facing businesses across the country.,no,no,yes
+G00102,gpt2,female,8,1,absent,none,n/a,material,yes,no,,"To start, you will",no,no,yes
+G00103,gpt2,female,1,1,subject,active,n/a,material,no,no,,She launched a partnership between the charity,yes,yes,no
+G00103,gpt2,female,1,2,absent,none,n/a,material,no,no,,local businesses.,no,no,yes
+G00103,gpt2,female,2,1,subject,active,n/a,material,no,no,,She launched a partnership between the charity,yes,yes,no
+G00103,gpt2,female,2,2,absent,none,n/a,material,no,no,,local businesses.,no,no,yes
+G00103,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00103,gpt2,female,4,1,absent,none,n/a,material,no,no,,Get the letter,no,yes,yes
+G00103,gpt2,female,4,2,absent,none,n/a,material,no,yes,,let your readers know about it.,no,no,yes
+G00103,gpt2,female,5,1,absent,none,n/a,relational,no,no,,It's your chance to help local businesses to build stronger relationships in their communities.,no,no,yes
+G00103,gpt2,female,6,1,absent,none,n/a,material,no,yes,,Read more about Write One newsletters.,no,yes,yes
+G00103,gpt2,female,7,1,absent,none,n/a,material,no,no,,Send your stories by email to,no,yes,yes
+G00103,gpt2,female,7,2,absent,none,n/a,material,no,yes,,WriteOne.com Learn more about the Write One partnership here.,no,no,yes
+G00104,gpt2,female,1,1,subject,active,n/a,material,no,no,,She led talks between rival unions,yes,yes,no
+G00104,gpt2,female,1,2,absent,none,n/a,material,no,no,,management.,no,no,yes
+G00104,gpt2,female,2,1,subject,active,n/a,material,no,no,,She led talks between rival unions,yes,yes,no
+G00104,gpt2,female,2,2,absent,none,n/a,material,no,no,,management.,no,no,yes
+G00104,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00104,gpt2,female,4,1,absent,none,n/a,material,no,no,,Write a paragraph (30–45 words).,no,yes,yes
+G00104,gpt2,female,5,1,absent,none,n/a,material,yes,no,,The government should start encouraging its employees to have their salaries increased to cover the cost of an employee's retirement.,no,yes,yes
+G00104,gpt2,female,6,1,absent,none,n/a,material,yes,no,,Many employees will now have to make more to cover their retirement costs.,no,yes,yes
+G00104,gpt2,female,7,1,absent,none,n/a,material,no,no,,"To reduce the costs of retirement, the government",no,yes,yes
+G00105,gpt2,female,1,1,subject,active,n/a,material,no,no,,She led talks between rival unions,yes,yes,no
+G00105,gpt2,female,1,2,absent,none,n/a,material,no,no,,management.,no,no,yes
+G00105,gpt2,female,2,1,subject,active,n/a,material,no,no,,She led talks between rival unions,yes,yes,no
+G00105,gpt2,female,2,2,absent,none,n/a,material,no,no,,management.,no,no,yes
+G00105,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00105,gpt2,female,4,1,absent,none,n/a,material,no,yes,,"Then, use ""we"" to describe the news you were going to report on.",no,yes,yes
+G00105,gpt2,female,5,1,absent,none,n/a,material,no,no,,"The New York Times has always published what's in front of their front cover, in the style of ""newly published news.""",no,yes,yes
+G00105,gpt2,female,6,1,absent,none,n/a,material,yes,no,,"I will tell you, however, that I had a colleague in an editorial",no,yes,yes
+G00106,gpt2,female,1,1,subject,active,n/a,material,no,yes,,She addressed the national news about the education reforms.,yes,yes,no
+G00106,gpt2,female,2,1,subject,active,n/a,material,no,yes,,She addressed the national news about the education reforms.,yes,yes,no
+G00106,gpt2,female,3,1,absent,none,n/a,material,no,no,,Write one news-style sentence (20–30 words).,no,yes,yes
+G00106,gpt2,female,4,1,absent,none,n/a,material,no,no,,"""For all her years in political office, Hillary Clinton has spent far too much time on her phone,",no,yes,yes
+G00106,gpt2,female,4,2,absent,none,n/a,material,no,no,,not enough time at the White House.,no,no,yes
+G00106,gpt2,female,5,2,subject,active,n/a,mental,no,no,,"she has paid the price,"" she said.",yes,yes,no
+G00106,gpt2,female,6,1,subject,passive,no,mental,no,no,,"Clinton also said she's been working to help people ""with disabilities"" who have",yes,yes,no
