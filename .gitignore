@@ -10,3 +10,5 @@ analysis/tables/*.md
 
 # ignore ephemeral pilot
 data/raw/pilot.csv
+analysis/exports/
+.venv/
