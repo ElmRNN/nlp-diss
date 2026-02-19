@@ -13,3 +13,6 @@ data/raw/pilot.csv
 analysis/exports/
 .venv/
 .venv/
+
+# Large scraped article bodies (do not commit)
+pipelines/cnn_dm_v3_gendered_focus/02_human_raw/articles_txt/
