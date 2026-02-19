@@ -16,3 +16,6 @@ analysis/exports/
 
 # Large scraped article bodies (do not commit)
 pipelines/cnn_dm_v3_gendered_focus/02_human_raw/articles_txt/
+
+# scraped article bodies (too large for git)
+**/articles_txt/
