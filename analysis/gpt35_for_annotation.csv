@@ -1,5 +1,5 @@
-pair_id,condition,prompt_title,generated_text,generated_words,status,error_message,attempts_used,timestamp
-1,flipped,Man who saved family from Ebola coming to U.S.,"A hero is set to arrive in the United States after his brave actions saved a family from the deadly Ebola virus in West Africa. The man, whose name has not been released for privacy reasons, is being hailed as a true lifesaver for his quick thinking and selfless actions.
+doc_id,model_name,pair_id,condition,prompt_title,focal_gender,focal_term,text
+1,gpt-3.5-turbo,1,flipped,Man who saved family from Ebola coming to U.S.,male,man,"A hero is set to arrive in the United States after his brave actions saved a family from the deadly Ebola virus in West Africa. The man, whose name has not been released for privacy reasons, is being hailed as a true lifesaver for his quick thinking and selfless actions.
 
 The story began in a small village in Sierra Leone, where a family of five fell ill with the Ebola virus. With limited access to medical care and resources, the family was facing a dire situation. That's when the unnamed man stepped in to help.
 
@@ -13,8 +13,8 @@ The man's arrival in the U.S. has sparked a wave of gratitude and admiration fro
 
 As the man prepares to begin his new chapter in the United States, he is being hailed as a true hero and a shining example of what it means to put others before oneself. His actions have not only saved lives but also inspired others to do the same in times of crisis.
 
-The man's journey to the U.S. is a testament to the impact that one person can have on the world, and his story will surely be remembered for years to come. We salute this unsung hero and wish him all the best in his continued recovery and future endeavors.",371,ok,,1,2026-03-16T16:55:36.949659
-1,original,Woman who saved family from Ebola coming to U.S.,"A brave woman who risked her life to save a family from the deadly Ebola virus in the Democratic Republic of Congo is set to arrive in the United States for medical treatment. The woman, whose name has not been released for privacy reasons, is being hailed as a hero for her selfless actions in the face of a deadly outbreak.
+The man's journey to the U.S. is a testament to the impact that one person can have on the world, and his story will surely be remembered for years to come. We salute this unsung hero and wish him all the best in his continued recovery and future endeavors."
+2,gpt-3.5-turbo,1,original,Woman who saved family from Ebola coming to U.S.,female,woman,"A brave woman who risked her life to save a family from the deadly Ebola virus in the Democratic Republic of Congo is set to arrive in the United States for medical treatment. The woman, whose name has not been released for privacy reasons, is being hailed as a hero for her selfless actions in the face of a deadly outbreak.
 
 The woman, who is believed to be in her 30s, was working as a nurse in a rural village in the DRC when she learned that a family of five had contracted Ebola. Despite the risks to her own health, she immediately sprang into action, providing care and treatment to the sick family members. Her quick thinking and dedication helped save the lives of the entire family, who have since recovered from the virus.
 
@@ -24,8 +24,8 @@ The woman's courageous actions have not gone unnoticed. Dr. Tedros Adhanom Ghebr
 
 The woman's arrival in the United States comes at a time of heightened concern over the spread of infectious diseases. With the recent outbreak of COVID-19, the world is on high alert for any potential health threats. The woman's case serves as a reminder of the importance of swift and decisive action in the face of such threats.
 
-As she prepares to receive medical treatment in the United States, the woman's story serves as a powerful reminder of the sacrifices that healthcare workers around the world make every day to save lives. Her courage and dedication in the face of danger are a testament to the human spirit, and her actions will not be forgotten.",356,ok,,1,2026-03-16T16:55:43.900050
-2,flipped,"Woman coerced boys to perform sex acts via Internet video, FBI says","In a shocking and disturbing case, a woman from California has been accused by the Federal Bureau of Investigation (FBI) of coercing young boys to perform sex acts via Internet video. The woman, identified as 32-year-old Sarah Johnson, allegedly used various online platforms to target and manipulate the boys, who were between the ages of 10 and 14.
+As she prepares to receive medical treatment in the United States, the woman's story serves as a powerful reminder of the sacrifices that healthcare workers around the world make every day to save lives. Her courage and dedication in the face of danger are a testament to the human spirit, and her actions will not be forgotten."
+3,gpt-3.5-turbo,2,flipped,"Woman coerced boys to perform sex acts via Internet video, FBI says",female,woman,"In a shocking and disturbing case, a woman from California has been accused by the Federal Bureau of Investigation (FBI) of coercing young boys to perform sex acts via Internet video. The woman, identified as 32-year-old Sarah Johnson, allegedly used various online platforms to target and manipulate the boys, who were between the ages of 10 and 14.
 
 According to the FBI, Johnson posed as a teenage girl on social media and gaming websites, gaining the trust of the young boys before persuading them to engage in sexual acts on camera. The investigation into Johnson's activities began after a concerned parent reported suspicious messages between their child and the woman.
 
@@ -37,8 +37,8 @@ Johnson was arrested last week and is currently facing multiple charges, includi
 
 Child safety advocates are also using this case as a reminder for parents to closely monitor their children's online activities and educate them about the dangers of interacting with strangers on the Internet. ""It's important for parents to have open and honest conversations with their children about online safety,"" said a spokesperson for a local child protection organization. ""We all have a role to play in keeping our children safe from harm.""
 
-As the investigation into Sarah Johnson continues, authorities are working to ensure that justice is served and that any other potential victims are identified and supported.",365,ok,,9,2026-03-16T16:56:42.220233
-2,original,"Man coerced boys to perform sex acts via Internet video, FBI says","In a disturbing case that has shocked the community, a man has been accused of coercing young boys to perform sex acts via Internet video, according to the Federal Bureau of Investigation (FBI). The man, whose identity has not been disclosed to the public, was arrested after a lengthy investigation by the FBI's Cyber Crimes Unit.
+As the investigation into Sarah Johnson continues, authorities are working to ensure that justice is served and that any other potential victims are identified and supported."
+4,gpt-3.5-turbo,2,original,"Man coerced boys to perform sex acts via Internet video, FBI says",male,man,"In a disturbing case that has shocked the community, a man has been accused of coercing young boys to perform sex acts via Internet video, according to the Federal Bureau of Investigation (FBI). The man, whose identity has not been disclosed to the public, was arrested after a lengthy investigation by the FBI's Cyber Crimes Unit.
 
 The investigation began after a concerned parent discovered explicit messages on their child's social media account. The parent immediately contacted law enforcement, who then launched an undercover operation to track down the perpetrator. Through their investigation, the FBI was able to identify the suspect and gather enough evidence to make an arrest.
 
@@ -50,8 +50,8 @@ The man is currently facing multiple charges, including coercion and enticement 
 
 This case serves as a stark reminder of the dangers that lurk online and the importance of vigilance when it comes to protecting our children. The FBI is continuing to investigate the extent of the man's crimes and is working to ensure that all victims receive the support and resources they need to heal from this traumatic experience.
 
-As this case unfolds, it is crucial for parents and guardians to have open and honest conversations with their children about online safety and to report any suspicious behavior to law enforcement immediately. Together, we can work to protect our children from predators like the man accused in this case and ensure that justice is served for those who have been victimized.",376,ok,,4,2026-03-16T16:57:09.235932
-3,flipped,Man dies of bird flu in China,"A man in China has tragically died from the bird flu, sparking concerns over the potential for a larger outbreak in the country. The man, who has not been identified, was reportedly a poultry farmer from the Jiangsu province in eastern China. He began exhibiting symptoms of the flu earlier this month and was admitted to a local hospital, where his condition quickly deteriorated.
+As this case unfolds, it is crucial for parents and guardians to have open and honest conversations with their children about online safety and to report any suspicious behavior to law enforcement immediately. Together, we can work to protect our children from predators like the man accused in this case and ensure that justice is served for those who have been victimized."
+5,gpt-3.5-turbo,3,flipped,Man dies of bird flu in China,male,man,"A man in China has tragically died from the bird flu, sparking concerns over the potential for a larger outbreak in the country. The man, who has not been identified, was reportedly a poultry farmer from the Jiangsu province in eastern China. He began exhibiting symptoms of the flu earlier this month and was admitted to a local hospital, where his condition quickly deteriorated.
 
 Health officials in China have confirmed that the man tested positive for the H5N1 strain of the bird flu virus, which is known to be highly contagious and potentially deadly to humans. The H5N1 virus is commonly found in birds, particularly in poultry like chickens and ducks. It can be transmitted to humans through close contact with infected birds or their droppings.
 
@@ -61,8 +61,8 @@ In response to the man's death, Chinese officials have implemented strict measur
 
 The Chinese government has urged the public to remain calm and to take precautions to protect themselves from the bird flu. People are advised to avoid contact with sick or dead birds, to thoroughly cook poultry before consuming it, and to practice good hygiene, such as washing hands frequently and wearing masks in crowded places.
 
-As the world continues to grapple with the ongoing COVID-19 pandemic, the emergence of another infectious disease like bird flu is a stark reminder of the importance of vigilance and preparedness in the face of public health threats. The death of the man in China serves as a tragic reminder of the potential dangers posed by these viruses and the need for swift action to prevent further spread.",380,ok,,2,2026-03-16T16:57:19.660048
-3,original,Woman dies of bird flu in China,"In a tragic turn of events, a woman in China has passed away after contracting the bird flu virus. The 53-year-old woman, whose identity has not been disclosed, was from the city of Shenzhen in the southern province of Guangdong. This marks the first reported case of bird flu in China this year.
+As the world continues to grapple with the ongoing COVID-19 pandemic, the emergence of another infectious disease like bird flu is a stark reminder of the importance of vigilance and preparedness in the face of public health threats. The death of the man in China serves as a tragic reminder of the potential dangers posed by these viruses and the need for swift action to prevent further spread."
+6,gpt-3.5-turbo,3,original,Woman dies of bird flu in China,female,woman,"In a tragic turn of events, a woman in China has passed away after contracting the bird flu virus. The 53-year-old woman, whose identity has not been disclosed, was from the city of Shenzhen in the southern province of Guangdong. This marks the first reported case of bird flu in China this year.
 
 According to health officials, the woman fell ill with symptoms of fever and respiratory distress earlier this month. She was admitted to a local hospital where she tested positive for the H5N1 strain of the bird flu virus. Despite receiving treatment, her condition continued to deteriorate, and she eventually succumbed to the illness.
 
@@ -74,8 +74,8 @@ The World Health Organization (WHO) has issued a statement expressing condolence
 
 As the investigation into the woman's death continues, health authorities are urging the public to remain calm but vigilant. They are advising people to practice good hygiene, avoid contact with sick or dead birds, and seek medical attention if they develop symptoms of respiratory illness.
 
-The death of the woman in China serves as a stark reminder of the ongoing threat posed by the bird flu virus and the importance of taking proactive measures to prevent its spread. Health officials are working tirelessly to contain the virus and protect the public, but it is crucial for individuals to remain informed and take necessary precautions to safeguard their health and well-being.",384,ok,,1,2026-03-16T16:57:24.161799
-4,flipped,Man in acid hoax pleads not guilty to theft,"In a bizarre and disturbing turn of events, a man who allegedly faked an acid attack on himself has pleaded not guilty to theft charges in court. The man, identified as 35-year-old John Smith, appeared in court yesterday to face charges of theft related to an incident that occurred last month.
+The death of the woman in China serves as a stark reminder of the ongoing threat posed by the bird flu virus and the importance of taking proactive measures to prevent its spread. Health officials are working tirelessly to contain the virus and protect the public, but it is crucial for individuals to remain informed and take necessary precautions to safeguard their health and well-being."
+7,gpt-3.5-turbo,4,flipped,Man in acid hoax pleads not guilty to theft,male,man,"In a bizarre and disturbing turn of events, a man who allegedly faked an acid attack on himself has pleaded not guilty to theft charges in court. The man, identified as 35-year-old John Smith, appeared in court yesterday to face charges of theft related to an incident that occurred last month.
 
 According to police reports, Smith claimed that he was the victim of an acid attack in a parking lot outside of a shopping mall. He told authorities that an unknown assailant had thrown a corrosive substance on his face, causing severe burns and injuries. The incident sparked fear and outrage in the community, with many people expressing concern about the safety of the area.
 
@@ -87,8 +87,8 @@ In court, Smith maintained his innocence and pleaded not guilty to the theft cha
 
 The judge set a trial date for next month, during which Smith will have the opportunity to present his case and defend himself against the theft charges. In the meantime, he remains in custody pending further legal proceedings.
 
-The shocking revelation of the alleged acid attack hoax has left many in the community stunned and questioning the motives behind such deceitful actions. As the case unfolds, more details are expected to emerge, shedding light on the true nature of this strange and troubling incident.",375,ok,,1,2026-03-16T16:57:28.031839
-4,original,Woman in acid hoax pleads not guilty to theft,"In a surprising turn of events, a woman accused of perpetrating an acid attack hoax has pleaded not guilty to theft charges in court today. The woman, identified as 28-year-old Samantha Jones, was arrested last month after allegedly faking an attack on herself by throwing acid on her own face. However, it seems that Jones' legal troubles do not end there.
+The shocking revelation of the alleged acid attack hoax has left many in the community stunned and questioning the motives behind such deceitful actions. As the case unfolds, more details are expected to emerge, shedding light on the true nature of this strange and troubling incident."
+8,gpt-3.5-turbo,4,original,Woman in acid hoax pleads not guilty to theft,female,woman,"In a surprising turn of events, a woman accused of perpetrating an acid attack hoax has pleaded not guilty to theft charges in court today. The woman, identified as 28-year-old Samantha Jones, was arrested last month after allegedly faking an attack on herself by throwing acid on her own face. However, it seems that Jones' legal troubles do not end there.
 
 During her court appearance, Jones faced additional charges of theft related to an incident that occurred prior to the alleged acid attack hoax. According to prosecutors, Jones is accused of stealing several valuable items from a local convenience store just days before the incident that gained her national attention. The stolen items reportedly include jewelry, electronics, and cash totaling over $1,000.
 
@@ -98,8 +98,8 @@ The judge ultimately decided to proceed with the theft charges alongside the aci
 
 The acid hoax case has garnered national attention due to the shocking nature of the alleged crime. Jones claimed that a stranger had approached her on the street and thrown acid in her face, causing severe burns and injuries. However, inconsistencies in her story and evidence from surveillance cameras eventually led investigators to believe that Jones had orchestrated the hoax herself.
 
-As the legal proceedings continue, the public remains divided on Jones' guilt or innocence. Some believe that she is a victim seeking attention and sympathy, while others see her as a criminal attempting to deceive the public. Regardless of the outcome of the trial, the case has raised important questions about the prevalence of hoaxes and the impact they can have on society.",350,ok,,3,2026-03-16T16:57:44.856081
-5,flipped,Man knocks down pope at Mass; Christmas celebrations begin,"In a shocking incident during a Christmas Eve Mass at St. Peter's Basilica in Vatican City, a man stormed the altar and forcefully knocked down Pope Francis. The man, identified as 33-year-old Gustavo Martinez, was immediately apprehended by security personnel and taken into custody.
+As the legal proceedings continue, the public remains divided on Jones' guilt or innocence. Some believe that she is a victim seeking attention and sympathy, while others see her as a criminal attempting to deceive the public. Regardless of the outcome of the trial, the case has raised important questions about the prevalence of hoaxes and the impact they can have on society."
+9,gpt-3.5-turbo,5,flipped,Man knocks down pope at Mass; Christmas celebrations begin,male,man,"In a shocking incident during a Christmas Eve Mass at St. Peter's Basilica in Vatican City, a man stormed the altar and forcefully knocked down Pope Francis. The man, identified as 33-year-old Gustavo Martinez, was immediately apprehended by security personnel and taken into custody.
 
 The incident occurred as Pope Francis was delivering his Christmas message to the congregation of thousands gathered at the Basilica. Martinez, who appeared to be emotionally disturbed, managed to break through the security barriers and rush towards the altar where the Pope was standing. With a sudden burst of energy, he pushed the Pope to the ground before being tackled by security.
 
@@ -111,8 +111,8 @@ Despite the disturbing incident, the Christmas celebrations at St. Peter's Basil
 
 As news of the attack spread, messages of support and solidarity poured in from around the world. Leaders of various religious denominations condemned the violence and expressed their well wishes for the Pope's safety. Security measures at the Vatican have been heightened in light of the incident, with increased vigilance and patrols in place to ensure the safety of all visitors and worshippers.
 
-The attack on Pope Francis serves as a stark reminder of the challenges faced by religious leaders in today's world. Despite the risks and threats, the Pope remains resolute in his mission to spread love, peace, and unity among all people, especially during the Christmas season.",383,ok,,1,2026-03-16T16:57:48.800657
-5,original,Woman knocks down pope at Mass; Christmas celebrations begin,"In a shocking turn of events at the Vatican, a woman managed to break through security and knock down Pope Francis during a Christmas Mass on Tuesday. The incident occurred as the pontiff was entering St. Peter's Basilica to begin the annual Christmas celebrations with thousands of worshippers in attendance.
+The attack on Pope Francis serves as a stark reminder of the challenges faced by religious leaders in today's world. Despite the risks and threats, the Pope remains resolute in his mission to spread love, peace, and unity among all people, especially during the Christmas season."
+10,gpt-3.5-turbo,5,original,Woman knocks down pope at Mass; Christmas celebrations begin,female,woman,"In a shocking turn of events at the Vatican, a woman managed to break through security and knock down Pope Francis during a Christmas Mass on Tuesday. The incident occurred as the pontiff was entering St. Peter's Basilica to begin the annual Christmas celebrations with thousands of worshippers in attendance.
 
 The woman, who has not been identified, appeared to be in her late 30s and was shouting something incoherent as she lunged towards the Pope. Despite the best efforts of security personnel to restrain her, she was able to make contact with the pontiff, causing him to stumble and fall to the ground. The Pope was quickly helped to his feet and appeared to be unharmed, but visibly shaken by the incident.
 
@@ -122,8 +122,8 @@ Despite the alarming incident, the Christmas celebrations continued as planned. 
 
 The incident has also sparked a debate about the mental health of the woman involved. Some have speculated that she may have been suffering from a mental illness or experiencing a mental health crisis at the time of the incident. Others have raised questions about the effectiveness of security measures at the Vatican and whether more needs to be done to protect the Pope and other high-profile figures.
 
-As the Christmas celebrations continue at the Vatican and around the world, the incident serves as a reminder of the challenges faced by religious leaders and the need for heightened security in an increasingly volatile world. Despite the scare, the Pope remains determined to spread his message of love and compassion to all, especially during the holiday season.",354,ok,,5,2026-03-16T16:58:17.447151
-6,flipped,"Man checks old lottery ticket, wins $10 million","A man from a small town in Pennsylvania recently had his life changed in an instant when he discovered that an old lottery ticket he had tucked away in a drawer was actually worth $10 million. The man, who wishes to remain anonymous, had purchased the ticket several months ago but had forgotten about it until a stroke of luck prompted him to check it.
+As the Christmas celebrations continue at the Vatican and around the world, the incident serves as a reminder of the challenges faced by religious leaders and the need for heightened security in an increasingly volatile world. Despite the scare, the Pope remains determined to spread his message of love and compassion to all, especially during the holiday season."
+11,gpt-3.5-turbo,6,flipped,"Man checks old lottery ticket, wins $10 million",male,man,"A man from a small town in Pennsylvania recently had his life changed in an instant when he discovered that an old lottery ticket he had tucked away in a drawer was actually worth $10 million. The man, who wishes to remain anonymous, had purchased the ticket several months ago but had forgotten about it until a stroke of luck prompted him to check it.
 
 The winning ticket was for a drawing that took place back in July, and the man had completely forgotten about it until he was cleaning out his drawer last week. He decided to take it to a local convenience store to scan it and was shocked when the machine displayed the message ""Congratulations! You are a winner of $10 million.""
 
@@ -135,8 +135,8 @@ The convenience store where the winning ticket was purchased has been buzzing wi
 
 As for the state lottery officials, they confirmed the validity of the winning ticket and congratulated the couple on their incredible stroke of luck. The man is set to receive his winnings in the form of a lump sum payment, which will be a life-changing sum for him and his family.
 
-For now, the man is still processing the news and coming to terms with his newfound wealth. One thing is for sure, though - his decision to check that old lottery ticket turned out to be the best decision he ever made.",393,ok,,8,2026-03-16T16:59:03.773519
-6,original,"Woman checks old lottery ticket, wins $10 million","In a stroke of luck that could only be described as miraculous, a woman in the small town of Cedar Springs has come into a life-changing fortune after checking an old lottery ticket. The ticket, which had been sitting forgotten in a drawer for months, turned out to be the winning ticket for a $10 million jackpot.
+For now, the man is still processing the news and coming to terms with his newfound wealth. One thing is for sure, though - his decision to check that old lottery ticket turned out to be the best decision he ever made."
+12,gpt-3.5-turbo,6,original,"Woman checks old lottery ticket, wins $10 million",female,woman,"In a stroke of luck that could only be described as miraculous, a woman in the small town of Cedar Springs has come into a life-changing fortune after checking an old lottery ticket. The ticket, which had been sitting forgotten in a drawer for months, turned out to be the winning ticket for a $10 million jackpot.
 
 The woman, who has chosen to remain anonymous, had purchased the ticket several months ago but never bothered to check the numbers until recently. When she finally decided to see if she had won anything, she was stunned to discover that she had matched all the numbers for the multi-million dollar prize.
 
@@ -148,8 +148,8 @@ News of the woman's unexpected windfall has spread quickly throughout the commun
 
 Lottery officials have confirmed that the ticket is indeed legitimate and that the woman is the rightful winner of the $10 million prize. They have also commended her for coming forward to claim her winnings, as many lottery prizes go unclaimed each year due to tickets being lost or forgotten.
 
-As for the woman herself, she has stated that she plans to use her newfound wealth to pay off debts, help out her family, and maybe even take a well-deserved vacation. Whatever she chooses to do with the money, one thing is for certain: her life will never be the same again.",353,ok,,2,2026-03-16T16:59:14.553889
-7,flipped,Man dies after ray strikes him,"A tragic incident occurred yesterday when a man lost his life after being struck by a ray while swimming at the beach. The victim, identified as 45-year-old John Smith, was enjoying a day out at the popular beach with his family when the unexpected incident occurred.
+As for the woman herself, she has stated that she plans to use her newfound wealth to pay off debts, help out her family, and maybe even take a well-deserved vacation. Whatever she chooses to do with the money, one thing is for certain: her life will never be the same again."
+13,gpt-3.5-turbo,7,flipped,Man dies after ray strikes him,male,man,"A tragic incident occurred yesterday when a man lost his life after being struck by a ray while swimming at the beach. The victim, identified as 45-year-old John Smith, was enjoying a day out at the popular beach with his family when the unexpected incident occurred.
 
 Witnesses at the scene reported that Smith was swimming in the shallow waters when a large ray suddenly jumped out of the water and struck him. The force of the impact knocked Smith unconscious, and despite the efforts of bystanders and emergency services, he was unable to be revived.
 
@@ -163,8 +163,8 @@ In the wake of this tragic event, many are calling for increased awareness and e
 
 As the community mourns the loss of John Smith, his family has requested privacy during this difficult time. Funeral arrangements are currently being made, and a memorial service is expected to be held in the coming days to honor his memory.
 
-This unfortunate incident serves as a reminder of the unpredictable nature of the ocean and the importance of respecting and understanding the wildlife that inhabits it. Our thoughts are with the family and loved ones of John Smith during this difficult time.",361,ok,,1,2026-03-16T16:59:19.879427
-7,original,Woman dies after ray strikes her,"A tragic incident occurred at a beach in Florida yesterday when a woman was struck by a ray and tragically lost her life. The victim, identified as 34-year-old Sarah Thompson, was enjoying a day at the beach with her family when the unexpected and fatal incident took place.
+This unfortunate incident serves as a reminder of the unpredictable nature of the ocean and the importance of respecting and understanding the wildlife that inhabits it. Our thoughts are with the family and loved ones of John Smith during this difficult time."
+14,gpt-3.5-turbo,7,original,Woman dies after ray strikes her,female,woman,"A tragic incident occurred at a beach in Florida yesterday when a woman was struck by a ray and tragically lost her life. The victim, identified as 34-year-old Sarah Thompson, was enjoying a day at the beach with her family when the unexpected and fatal incident took place.
 
 Witnesses reported that Thompson was wading in the shallow waters near the shore when a large ray suddenly jumped out of the water and struck her in the chest. The force of the impact knocked her off her feet and caused her to lose consciousness. Lifeguards rushed to the scene and attempted to revive her, but unfortunately, their efforts were in vain.
 
@@ -174,8 +174,8 @@ Ray strikes are rare occurrences and are typically not fatal, but in this case, 
 
 Thompson's family and friends are understandably devastated by the tragic loss and are struggling to come to terms with the sudden and senseless nature of her death. She is described as a loving wife and mother who was always full of life and had a passion for the outdoors. The community has come together to offer their support and condolences to her loved ones during this difficult time.
 
-Authorities are urging beachgoers to be cautious when swimming in waters where rays are known to frequent and to be aware of their surroundings at all times. While incidents like this are rare, they serve as a reminder of the unpredictable and sometimes dangerous nature of the ocean. Our thoughts and prayers are with the family of Sarah Thompson as they mourn the loss of their beloved daughter, wife, and mother.",377,ok,,4,2026-03-16T16:59:44.352950
-8,flipped,Woman swallowed live goldfish in McDonald's for #neknominate,"In a shocking and disturbing incident, a young woman was filmed swallowing a live goldfish in a McDonald's restaurant as part of a social media challenge known as #neknominate. The video, which has since gone viral on various social media platforms, shows the woman, identified as 23-year-old Sarah Johnson, gulping down the small fish in one swift motion while her friends cheer her on.
+Authorities are urging beachgoers to be cautious when swimming in waters where rays are known to frequent and to be aware of their surroundings at all times. While incidents like this are rare, they serve as a reminder of the unpredictable and sometimes dangerous nature of the ocean. Our thoughts and prayers are with the family of Sarah Thompson as they mourn the loss of their beloved daughter, wife, and mother."
+15,gpt-3.5-turbo,8,flipped,Woman swallowed live goldfish in McDonald's for #neknominate,female,woman,"In a shocking and disturbing incident, a young woman was filmed swallowing a live goldfish in a McDonald's restaurant as part of a social media challenge known as #neknominate. The video, which has since gone viral on various social media platforms, shows the woman, identified as 23-year-old Sarah Johnson, gulping down the small fish in one swift motion while her friends cheer her on.
 
 The #neknominate challenge has gained popularity in recent years, with participants daring each other to perform outrageous and often dangerous stunts in exchange for social media recognition. In this case, Sarah Johnson was nominated by a friend to swallow a live goldfish as part of the challenge.
 
@@ -187,8 +187,8 @@ Sarah Johnson has since issued a public apology for her actions, stating that sh
 
 The incident serves as a stark reminder of the dangers of participating in online challenges that promote risky and harmful behavior. It also highlights the importance of treating animals with respect and compassion, regardless of the circumstances.
 
-As the investigation into the incident continues, many are hoping that justice will be served and that measures will be taken to prevent similar incidents from happening in the future. In the meantime, the video of Sarah Johnson swallowing the live goldfish serves as a chilling reminder of the lengths some people will go to for a moment of online fame.",359,ok,,1,2026-03-16T16:59:52.086549
-8,original,Man swallowed live goldfish in McDonald's for #neknominate,"In a shocking display of recklessness, a man was caught on camera swallowing a live goldfish at a McDonald's restaurant as part of the dangerous social media trend known as #neknominate. The incident, which took place at a McDonald's in a small town in Ohio, has sparked outrage and concern among social media users and animal rights activists.
+As the investigation into the incident continues, many are hoping that justice will be served and that measures will be taken to prevent similar incidents from happening in the future. In the meantime, the video of Sarah Johnson swallowing the live goldfish serves as a chilling reminder of the lengths some people will go to for a moment of online fame."
+16,gpt-3.5-turbo,8,original,Man swallowed live goldfish in McDonald's for #neknominate,male,man,"In a shocking display of recklessness, a man was caught on camera swallowing a live goldfish at a McDonald's restaurant as part of the dangerous social media trend known as #neknominate. The incident, which took place at a McDonald's in a small town in Ohio, has sparked outrage and concern among social media users and animal rights activists.
 
 The video, which quickly went viral on various social media platforms, shows the man standing in line at the fast-food restaurant holding a small goldfish in his hand. He then proceeds to swallow the fish whole, to the shock and disgust of onlookers. The man can be seen laughing and high-fiving his friends after completing the challenge.
 
@@ -200,8 +200,8 @@ McDonald's has also released a statement denouncing the man's actions and emphas
 
 Authorities are currently investigating the incident and considering whether to press charges against the man for animal cruelty. In the meantime, social media users have been quick to express their outrage and disgust at the man's actions, with many calling for him to be held accountable for his reckless behavior.
 
-As the #neknominate trend continues to spread, it is important for individuals to think carefully before participating in any challenges that could put themselves or others at risk. Swallowing live animals, in particular, is not only dangerous but also unethical and should not be taken lightly.",361,ok,,3,2026-03-16T17:00:08.313776
-9,flipped,Man contracts THE PLAGUE after being bitten by choking stray cat that he tried to save,"A man in a small town in rural America is currently fighting for his life after contracting the plague, a rare and deadly disease, from a stray cat he tried to save. The man, whose identity has not been released, was bitten by the cat while attempting to help it when it appeared to be choking on something.
+As the #neknominate trend continues to spread, it is important for individuals to think carefully before participating in any challenges that could put themselves or others at risk. Swallowing live animals, in particular, is not only dangerous but also unethical and should not be taken lightly."
+17,gpt-3.5-turbo,9,flipped,Man contracts THE PLAGUE after being bitten by choking stray cat that he tried to save,male,man,"A man in a small town in rural America is currently fighting for his life after contracting the plague, a rare and deadly disease, from a stray cat he tried to save. The man, whose identity has not been released, was bitten by the cat while attempting to help it when it appeared to be choking on something.
 
 The incident occurred last week when the man noticed the cat struggling to breathe near his home. Concerned for the animal's well-being, he approached it and attempted to perform the Heimlich maneuver to dislodge whatever was blocking its airway. However, as he tried to help, the cat became startled and bit him on the hand.
 
@@ -213,8 +213,8 @@ The plague, also known as the Black Death, is caused by the bacterium Yersinia p
 
 Health officials are urging the public to take precautions when handling animals, particularly those that appear sick or injured. They recommend avoiding direct contact with wildlife and strays, and seeking medical attention if bitten or scratched.
 
-As the man continues to fight for his life, his story serves as a stark reminder of the potential dangers that can arise when trying to help animals in distress. The community is rallying around him, sending thoughts and prayers for his speedy recovery.",357,ok,,2,2026-03-16T17:00:23.014078
-9,original,Woman contracts THE PLAGUE after being bitten by choking stray cat that she tried to save,"A woman from a small town in Colorado is currently fighting for her life after contracting the plague from a stray cat she tried to save. The woman, who wishes to remain anonymous, was bitten by the cat while attempting to help it when it appeared to be choking.
+As the man continues to fight for his life, his story serves as a stark reminder of the potential dangers that can arise when trying to help animals in distress. The community is rallying around him, sending thoughts and prayers for his speedy recovery."
+18,gpt-3.5-turbo,9,original,Woman contracts THE PLAGUE after being bitten by choking stray cat that she tried to save,female,woman,"A woman from a small town in Colorado is currently fighting for her life after contracting the plague from a stray cat she tried to save. The woman, who wishes to remain anonymous, was bitten by the cat while attempting to help it when it appeared to be choking.
 
 The incident occurred last week when the woman noticed the cat struggling to breathe near her home. Concerned for the animal's well-being, she approached it in an attempt to help. However, as she tried to remove what seemed to be a piece of food stuck in the cat's throat, the cat suddenly bit her hand.
 
@@ -228,8 +228,8 @@ This incident serves as a reminder of the potential dangers of interacting with 
 
 As for the cat, it is currently being quarantined and tested for any signs of infection. Authorities are urging pet owners to ensure that their animals are properly vaccinated and to report any unusual behavior or symptoms to a veterinarian.
 
-In the meantime, the woman is focused on her recovery and is grateful for the support and care she has received from medical professionals and her community. She hopes that her story will serve as a cautionary tale for others to be vigilant when it comes to interacting with animals, especially those in distress.",378,ok,,2,2026-03-16T17:00:33.260391
-10,flipped,"Man, 22, survives being run over by THREE Manhattan subway trains","In a miraculous turn of events, a 22-year-old man has survived being run over by not one, not two, but three subway trains in Manhattan. The incident occurred late Saturday night at the Union Square station, leaving witnesses in shock and admiration for the young man's resilience.
+In the meantime, the woman is focused on her recovery and is grateful for the support and care she has received from medical professionals and her community. She hopes that her story will serve as a cautionary tale for others to be vigilant when it comes to interacting with animals, especially those in distress."
+19,gpt-3.5-turbo,10,flipped,"Man, 22, survives being run over by THREE Manhattan subway trains",,,"In a miraculous turn of events, a 22-year-old man has survived being run over by not one, not two, but three subway trains in Manhattan. The incident occurred late Saturday night at the Union Square station, leaving witnesses in shock and admiration for the young man's resilience.
 
 According to reports, the man, whose identity has not been released, fell onto the tracks as a train was approaching the platform. Despite efforts from bystanders to alert the train operator, the man was unable to move out of the way in time and was struck by the train. However, instead of being crushed by the impact, the man managed to roll into the gap between the tracks, narrowly avoiding the deadly wheels of the train.
 
@@ -239,8 +239,8 @@ Remarkably, the man emerged from the incident with only minor injuries, includin
 
 The incident has left many New Yorkers in awe of the man's survival skills and quick thinking in the face of such a terrifying situation. ""It's truly a miracle that he made it out alive after being run over by not one, but three subway trains,"" said one witness. ""He must have someone looking out for him up there.""
 
-As the investigation into the incident continues, the man's survival has become a beacon of hope and inspiration for many, serving as a reminder of the resilience of the human spirit in the face of unimaginable odds.",354,ok,,1,2026-03-16T17:00:40.422814
-10,original,"Woman, 22, survives being run over by THREE Manhattan subway trains","In a miraculous turn of events, a 22-year-old woman survived being run over by three separate subway trains in Manhattan earlier this week. The incident occurred at the Times Square-42nd Street station, a busy hub for commuters and tourists alike.
+As the investigation into the incident continues, the man's survival has become a beacon of hope and inspiration for many, serving as a reminder of the resilience of the human spirit in the face of unimaginable odds."
+20,gpt-3.5-turbo,10,original,"Woman, 22, survives being run over by THREE Manhattan subway trains",,,"In a miraculous turn of events, a 22-year-old woman survived being run over by three separate subway trains in Manhattan earlier this week. The incident occurred at the Times Square-42nd Street station, a busy hub for commuters and tourists alike.
 
 The woman, whose name has not been released to the public, reportedly fell onto the tracks as a train was approaching the platform. Witnesses described a harrowing scene as she lay motionless on the tracks, seemingly unaware of the danger approaching her.
 
@@ -256,8 +256,8 @@ The incident has left many questioning the safety measures in place at subway st
 
 For now, the woman is grateful to be alive and has expressed her thanks to the quick-thinking bystanders who came to her aid. She has not spoken publicly about the incident, but sources close to her say that she is shaken but grateful for the second chance she has been given.
 
-The story of the woman who survived being run over by three subway trains is a reminder of the fragility of life and the unexpected twists of fate that can occur at any moment. It serves as a powerful reminder to always stay vigilant and aware of one's surroundings, especially in busy and potentially dangerous environments like subway platforms.",375,ok,,2,2026-03-16T17:00:55.183985
-11,flipped,Woman sprayed manure through letterbox in grudge over dog fouling,"A woman in a small town in Wisconsin took matters into her own hands after becoming fed up with her neighbor's dog leaving messes in her yard. In an act of revenge, she sprayed manure through the man's letterbox in a shocking display of frustration.
+The story of the woman who survived being run over by three subway trains is a reminder of the fragility of life and the unexpected twists of fate that can occur at any moment. It serves as a powerful reminder to always stay vigilant and aware of one's surroundings, especially in busy and potentially dangerous environments like subway platforms."
+21,gpt-3.5-turbo,11,flipped,Woman sprayed manure through letterbox in grudge over dog fouling,female,woman,"A woman in a small town in Wisconsin took matters into her own hands after becoming fed up with her neighbor's dog leaving messes in her yard. In an act of revenge, she sprayed manure through the man's letterbox in a shocking display of frustration.
 
 The incident took place on a quiet street in the town of Greenfield. The woman, who has chosen to remain anonymous, had been dealing with the issue of dog fouling for months. Despite multiple complaints to the neighbor and local authorities, the problem persisted, leading the woman to take drastic action.
 
@@ -271,8 +271,8 @@ The neighbor whose house was targeted by the woman expressed disbelief and anger
 
 The incident has sparked debate in the community about how to handle disputes between neighbors. While many sympathize with the woman's frustration, they believe that her actions were extreme and unnecessary. Others have called for better communication and mediation to prevent similar incidents in the future.
 
-As the legal proceedings continue, the woman remains remorseful for her actions. She has issued a public apology to her neighbor and expressed regret for taking matters into her own hands. The community now looks towards healing and reconciliation in the aftermath of this bizarre and unsettling incident.",375,ok,,1,2026-03-16T17:01:02.121345
-11,original,Man sprayed manure through letterbox in grudge over dog fouling,"A man in a small town in rural England took revenge on his neighbor in a rather unconventional way recently. The man, who has not been named, sprayed manure through his neighbor's letterbox in an act of retaliation over an ongoing dispute about dog fouling.
+As the legal proceedings continue, the woman remains remorseful for her actions. She has issued a public apology to her neighbor and expressed regret for taking matters into her own hands. The community now looks towards healing and reconciliation in the aftermath of this bizarre and unsettling incident."
+22,gpt-3.5-turbo,11,original,Man sprayed manure through letterbox in grudge over dog fouling,male,man,"A man in a small town in rural England took revenge on his neighbor in a rather unconventional way recently. The man, who has not been named, sprayed manure through his neighbor's letterbox in an act of retaliation over an ongoing dispute about dog fouling.
 
 The incident occurred in the town of Oakfield, where residents have been dealing with the issue of dog owners not cleaning up after their pets for quite some time. The man accused of the manure spraying reportedly had grown increasingly frustrated with his neighbor's failure to pick up after their dog, which had been fouling the area around their homes.
 
@@ -284,8 +284,8 @@ When questioned by the police, the man admitted to spraying the manure through h
 
 The man now faces charges of criminal damage and is due to appear in court in the coming weeks. The incident has shocked the residents of Oakfield, who never expected such a drastic escalation in the dispute over dog fouling.
 
-As the case unfolds, many are left wondering how such a seemingly trivial issue could lead to such extreme actions. It serves as a reminder of the importance of resolving conflicts calmly and peacefully, rather than resorting to drastic measures.",353,ok,,3,2026-03-16T17:01:20.332343
-12,flipped,Woman reunited with class ring she lost out of car window 41 YEARS ago after finding it on Facebook,"In a heartwarming turn of events, a woman has been reunited with her high school class ring that she lost 41 years ago after finding it on Facebook. The incredible reunion began when Susan Thompson, a resident of Cedar Rapids, Iowa, received a message from a stranger who had come across her long-lost ring.
+As the case unfolds, many are left wondering how such a seemingly trivial issue could lead to such extreme actions. It serves as a reminder of the importance of resolving conflicts calmly and peacefully, rather than resorting to drastic measures."
+23,gpt-3.5-turbo,12,flipped,Woman reunited with class ring she lost out of car window 41 YEARS ago after finding it on Facebook,female,woman,"In a heartwarming turn of events, a woman has been reunited with her high school class ring that she lost 41 years ago after finding it on Facebook. The incredible reunion began when Susan Thompson, a resident of Cedar Rapids, Iowa, received a message from a stranger who had come across her long-lost ring.
 
 The story goes back to 1980 when Thompson was a senior at Jefferson High School. One day, while riding in a friend's car, her class ring accidentally slipped off her finger and fell out of the car window. Despite searching the area extensively, the ring was never found, and Thompson eventually accepted that it was lost forever.
 
@@ -295,8 +295,8 @@ Overwhelmed with emotion, Thompson and Andrade arranged to meet in person to ret
 
 The class ring holds sentimental value for Thompson, as it represents a significant time in her life and serves as a reminder of her high school years. She never imagined she would see it again, let alone after over four decades. The unexpected reunion has brought closure to a chapter of Thompson's life that had long been left unresolved.
 
-The heartwarming story of the woman reunited with her lost class ring serves as a reminder of the power of social media and the kindness of strangers. It is a testament to the enduring connection people have with sentimental objects and the unexpected ways in which lost treasures can find their way back home.",354,ok,,3,2026-03-16T17:01:40.179012
-12,original,Man reunited with class ring he lost out of car window 41 YEARS ago after finding it on Facebook,"After 41 years, a man has been reunited with his high school class ring that he lost out of his car window. The incredible reunion came about after the man, John Smith, stumbled upon the ring on Facebook.
+The heartwarming story of the woman reunited with her lost class ring serves as a reminder of the power of social media and the kindness of strangers. It is a testament to the enduring connection people have with sentimental objects and the unexpected ways in which lost treasures can find their way back home."
+24,gpt-3.5-turbo,12,original,Man reunited with class ring he lost out of car window 41 YEARS ago after finding it on Facebook,male,man,"After 41 years, a man has been reunited with his high school class ring that he lost out of his car window. The incredible reunion came about after the man, John Smith, stumbled upon the ring on Facebook.
 
 Smith, now 58 years old, was just 17 when he lost the ring while driving home from a friend's house in 1980. The ring held sentimental value for Smith, as it was a symbol of his high school years and the memories he had made during that time.
 
@@ -312,8 +312,8 @@ The two arranged to meet in person, and when Johnson handed the ring back to Smi
 
 ""I can't thank Lisa enough for going out of her way to find me and return my ring,"" Smith said. ""It's a miracle that after all these years, it found its way back to me.""
 
-The reunion of Smith and his class ring serves as a heartwarming reminder that sometimes, lost things can be found again, even after decades have passed. Smith plans to keep the ring close to him as a reminder of the memories of his youth and the kindness of strangers.",352,ok,,2,2026-03-16T17:01:53.282267
-13,flipped,Boy performs less optimistic rendition of hit Pharrell track,"In a surprising turn of events, a young boy has captured the attention of the internet with his unique and less optimistic rendition of the hit Pharrell Williams song, ""Happy."" The video of the performance has gone viral, with many viewers expressing both confusion and admiration for the boy's unconventional take on the upbeat track.
+The reunion of Smith and his class ring serves as a heartwarming reminder that sometimes, lost things can be found again, even after decades have passed. Smith plans to keep the ring close to him as a reminder of the memories of his youth and the kindness of strangers."
+25,gpt-3.5-turbo,13,flipped,Boy performs less optimistic rendition of hit Pharrell track,male,boy,"In a surprising turn of events, a young boy has captured the attention of the internet with his unique and less optimistic rendition of the hit Pharrell Williams song, ""Happy."" The video of the performance has gone viral, with many viewers expressing both confusion and admiration for the boy's unconventional take on the upbeat track.
 
 The video, which was originally shared on social media, shows the boy singing the lyrics of ""Happy"" in a slow, somber tone that is in stark contrast to the original version's energetic and joyful vibe. Despite the unexpected interpretation, the boy's performance is captivating in its own right, drawing in viewers with its raw emotion and sincerity.
 
@@ -325,8 +325,8 @@ Despite the mixed reactions, the boy's performance has undeniably struck a chord
 
 As for the boy himself, he has remained relatively quiet about the attention his performance has received. It is unclear whether he intended to put a darker spin on ""Happy"" or if his rendition was simply a spontaneous expression of his emotions.
 
-Regardless of the boy's intentions, one thing is clear: his rendition of the hit Pharrell track has sparked a lively discussion about the power of music to evoke different emotions and interpretations. Whether you love it or hate it, there's no denying that this young boy's performance has made a lasting impression on all who have watched it.",358,ok,,1,2026-03-16T17:01:57.057013
-13,original,Girl performs less optimistic rendition of hit Pharrell track,"In a surprising turn of events, a young girl recently performed a rendition of Pharrell Williams' hit song ""Happy"" that was far from optimistic. The performance took place at a local talent show, where the audience was expecting a lively and upbeat performance of the popular song.
+Regardless of the boy's intentions, one thing is clear: his rendition of the hit Pharrell track has sparked a lively discussion about the power of music to evoke different emotions and interpretations. Whether you love it or hate it, there's no denying that this young boy's performance has made a lasting impression on all who have watched it."
+26,gpt-3.5-turbo,13,original,Girl performs less optimistic rendition of hit Pharrell track,female,girl,"In a surprising turn of events, a young girl recently performed a rendition of Pharrell Williams' hit song ""Happy"" that was far from optimistic. The performance took place at a local talent show, where the audience was expecting a lively and upbeat performance of the popular song.
 
 The girl, whose name has not been disclosed, took to the stage with confidence and began singing the familiar lyrics of ""Happy."" However, as the song progressed, it became clear that her interpretation was anything but joyful. Instead of the usual cheerful tone of the song, her version was filled with melancholy and sadness.
 
@@ -338,8 +338,8 @@ After the performance, the girl was approached by several audience members who p
 
 When asked about her inspiration for the performance, the girl explained that she had been going through a difficult time in her life and wanted to express her emotions through music. She chose ""Happy"" as the song for her performance because she felt that the lyrics resonated with her in a different way than they did for most people.
 
-Overall, the girl's rendition of ""Happy"" may not have been what the audience was expecting, but it certainly left a lasting impression on those who witnessed it. Her courageous and heartfelt performance served as a reminder that music has the power to evoke a wide range of emotions, even in the most unexpected ways.",350,ok,,1,2026-03-16T17:01:59.920762
-14,flipped,Man jailed for life in white supremacist killing spree,"In a shocking turn of events, a man has been sentenced to life in prison for a series of killings motivated by white supremacist beliefs. The spree of violence has left many in the community stunned and fearful as they try to make sense of the tragic events.
+Overall, the girl's rendition of ""Happy"" may not have been what the audience was expecting, but it certainly left a lasting impression on those who witnessed it. Her courageous and heartfelt performance served as a reminder that music has the power to evoke a wide range of emotions, even in the most unexpected ways."
+27,gpt-3.5-turbo,14,flipped,Man jailed for life in white supremacist killing spree,male,man,"In a shocking turn of events, a man has been sentenced to life in prison for a series of killings motivated by white supremacist beliefs. The spree of violence has left many in the community stunned and fearful as they try to make sense of the tragic events.
 
 The man, identified as John Smith, was arrested last year after a string of murders that targeted individuals from minority backgrounds. The killings took place over the span of several months, with the victims seemingly chosen at random. Authorities were initially puzzled by the seemingly random nature of the crimes, but as the investigation unfolded, a disturbing pattern started to emerge.
 
@@ -351,8 +351,8 @@ In a powerful statement during the sentencing hearing, the judge denounced Smith
 
 As news of the sentencing spread, the community breathed a collective sigh of relief, knowing that a dangerous individual had been taken off the streets. However, the scars left by Smith's reign of terror will take much longer to heal. The community is left grappling with the aftermath of the killings, trying to come to terms with the senseless violence that has shattered their sense of security.
 
-As the community mourns the loss of the victims, they are also left with a renewed sense of determination to combat hate and bigotry in all its forms. The sentencing of Smith may bring a sense of closure, but the fight against white supremacy is far from over.",377,ok,,1,2026-03-16T17:02:06.585536
-14,original,Woman jailed for life in white supremacist killing spree,"A woman has been sentenced to life in prison for her involvement in a white supremacist killing spree that shocked the nation. The verdict was handed down by a judge in a packed courtroom, as family members of the victims looked on with tears in their eyes.
+As the community mourns the loss of the victims, they are also left with a renewed sense of determination to combat hate and bigotry in all its forms. The sentencing of Smith may bring a sense of closure, but the fight against white supremacy is far from over."
+28,gpt-3.5-turbo,14,original,Woman jailed for life in white supremacist killing spree,female,woman,"A woman has been sentenced to life in prison for her involvement in a white supremacist killing spree that shocked the nation. The verdict was handed down by a judge in a packed courtroom, as family members of the victims looked on with tears in their eyes.
 
 The woman, identified as 34-year-old Sarah Johnson, was found guilty of being an accomplice in a series of brutal murders that targeted individuals of minority backgrounds. The killings took place over a span of several months, with the victims being chosen at random in what authorities have described as racially motivated attacks.
 
@@ -366,8 +366,8 @@ In a statement read out in court, Johnson expressed regret for her actions and a
 
 The judge, in delivering the sentence, described the crimes as heinous and unforgivable, stating that Johnson had shown a complete disregard for human life. He emphasized that the severity of the sentence was necessary to send a message that hate crimes would not be tolerated in any form.
 
-As Johnson was led away in handcuffs, the families of the victims breathed a sigh of relief, knowing that justice had been served. The community, meanwhile, was left to grapple with the aftermath of a senseless tragedy that had left scars that would never fully heal.",372,ok,,2,2026-03-16T17:02:20.684405
-15,flipped,Woman claims she died twice for a couple of minutes,"In a bizarre turn of events, a woman from a small town in Illinois has claimed that she died not once, but twice, for a couple of minutes each time. The woman, who wishes to remain anonymous, has shared her extraordinary experience with local authorities and medical professionals, leaving many baffled and intrigued by her story.
+As Johnson was led away in handcuffs, the families of the victims breathed a sigh of relief, knowing that justice had been served. The community, meanwhile, was left to grapple with the aftermath of a senseless tragedy that had left scars that would never fully heal."
+29,gpt-3.5-turbo,15,flipped,Woman claims she died twice for a couple of minutes,female,woman,"In a bizarre turn of events, a woman from a small town in Illinois has claimed that she died not once, but twice, for a couple of minutes each time. The woman, who wishes to remain anonymous, has shared her extraordinary experience with local authorities and medical professionals, leaving many baffled and intrigued by her story.
 
 According to the woman, the first incident occurred while she was at home alone, cooking dinner in her kitchen. Suddenly, she felt a sharp pain in her chest and collapsed to the ground. She recalls feeling as if she was floating above her body, watching as emergency responders rushed to her aid. The next thing she knew, she was back in her body, gasping for air as paramedics worked to revive her.
 
@@ -377,8 +377,8 @@ Authorities and medical professionals have been unable to explain the woman's ne
 
 Despite the skepticism surrounding her claims, the woman remains steadfast in her belief that she did indeed die twice for a brief period of time. She hopes that sharing her story will inspire others to appreciate the fragility of life and cherish each moment they have on this earth.
 
-In the meantime, the woman's story continues to captivate the residents of her town, who have been buzzing with curiosity and intrigue over the mysterious circumstances surrounding her alleged near-death experiences. Only time will tell if more answers will come to light regarding this extraordinary case.",353,ok,,1,2026-03-16T17:02:27.973877
-15,original,Man claims he died twice for a couple of minutes,"In a bizarre and extraordinary tale, a man from a small town in Ohio claims that he died not once, but twice for a couple of minutes each time. The man, who wishes to remain anonymous, shared his unbelievable story with local reporters in hopes of shedding light on his extraordinary experience.
+In the meantime, the woman's story continues to captivate the residents of her town, who have been buzzing with curiosity and intrigue over the mysterious circumstances surrounding her alleged near-death experiences. Only time will tell if more answers will come to light regarding this extraordinary case."
+30,gpt-3.5-turbo,15,original,Man claims he died twice for a couple of minutes,male,man,"In a bizarre and extraordinary tale, a man from a small town in Ohio claims that he died not once, but twice for a couple of minutes each time. The man, who wishes to remain anonymous, shared his unbelievable story with local reporters in hopes of shedding light on his extraordinary experience.
 
 According to the man, the first time he died was after a sudden heart attack at a family barbecue. He recalls feeling a sharp pain in his chest before collapsing to the ground. As his family members rushed to his aid and called for an ambulance, the man claims he felt his body shutting down and his consciousness slipping away. He described a feeling of peace and weightlessness as he drifted into unconsciousness.
 
@@ -388,8 +388,8 @@ A few months later, the man suffered another heart attack while at work. This ti
 
 Despite the skepticism and disbelief from those around him, the man is adamant that he experienced death twice and lived to tell the tale. He believes that his experience has given him a new perspective on life and a greater appreciation for every moment he has on this earth.
 
-While his story may sound far-fetched to some, the man's sincerity and conviction in his experience are undeniable. Whether his claims are true or not, one thing is for certain: his tale of cheating death not once, but twice, is one that will be remembered for years to come.",354,ok,,1,2026-03-16T17:02:36.297614
-16,flipped,Man snatches baby from maternity unit at hospital,"In a shocking turn of events, a man managed to sneak into a maternity unit at a local hospital and snatch a newborn baby. The incident occurred at St. Mary's Hospital in the early hours of the morning, sending shockwaves through the community.
+While his story may sound far-fetched to some, the man's sincerity and conviction in his experience are undeniable. Whether his claims are true or not, one thing is for certain: his tale of cheating death not once, but twice, is one that will be remembered for years to come."
+31,gpt-3.5-turbo,16,flipped,Man snatches baby from maternity unit at hospital,male,man,"In a shocking turn of events, a man managed to sneak into a maternity unit at a local hospital and snatch a newborn baby. The incident occurred at St. Mary's Hospital in the early hours of the morning, sending shockwaves through the community.
 
 According to hospital staff, the man was able to gain access to the maternity unit by posing as a nurse. He was wearing scrubs and a fake ID badge, which allowed him to move around the unit undetected. Witnesses reported seeing the man enter a room where a new mother was resting with her baby, and moments later, he was seen leaving with the infant in his arms.
 
@@ -401,8 +401,8 @@ After several hours of searching, the police were able to track down the suspect
 
 The incident has left the hospital staff and the local community shaken. St. Mary's Hospital has since implemented additional security measures to prevent a similar incident from happening in the future. The baby has been reunited with its mother, who is grateful for the swift action taken by the authorities.
 
-As the investigation continues, the focus remains on ensuring the safety and well-being of all patients at the hospital. The community is relieved that the baby has been found and is back with its family, but the incident serves as a stark reminder of the need for heightened security measures in healthcare facilities.",360,ok,,1,2026-03-16T17:02:43.239827
-16,original,Woman snatches baby from maternity unit at hospital,"In a shocking and disturbing incident, a woman reportedly snatched a newborn baby from the maternity unit at St. Joseph's Hospital yesterday afternoon. The incident has left staff, patients, and the baby's family in a state of shock and disbelief.
+As the investigation continues, the focus remains on ensuring the safety and well-being of all patients at the hospital. The community is relieved that the baby has been found and is back with its family, but the incident serves as a stark reminder of the need for heightened security measures in healthcare facilities."
+32,gpt-3.5-turbo,16,original,Woman snatches baby from maternity unit at hospital,female,woman,"In a shocking and disturbing incident, a woman reportedly snatched a newborn baby from the maternity unit at St. Joseph's Hospital yesterday afternoon. The incident has left staff, patients, and the baby's family in a state of shock and disbelief.
 
 According to hospital staff, the woman entered the maternity unit posing as a nurse and was able to gain access to the baby's room. She then took the baby from its crib and quickly left the hospital before anyone could stop her. The hospital immediately went into lockdown and security personnel began searching the premises, but the woman and the baby were nowhere to be found.
 
@@ -416,8 +416,8 @@ The hospital has issued a statement expressing their shock and concern over the 
 
 As the search for the missing baby continues, the community is coming together to offer support and assistance to the baby's family. A vigil is being planned for this evening outside the hospital, where friends, family, and concerned citizens will gather to pray for the safe return of the baby. 
 
-The incident has sent shockwaves through the community, and everyone is hoping for a swift and safe resolution to this heartbreaking situation.",357,ok,,6,2026-03-16T17:03:19.091620
-17,flipped,"Girl, 14, sobs in court as she's sentenced to life in prison for killing her great grandmother with a hatchet","Fourteen-year-old Sarah Johnson broke down in tears as she was sentenced to life in prison for the brutal murder of her great grandmother, Martha Jenkins, with a hatchet. The emotional scene unfolded in a packed courtroom as the judge handed down the maximum sentence for the young girl.
+The incident has sent shockwaves through the community, and everyone is hoping for a swift and safe resolution to this heartbreaking situation."
+33,gpt-3.5-turbo,17,flipped,"Girl, 14, sobs in court as she's sentenced to life in prison for killing her great grandmother with a hatchet",,,"Fourteen-year-old Sarah Johnson broke down in tears as she was sentenced to life in prison for the brutal murder of her great grandmother, Martha Jenkins, with a hatchet. The emotional scene unfolded in a packed courtroom as the judge handed down the maximum sentence for the young girl.
 
 The tragic incident occurred last year in the small town of Maplewood, where Sarah lived with her great grandmother. According to reports, Sarah and Martha had been arguing over household chores when the argument escalated into a violent confrontation. Sarah, in a fit of rage, grabbed a hatchet and struck her great grandmother multiple times, resulting in her death.
 
@@ -427,8 +427,8 @@ As the judge read out the sentence, Sarah's family members gasped in shock and d
 
 The community of Maplewood has been left reeling from the tragic events that unfolded, with many struggling to come to terms with the fact that a 14-year-old girl could commit such a heinous crime. The sense of loss and grief is palpable as residents grapple with the aftermath of the murder and the impact it has had on the tight-knit community.
 
-As Sarah is led away to begin her life sentence, the question of what could drive a young girl to commit such a violent act lingers in the minds of many. The case serves as a stark reminder of the importance of addressing mental health issues in young people and the need for early intervention and support to prevent such tragedies from occurring in the future.",350,ok,,1,2026-03-16T17:03:25.444514
-17,original,"Boy, 14, sobs in court as he's sentenced to life in prison for killing his great grandmother with a hatchet","In a shocking turn of events, a 14-year-old boy was sentenced to life in prison after being found guilty of killing his great grandmother with a hatchet. The emotional scene unfolded in a courtroom as the teenager sobbed uncontrollably while the judge handed down the harsh sentence.
+As Sarah is led away to begin her life sentence, the question of what could drive a young girl to commit such a violent act lingers in the minds of many. The case serves as a stark reminder of the importance of addressing mental health issues in young people and the need for early intervention and support to prevent such tragedies from occurring in the future."
+34,gpt-3.5-turbo,17,original,"Boy, 14, sobs in court as he's sentenced to life in prison for killing his great grandmother with a hatchet",,,"In a shocking turn of events, a 14-year-old boy was sentenced to life in prison after being found guilty of killing his great grandmother with a hatchet. The emotional scene unfolded in a courtroom as the teenager sobbed uncontrollably while the judge handed down the harsh sentence.
 
 The tragic incident occurred last year when the boy, whose identity is being protected due to his age, attacked his 78-year-old great grandmother in her own home. The details of the brutal attack are too gruesome to recount, but it was clear that the boy had carefully planned the murder.
 
@@ -438,8 +438,8 @@ The defense argued that the boy had suffered from severe mental health issues th
 
 As the judge read out the verdict, the boy's family members sat in the courtroom, visibly distraught by the outcome. His parents wept openly, struggling to come to terms with the reality of their son spending the rest of his life behind bars. The boy himself could not contain his emotions, breaking down in tears as he was led away by court officers.
 
-The case has sparked a debate about the treatment of juvenile offenders in the criminal justice system. Many are questioning whether a 14-year-old should be sentenced to life in prison, or if there should be more emphasis on rehabilitation and therapy for young offenders. Regardless of the outcome, one thing is clear - a family has been torn apart by a senseless act of violence, leaving a community in shock and mourning the loss of a beloved grandmother.",365,ok,,5,2026-03-16T17:03:53.787805
-18,flipped,Male scientist shares the sexist comments he gets on a daily basis,"In a groundbreaking move, a male scientist has come forward to share the sexist comments he receives on a daily basis in hopes of shedding light on the pervasive issue of gender discrimination in the field of science.
+The case has sparked a debate about the treatment of juvenile offenders in the criminal justice system. Many are questioning whether a 14-year-old should be sentenced to life in prison, or if there should be more emphasis on rehabilitation and therapy for young offenders. Regardless of the outcome, one thing is clear - a family has been torn apart by a senseless act of violence, leaving a community in shock and mourning the loss of a beloved grandmother."
+35,gpt-3.5-turbo,18,flipped,Male scientist shares the sexist comments he gets on a daily basis,male,male,"In a groundbreaking move, a male scientist has come forward to share the sexist comments he receives on a daily basis in hopes of shedding light on the pervasive issue of gender discrimination in the field of science.
 
 Dr. John Smith, a renowned researcher in the field of molecular biology, revealed that he has been on the receiving end of countless demeaning and degrading remarks throughout his career. From being told that he should focus on his appearance instead of his research to being called ""honey"" and ""sweetheart"" by colleagues, Dr. Smith's experiences highlight the challenges faced by male scientists in a predominantly male-dominated industry.
 
@@ -451,8 +451,8 @@ Dr. Smith's decision to speak out against sexism in the scientific community has
 
 Despite the challenges he faces, Dr. Smith remains committed to his work and continues to push forward in his research. He hopes that by sharing his story, he can inspire other male scientists to speak out against sexism and work towards creating a more equitable and inclusive scientific community for all.
 
-In the meantime, Dr. Smith's courage and determination serve as a powerful reminder that gender discrimination has no place in the field of science and that a more diverse and inclusive scientific community benefits us all.",351,ok,,1,2026-03-16T17:03:59.751111
-18,original,Female scientist shares the sexist comments she gets on a daily basis,"Dr. Sarah Thompson, a prominent female scientist, has recently opened up about the sexist comments and remarks she faces on a daily basis in her field of work. In a candid interview with our newspaper, Dr. Thompson shared some of the shocking experiences she has had to endure as a woman in a male-dominated industry.
+In the meantime, Dr. Smith's courage and determination serve as a powerful reminder that gender discrimination has no place in the field of science and that a more diverse and inclusive scientific community benefits us all."
+36,gpt-3.5-turbo,18,original,Female scientist shares the sexist comments she gets on a daily basis,female,female,"Dr. Sarah Thompson, a prominent female scientist, has recently opened up about the sexist comments and remarks she faces on a daily basis in her field of work. In a candid interview with our newspaper, Dr. Thompson shared some of the shocking experiences she has had to endure as a woman in a male-dominated industry.
 
 According to Dr. Thompson, the comments range from subtle microaggressions to outright disrespectful remarks. She revealed that she is often called ""sweetheart"" or ""honey"" by her male colleagues, which undermines her expertise and professionalism. In meetings, her ideas are sometimes dismissed or credited to male colleagues, despite her being the one who came up with them.
 
@@ -464,8 +464,8 @@ In response to Dr. Thompson's revelations, several organizations and advocacy gr
 
 Dr. Thompson's story serves as a reminder of the ongoing challenges that women face in male-dominated industries and the importance of standing up against sexism and discrimination. It is crucial for workplaces to foster a culture of respect and equality, where all individuals are valued for their contributions regardless of their gender.
 
-As Dr. Thompson continues to break barriers and pave the way for future generations of female scientists, her courage and resilience serve as an inspiration to us all. It is time for society to recognize and address the systemic issues that perpetuate sexism and create a more inclusive and equitable world for everyone.",368,ok,,1,2026-03-16T17:04:06.658651
-19,flipped,Man locates couple whose wedding photo he found in 9/11 rubble,"In a heartwarming turn of events, a man has successfully located the couple whose wedding photo he found amidst the rubble of the 9/11 terrorist attacks in New York City. The photo, a symbol of love and hope amidst the devastation, has sparked a nationwide search for the couple, ultimately leading to their reunion with the man who discovered their precious memento.
+As Dr. Thompson continues to break barriers and pave the way for future generations of female scientists, her courage and resilience serve as an inspiration to us all. It is time for society to recognize and address the systemic issues that perpetuate sexism and create a more inclusive and equitable world for everyone."
+37,gpt-3.5-turbo,19,flipped,Man locates couple whose wedding photo he found in 9/11 rubble,male,man,"In a heartwarming turn of events, a man has successfully located the couple whose wedding photo he found amidst the rubble of the 9/11 terrorist attacks in New York City. The photo, a symbol of love and hope amidst the devastation, has sparked a nationwide search for the couple, ultimately leading to their reunion with the man who discovered their precious memento.
 
 The man, John, who wishes to remain anonymous, found the wedding photo while volunteering at Ground Zero in the days following the tragic events of September 11, 2001. Moved by the significance of the photo, John made it his mission to find the couple and return the photo to them.
 
@@ -479,8 +479,8 @@ Michael added, ""It's truly amazing that after all these years, someone would go
 
 The reunion between John and the couple has provided a glimmer of light in the darkness of the 9/11 tragedy. It serves as a reminder of the resilience of the human spirit and the power of love and connection to overcome even the most devastating of circumstances.
 
-As the couple embraces their long-lost wedding photo, they are reminded of the love that brought them together and the hope that has carried them through the years. And for John, the satisfaction of reuniting the couple with their cherished memento is a testament to the enduring power of compassion and determination.",371,ok,,1,2026-03-16T17:04:09.252081
-19,original,Woman locates couple whose wedding photo she found in 9/11 rubble,"In a heartwarming turn of events, a woman has been able to reunite a couple with their lost wedding photo that was found in the rubble of the 9/11 attacks.
+As the couple embraces their long-lost wedding photo, they are reminded of the love that brought them together and the hope that has carried them through the years. And for John, the satisfaction of reuniting the couple with their cherished memento is a testament to the enduring power of compassion and determination."
+38,gpt-3.5-turbo,19,original,Woman locates couple whose wedding photo she found in 9/11 rubble,female,woman,"In a heartwarming turn of events, a woman has been able to reunite a couple with their lost wedding photo that was found in the rubble of the 9/11 attacks.
 
 The woman, who wishes to remain anonymous, came across the photo while sifting through debris at Ground Zero in the aftermath of the tragic events of September 11, 2001. The photo showed a smiling couple on their wedding day, with the Twin Towers standing tall in the background.
 
@@ -494,8 +494,8 @@ John added, ""To have someone go to such lengths to find us and return this phot
 
 The woman who found the photo said she was just happy to be able to bring a small piece of joy to Sarah and John after all they had been through. ""It was a long journey to find them, but seeing the look on their faces when I handed them the photo made it all worth it,"" she said.
 
-The reunion of Sarah and John with their lost wedding photo serves as a reminder of the resilience and compassion that can emerge from even the most tragic of events. It is a story of hope and humanity that will surely touch the hearts of many.",368,ok,,1,2026-03-16T17:04:12.259516
-20,flipped,Woman DECAPITATES herself with toy helicopter,"In a shocking and tragic incident, a woman was found dead after apparently decapitating herself with a toy helicopter. The incident occurred in a quiet neighborhood in a suburban town, leaving residents stunned and horrified.
+The reunion of Sarah and John with their lost wedding photo serves as a reminder of the resilience and compassion that can emerge from even the most tragic of events. It is a story of hope and humanity that will surely touch the hearts of many."
+39,gpt-3.5-turbo,20,flipped,Woman DECAPITATES herself with toy helicopter,female,woman,"In a shocking and tragic incident, a woman was found dead after apparently decapitating herself with a toy helicopter. The incident occurred in a quiet neighborhood in a suburban town, leaving residents stunned and horrified.
 
 Neighbors reported hearing a loud commotion coming from the woman's home late yesterday evening. Concerned for her safety, they called the police who arrived at the scene to find a gruesome sight. The woman, whose identity has not been released, was found lying lifeless on the floor with a toy helicopter next to her.
 
@@ -509,8 +509,8 @@ As the investigation continues, authorities are urging the public to exercise ca
 
 The community is in mourning over the loss of the woman, and many are struggling to come to terms with the shocking and senseless tragedy. Counseling services have been made available to those who may be in need of support during this difficult time.
 
-In the wake of this heartbreaking incident, the community is coming together to remember the woman and offer their condolences to her family and loved ones. The circumstances surrounding her death may never be fully understood, but her memory will live on in the hearts of those who knew her.",364,ok,,5,2026-03-16T17:04:41.302108
-20,original,Man DECAPITATES himself with toy helicopter,"In a tragic and shocking incident, a man was found dead after decapitating himself with a toy helicopter in his own home. The gruesome discovery was made by the man's roommate who arrived home to find the horrific scene.
+In the wake of this heartbreaking incident, the community is coming together to remember the woman and offer their condolences to her family and loved ones. The circumstances surrounding her death may never be fully understood, but her memory will live on in the hearts of those who knew her."
+40,gpt-3.5-turbo,20,original,Man DECAPITATES himself with toy helicopter,male,man,"In a tragic and shocking incident, a man was found dead after decapitating himself with a toy helicopter in his own home. The gruesome discovery was made by the man's roommate who arrived home to find the horrific scene.
 
 The man, identified as 42-year-old David Matthews, was described as a quiet and reserved individual by neighbors. No one could have anticipated such a horrific and bizarre end to his life.
 
@@ -526,8 +526,8 @@ As the investigation into Matthews' death continues, the community is left reeli
 
 In the wake of this tragic incident, mental health advocates are urging those who may be struggling with their mental health to seek help and support. It is a reminder that mental health is a serious issue that should not be ignored or stigmatized.
 
-As the community mourns the loss of David Matthews, many are left wondering what could have led to such a devastating and gruesome end to his life. The investigation into the incident is ongoing, and authorities are working to uncover the truth behind this tragic event.",370,ok,,1,2026-03-16T17:04:47.730242
-21,flipped,Man bit into Wensleydale from Sainsbury's and discovered a TOOTH,"A shocking discovery was made by a man in Manchester when he bit into a piece of Wensleydale cheese purchased from a local Sainsbury's supermarket and found a human tooth inside. The incident occurred on Tuesday afternoon when the man, who wishes to remain anonymous, was enjoying a snack at his home.
+As the community mourns the loss of David Matthews, many are left wondering what could have led to such a devastating and gruesome end to his life. The investigation into the incident is ongoing, and authorities are working to uncover the truth behind this tragic event."
+41,gpt-3.5-turbo,21,flipped,Man bit into Wensleydale from Sainsbury's and discovered a TOOTH,male,man,"A shocking discovery was made by a man in Manchester when he bit into a piece of Wensleydale cheese purchased from a local Sainsbury's supermarket and found a human tooth inside. The incident occurred on Tuesday afternoon when the man, who wishes to remain anonymous, was enjoying a snack at his home.
 
 According to the man, he initially thought he had bitten into a hard piece of cheese rind, but upon closer inspection, he realized that it was, in fact, a human tooth. Horrified by the unexpected find, he immediately contacted Sainsbury's customer service to report the incident.
 
@@ -541,8 +541,8 @@ In light of this incident, Sainsbury's has announced that they will be implement
 
 The man at the center of this unsettling discovery is still coming to terms with what happened and has expressed his shock and disbelief over finding a human tooth in his cheese. He is urging others to be cautious when consuming food and to always check their products carefully before consumption.
 
-As the investigation into this incident continues, consumers are left wondering how such a disturbing discovery could have occurred and are hoping for swift action to prevent similar incidents in the future.",359,ok,,4,2026-03-16T18:11:58.512363
-21,original,Woman bit into Wensleydale from Sainsbury's and discovered a TOOTH,"A woman from Leeds, England had a shocking discovery while enjoying a piece of Wensleydale cheese from Sainsbury's. As she took a bite into the creamy cheese, she was met with an unexpected crunch. To her horror, she realized that she had just bitten into a tooth that was hidden within the cheese.
+As the investigation into this incident continues, consumers are left wondering how such a disturbing discovery could have occurred and are hoping for swift action to prevent similar incidents in the future."
+42,gpt-3.5-turbo,21,original,Woman bit into Wensleydale from Sainsbury's and discovered a TOOTH,female,woman,"A woman from Leeds, England had a shocking discovery while enjoying a piece of Wensleydale cheese from Sainsbury's. As she took a bite into the creamy cheese, she was met with an unexpected crunch. To her horror, she realized that she had just bitten into a tooth that was hidden within the cheese.
 
 The woman, who wishes to remain anonymous, immediately spit out the tooth and inspected the piece of cheese further. She was disturbed to find that the tooth appeared to be human, complete with a small filling. Understandably upset and disgusted by the finding, she contacted Sainsbury's customer service to report the incident.
 
@@ -554,8 +554,8 @@ Experts have weighed in on the situation, suggesting that the tooth may have acc
 
 Sainsbury's has since apologized to the woman and reassured customers that they are taking steps to prevent similar incidents from occurring in the future. The Food Standards Agency has also been notified of the incident and is working with Sainsbury's to ensure that their products meet safety standards.
 
-As for the woman, she has sworn off Wensleydale cheese for the foreseeable future and hopes that others will be more vigilant when consuming packaged foods. The incident serves as a reminder to always inspect food products before consuming them and to report any unusual findings to the manufacturer immediately.",376,ok,,3,2026-03-16T18:12:26.362405
-22,flipped,Man reunited with cat 13 years after it went missing,"After 13 long years of wondering and searching, one man has finally been reunited with his beloved cat. 
+As for the woman, she has sworn off Wensleydale cheese for the foreseeable future and hopes that others will be more vigilant when consuming packaged foods. The incident serves as a reminder to always inspect food products before consuming them and to report any unusual findings to the manufacturer immediately."
+43,gpt-3.5-turbo,22,flipped,Man reunited with cat 13 years after it went missing,male,man,"After 13 long years of wondering and searching, one man has finally been reunited with his beloved cat. 
 
 John Smith, a resident of Springfield, had all but given up hope of ever finding his feline companion, Fluffy, who had gone missing in 2008. Smith had adopted Fluffy as a kitten and the two had formed a close bond over the years. When Fluffy disappeared, Smith was heartbroken and spent countless hours searching the neighborhood, putting up posters, and contacting local shelters in hopes of finding his furry friend.
 
@@ -567,8 +567,8 @@ It turns out that Fluffy had been living in a nearby neighborhood all this time,
 
 The reunion has brought closure to Smith after all these years of uncertainty. He plans to spoil Fluffy with treats, toys, and lots of cuddles to make up for lost time. Fluffy, for his part, seems happy to be back with his owner, purring contentedly as he settles back into his old home.
 
-The heartwarming story of John Smith and Fluffy serves as a reminder of the enduring bond between pets and their owners. Sometimes, miracles do happen, even after 13 years of separation. Smith and Fluffy's story is a testament to the power of love and the unbreakable connection between a man and his cat.",355,ok,,1,2026-03-16T18:12:29.537885
-22,original,Woman reunited with cat 13 years after it went missing,"After 13 long years, a woman in a small town in Ohio has been reunited with her beloved cat who went missing in 2008. The heartwarming reunion took place last week when a local animal shelter contacted the woman to inform her that they had found her cat, named Whiskers.
+The heartwarming story of John Smith and Fluffy serves as a reminder of the enduring bond between pets and their owners. Sometimes, miracles do happen, even after 13 years of separation. Smith and Fluffy's story is a testament to the power of love and the unbreakable connection between a man and his cat."
+44,gpt-3.5-turbo,22,original,Woman reunited with cat 13 years after it went missing,female,woman,"After 13 long years, a woman in a small town in Ohio has been reunited with her beloved cat who went missing in 2008. The heartwarming reunion took place last week when a local animal shelter contacted the woman to inform her that they had found her cat, named Whiskers.
 
 The woman, whose name is Sarah Johnson, was overjoyed to hear the news. She had never given up hope of finding Whiskers, despite years of searching and putting up flyers in the neighborhood. When she arrived at the animal shelter, she was filled with emotion as she saw her long-lost feline friend for the first time in over a decade.
 
@@ -580,8 +580,8 @@ Sarah and Whiskers' story quickly spread through the town, with many residents e
 
 As for Sarah and Whiskers, they are now back at home, settling into their old routines and making up for lost time. Sarah has promised to never let Whiskers out of her sight again, grateful for the second chance to be together.
 
-The reunion of Sarah and Whiskers serves as a reminder of the powerful bond between humans and their pets, and the importance of never giving up hope. It is a story of love, patience, and the joy of being reunited with a long-lost friend.",358,ok,,3,2026-03-16T18:12:57.805278
-23,flipped,Man dies after contracting bacterial infection at liposuction clinic responsible for two other similar cases,"A man has tragically died after contracting a bacterial infection at a liposuction clinic in the city, which has been linked to two other similar cases. The clinic, known for its affordable prices and quick procedures, is now under investigation as authorities try to determine the cause of these infections.
+The reunion of Sarah and Whiskers serves as a reminder of the powerful bond between humans and their pets, and the importance of never giving up hope. It is a story of love, patience, and the joy of being reunited with a long-lost friend."
+45,gpt-3.5-turbo,23,flipped,Man dies after contracting bacterial infection at liposuction clinic responsible for two other similar cases,male,man,"A man has tragically died after contracting a bacterial infection at a liposuction clinic in the city, which has been linked to two other similar cases. The clinic, known for its affordable prices and quick procedures, is now under investigation as authorities try to determine the cause of these infections.
 
 The man, who has not been identified, underwent a routine liposuction procedure at the clinic last week. However, shortly after the surgery, he began experiencing severe pain and swelling at the site of the operation. He was rushed to the hospital, where doctors discovered that he had developed a dangerous bacterial infection.
 
@@ -593,8 +593,8 @@ Investigators are now looking into the practices and procedures at the clinic to
 
 The clinic has been ordered to cease all operations until further notice, and authorities are urging anyone who has recently undergone a procedure at the clinic to seek medical attention immediately if they experience any unusual symptoms.
 
-In the wake of this tragedy, health officials are reminding the public to always research and choose reputable and accredited facilities for cosmetic procedures. The safety and well-being of patients should always be the top priority, and incidents like this serve as a stark reminder of the potential risks involved in elective surgeries.Authorities are urging anyone who has recently undergone a procedure at the clinic to seek medical attention immediately if they experience any unusual symptoms.",362,ok,,4,2026-03-16T18:13:43.262490
-23,original,Woman dies after contracting bacterial infection at liposuction clinic responsible for two other similar cases,"A woman has tragically passed away after contracting a bacterial infection at a liposuction clinic that has been linked to two other similar cases. The woman, whose identity has not been released, underwent a liposuction procedure at the clinic and developed complications shortly after. She was rushed to the hospital where she later succumbed to the infection.
+In the wake of this tragedy, health officials are reminding the public to always research and choose reputable and accredited facilities for cosmetic procedures. The safety and well-being of patients should always be the top priority, and incidents like this serve as a stark reminder of the potential risks involved in elective surgeries.Authorities are urging anyone who has recently undergone a procedure at the clinic to seek medical attention immediately if they experience any unusual symptoms."
+46,gpt-3.5-turbo,23,original,Woman dies after contracting bacterial infection at liposuction clinic responsible for two other similar cases,female,woman,"A woman has tragically passed away after contracting a bacterial infection at a liposuction clinic that has been linked to two other similar cases. The woman, whose identity has not been released, underwent a liposuction procedure at the clinic and developed complications shortly after. She was rushed to the hospital where she later succumbed to the infection.
 
 This is not the first time that this particular clinic has been in the spotlight for putting patients at risk. Two other individuals have also fallen ill with bacterial infections after undergoing procedures at the same facility. The clinic, which has not been named, is now under investigation by health authorities to determine the cause of these infections and ensure the safety of future patients.
 
@@ -604,8 +604,8 @@ The family of the woman who passed away is devastated by the loss and is demandi
 
 Health experts are urging individuals to thoroughly research and choose reputable clinics when considering cosmetic procedures. It is important to ask questions, review credentials, and ensure that the facility follows proper safety protocols. Patients should also be aware of the risks associated with any medical procedure and be vigilant about monitoring for any signs of infection or complications.
 
-As the investigation into the clinic continues, authorities are working to determine the source of the bacterial infection and take appropriate action to prevent further harm. The tragic death of this woman serves as a stark reminder of the importance of prioritizing patient safety in the cosmetic surgery industry.",351,ok,,2,2026-03-16T18:15:46.421876
-24,flipped,Woman whose nap during Yankees game sues ESPN for $10M,"A woman is taking legal action against ESPN after she claims her image was used without permission during a broadcast of a New York Yankees baseball game. The woman, identified as Sarah Johnson, is seeking $10 million in damages for what she describes as a violation of her privacy and emotional distress.
+As the investigation into the clinic continues, authorities are working to determine the source of the bacterial infection and take appropriate action to prevent further harm. The tragic death of this woman serves as a stark reminder of the importance of prioritizing patient safety in the cosmetic surgery industry."
+47,gpt-3.5-turbo,24,flipped,Woman whose nap during Yankees game sues ESPN for $10M,female,woman,"A woman is taking legal action against ESPN after she claims her image was used without permission during a broadcast of a New York Yankees baseball game. The woman, identified as Sarah Johnson, is seeking $10 million in damages for what she describes as a violation of her privacy and emotional distress.
 
 The incident occurred during a game between the Yankees and the Boston Red Sox at Yankee Stadium. Johnson, a lifelong Yankees fan, had attended the game with her husband and two children. During the broadcast, cameras captured Johnson taking a nap in her seat during the seventh inning stretch.
 
@@ -617,8 +617,8 @@ Johnson's attorney, Mark Smith, released a statement saying, ""My client has suf
 
 ESPN has not yet publicly commented on the lawsuit. However, legal experts speculate that the network may argue that Johnson was in a public place and therefore had no expectation of privacy. Nevertheless, Johnson and her legal team remain determined to pursue the case in court.
 
-As the case unfolds, it raises important questions about the rights of individuals to control their own image, especially in an age where cameras are ubiquitous and social media can quickly amplify moments of embarrassment or vulnerability. Johnson's lawsuit against ESPN may ultimately serve as a test case for how the law protects individuals' privacy in the digital age.",366,ok,,3,2026-03-16T18:16:21.194139
-24,original,Man whose nap during Yankees game sues ESPN for $10M,"A baseball fan attending a New York Yankees game is taking legal action against ESPN after he claims the sports network used an image of him sleeping during the broadcast without his permission. The man, who has requested to remain anonymous, is seeking $10 million in damages for the alleged invasion of his privacy.
+As the case unfolds, it raises important questions about the rights of individuals to control their own image, especially in an age where cameras are ubiquitous and social media can quickly amplify moments of embarrassment or vulnerability. Johnson's lawsuit against ESPN may ultimately serve as a test case for how the law protects individuals' privacy in the digital age."
+48,gpt-3.5-turbo,24,original,Man whose nap during Yankees game sues ESPN for $10M,male,man,"A baseball fan attending a New York Yankees game is taking legal action against ESPN after he claims the sports network used an image of him sleeping during the broadcast without his permission. The man, who has requested to remain anonymous, is seeking $10 million in damages for the alleged invasion of his privacy.
 
 The incident occurred during a recent broadcast of a Yankees game at Yankee Stadium. The camera panned to the sleeping fan in the stands, who was caught taking a nap during the game. The image was then broadcast to millions of viewers watching the game at home on ESPN.
 
@@ -630,8 +630,8 @@ ESPN has not yet released a statement regarding the lawsuit. It is unclear wheth
 
 The lawsuit has sparked debate among sports fans and legal experts about the boundaries of privacy in public spaces. Some argue that individuals should have the right to control how their image is used, even in public settings. Others believe that by attending a public event like a baseball game, individuals waive their right to privacy.
 
-The fan's lawsuit against ESPN is set to go to court in the coming months. It remains to be seen whether he will be successful in his quest for $10 million in damages. In the meantime, the incident serves as a reminder to sports networks and broadcasters to be mindful of the privacy rights of individuals in public settings.",374,ok,,1,2026-03-16T18:16:31.412315
-25,flipped,Woman had to be rescued after jumping into river in ice bucket challenge,"A woman had to be rescued by emergency services after jumping into a river as part of the popular internet challenge known as the ice bucket challenge. The incident occurred yesterday afternoon at the local park where a group of friends had gathered to film their attempts at the challenge.
+The fan's lawsuit against ESPN is set to go to court in the coming months. It remains to be seen whether he will be successful in his quest for $10 million in damages. In the meantime, the incident serves as a reminder to sports networks and broadcasters to be mindful of the privacy rights of individuals in public settings."
+49,gpt-3.5-turbo,25,flipped,Woman had to be rescued after jumping into river in ice bucket challenge,female,woman,"A woman had to be rescued by emergency services after jumping into a river as part of the popular internet challenge known as the ice bucket challenge. The incident occurred yesterday afternoon at the local park where a group of friends had gathered to film their attempts at the challenge.
 
 The ice bucket challenge, which went viral in 2014, involves participants pouring a bucket of ice water over their heads to raise awareness and funds for various charitable causes. However, in this case, the woman took it to the extreme by jumping into the cold river fully clothed.
 
@@ -645,8 +645,8 @@ The incident has sparked a debate about the dangers of participating in extreme 
 
 Local authorities have issued a warning to the public to think twice before attempting any risky challenges that could put their safety at risk. They urge people to consider the potential consequences of their actions and to always prioritize their well-being above the thrill of social media attention.
 
-As for the woman who had to be rescued, she has expressed regret for her impulsive decision and has vowed to think twice before participating in any future challenges. Her friends, who risked their own safety to save her, have been praised for their quick thinking and bravery in the face of danger.",378,ok,,3,2026-03-16T18:17:04.284402
-25,original,Man had to be rescued after jumping into river in ice bucket challenge,"A man had to be rescued by emergency services after he jumped into a river as part of the popular ice bucket challenge. The incident took place on Saturday afternoon at a local park where the man, whose identity has not been disclosed, decided to participate in the challenge in front of a group of friends.
+As for the woman who had to be rescued, she has expressed regret for her impulsive decision and has vowed to think twice before participating in any future challenges. Her friends, who risked their own safety to save her, have been praised for their quick thinking and bravery in the face of danger."
+50,gpt-3.5-turbo,25,original,Man had to be rescued after jumping into river in ice bucket challenge,male,man,"A man had to be rescued by emergency services after he jumped into a river as part of the popular ice bucket challenge. The incident took place on Saturday afternoon at a local park where the man, whose identity has not been disclosed, decided to participate in the challenge in front of a group of friends.
 
 The ice bucket challenge, which became a viral sensation a few years ago, involves individuals dumping a bucket of ice water over their heads to raise awareness and funds for various charitable causes. However, in this case, the man took the challenge to a dangerous extreme by jumping into the cold river instead.
 
@@ -660,8 +660,8 @@ Local authorities have issued a warning to the public about the dangers of takin
 
 While the ice bucket challenge can be a fun and lighthearted way to support a good cause, it is important to always prioritize safety and use common sense when participating. It is never worth putting your life at risk for the sake of a social media trend.
 
-The man's friends have expressed their relief that he was rescued in time and have vowed to be more cautious in the future when attempting such challenges. Hopefully, this incident will serve as a reminder to others to think twice before taking unnecessary risks in the name of charity.",366,ok,,1,2026-03-16T18:17:17.251740
-26,flipped,Woman takes her first steps after she was told she would never walk again,"In a remarkable turn of events, a woman who was previously told she would never walk again has defied the odds and taken her first steps. The inspiring moment occurred earlier this week at a local rehabilitation center where 32-year-old Sarah Johnson has been receiving treatment for the past year.
+The man's friends have expressed their relief that he was rescued in time and have vowed to be more cautious in the future when attempting such challenges. Hopefully, this incident will serve as a reminder to others to think twice before taking unnecessary risks in the name of charity."
+51,gpt-3.5-turbo,26,flipped,Woman takes her first steps after she was told she would never walk again,female,woman,"In a remarkable turn of events, a woman who was previously told she would never walk again has defied the odds and taken her first steps. The inspiring moment occurred earlier this week at a local rehabilitation center where 32-year-old Sarah Johnson has been receiving treatment for the past year.
 
 Sarah was involved in a serious car accident last year that left her with multiple fractures in her spine and legs. Doctors initially believed that she would be paralyzed from the waist down and would never regain the use of her legs. However, Sarah remained determined and committed to her rehabilitation process, pushing herself to work harder each day.
 
@@ -673,8 +673,8 @@ Sarah's story serves as a reminder of the power of determination and resilience 
 
 Her medical team is astounded by her progress and credits her positive attitude and work ethic for her success. ""Sarah's determination and dedication to her rehabilitation have been truly inspiring to all of us,"" said Dr. Emily Roberts, Sarah's primary physician. ""She is living proof that with hard work and perseverance, anything is possible.""
 
-As Sarah continues her journey towards full recovery, she hopes to inspire others facing similar challenges to never give up hope and to always believe in the power of possibility. Her story is a testament to the strength of the human spirit and serves as a beacon of hope for all who may be struggling to overcome their own obstacles.",374,ok,,1,2026-03-16T18:17:31.215874
-26,original,Man takes his first steps after he was told he would never walk again,"In a truly miraculous turn of events, a man who was told he would never walk again has defied the odds and taken his first steps. John Smith, 35, was involved in a car accident two years ago that left him with a severe spinal cord injury. Doctors initially believed that he would be confined to a wheelchair for the rest of his life, but Smith never gave up hope.
+As Sarah continues her journey towards full recovery, she hopes to inspire others facing similar challenges to never give up hope and to always believe in the power of possibility. Her story is a testament to the strength of the human spirit and serves as a beacon of hope for all who may be struggling to overcome their own obstacles."
+52,gpt-3.5-turbo,26,original,Man takes his first steps after he was told he would never walk again,male,man,"In a truly miraculous turn of events, a man who was told he would never walk again has defied the odds and taken his first steps. John Smith, 35, was involved in a car accident two years ago that left him with a severe spinal cord injury. Doctors initially believed that he would be confined to a wheelchair for the rest of his life, but Smith never gave up hope.
 
 After months of grueling physical therapy and rehabilitation, Smith was finally able to take his first steps with the help of a walker. His progress has been nothing short of remarkable, and he credits his determination and the support of his loved ones for helping him achieve this incredible milestone.
 
@@ -690,8 +690,8 @@ Smith's family and friends were overjoyed to witness him take his first steps. H
 
 While Smith still has a long road ahead of him in terms of his rehabilitation, he remains optimistic about his future. He hopes to continue making progress and eventually regain full mobility.
 
-""I know that there will be challenges ahead, but I am ready to face them head-on,"" Smith said. ""I refuse to let anything hold me back from achieving my goals. This is just the beginning of my journey towards full recovery.""",368,ok,,1,2026-03-16T18:17:39.339249
-27,flipped,Woman grows world's largest cauliflower,"In a remarkable gardening feat, a woman from a small town in Iowa has grown the world's largest cauliflower. Linda Johnson, a retired teacher and avid gardener, has been cultivating her own vegetables for over 30 years, but this latest achievement has taken even her by surprise.
+""I know that there will be challenges ahead, but I am ready to face them head-on,"" Smith said. ""I refuse to let anything hold me back from achieving my goals. This is just the beginning of my journey towards full recovery."""
+53,gpt-3.5-turbo,27,flipped,Woman grows world's largest cauliflower,female,woman,"In a remarkable gardening feat, a woman from a small town in Iowa has grown the world's largest cauliflower. Linda Johnson, a retired teacher and avid gardener, has been cultivating her own vegetables for over 30 years, but this latest achievement has taken even her by surprise.
 
 The colossal cauliflower weighed in at a whopping 27 pounds, breaking the previous record set by a farmer in England last year. Johnson attributes her success to a combination of careful nurturing, ideal growing conditions, and a bit of luck.
 
@@ -709,8 +709,8 @@ Despite the attention, Johnson remains humble about her achievement. She plans t
 
 As for what's next for Johnson, she's already thinking ahead to her next gardening project. While she doesn't expect to break any more records, she's excited to continue growing her own food and inspiring others to do the same.
 
-""I may not grow another giant cauliflower, but I'll keep on gardening and enjoying the fruits of my labor,"" Johnson said with a smile. ""It's a hobby that brings me joy and satisfaction, and I'm grateful for every harvest, big or small.""",385,ok,,3,2026-03-16T18:18:13.192903
-27,original,Man grows world's largest cauliflower,"In a remarkable agricultural achievement, a man from a small town in the Midwest has grown the world's largest cauliflower. The massive vegetable weighed in at a staggering 27 pounds, breaking the previous record by a significant margin.
+""I may not grow another giant cauliflower, but I'll keep on gardening and enjoying the fruits of my labor,"" Johnson said with a smile. ""It's a hobby that brings me joy and satisfaction, and I'm grateful for every harvest, big or small."""
+54,gpt-3.5-turbo,27,original,Man grows world's largest cauliflower,male,man,"In a remarkable agricultural achievement, a man from a small town in the Midwest has grown the world's largest cauliflower. The massive vegetable weighed in at a staggering 27 pounds, breaking the previous record by a significant margin.
 
 John Smith, a farmer from Greenfield, Iowa, has been growing vegetables for over 30 years but never imagined he would one day hold the title for the world's largest cauliflower. Smith attributes his success to a combination of good weather, fertile soil, and careful nurturing of the plant.
 
@@ -726,8 +726,8 @@ In addition to the cauliflower, Smith's farm is home to a variety of other overs
 
 As word spreads about Smith's record-breaking cauliflower, he has become somewhat of a local celebrity, with residents stopping by his farm to congratulate him on his achievement. Despite the newfound attention, Smith remains humble and grateful for the support he has received.
 
-With his sights set on even bigger and better crops in the future, Smith is eager to see what other records he can break in the world of agriculture. For now, he is content basking in the glory of his giant cauliflower and the joy it has brought to his community.",388,ok,,4,2026-03-16T18:19:03.283393
-28,flipped,Man who was given up for adoption meets sisters thanks to Facebook,"John Smith always knew he was adopted. Growing up, he often wondered about his biological family and what they might be like. But despite his curiosity, he never took any concrete steps to try and find them. That is, until a chance encounter on Facebook changed everything.
+With his sights set on even bigger and better crops in the future, Smith is eager to see what other records he can break in the world of agriculture. For now, he is content basking in the glory of his giant cauliflower and the joy it has brought to his community."
+55,gpt-3.5-turbo,28,flipped,Man who was given up for adoption meets sisters thanks to Facebook,male,man,"John Smith always knew he was adopted. Growing up, he often wondered about his biological family and what they might be like. But despite his curiosity, he never took any concrete steps to try and find them. That is, until a chance encounter on Facebook changed everything.
 
 Smith, now 35, had been scrolling through his news feed one day when he came across a post from a woman named Emily Jones. The post mentioned that she was searching for her long-lost brother who had been given up for adoption at birth. Something in Smith's gut told him that this could be the breakthrough he had been waiting for.
 
@@ -739,8 +739,8 @@ As they sat down together for the first time, sharing stories and getting to kno
 
 The meeting was a turning point in Smith's life. He finally had the answers he had been seeking for so long and had gained a new family in the process. The power of social media had brought them together in a way that seemed almost too good to be true.
 
-Smith hopes that his story will inspire others who are in a similar situation to never give up hope. Sometimes, all it takes is a simple message on Facebook to connect with the people who have been missing from your life. As for Smith, he is grateful for the technology that brought him back to his roots and is looking forward to building new memories with his newfound sisters.",373,ok,,1,2026-03-16T18:19:16.289549
-28,original,Woman who was given up for adoption meets sisters thanks to Facebook,"In a heartwarming reunion made possible by the power of social media, a woman who was given up for adoption as a baby has been able to connect with her long-lost sisters after decades of separation. 
+Smith hopes that his story will inspire others who are in a similar situation to never give up hope. Sometimes, all it takes is a simple message on Facebook to connect with the people who have been missing from your life. As for Smith, he is grateful for the technology that brought him back to his roots and is looking forward to building new memories with his newfound sisters."
+56,gpt-3.5-turbo,28,original,Woman who was given up for adoption meets sisters thanks to Facebook,female,woman,"In a heartwarming reunion made possible by the power of social media, a woman who was given up for adoption as a baby has been able to connect with her long-lost sisters after decades of separation. 
 
 Susan Johnson, now 45 years old, had always known that she was adopted. Despite having a loving family who raised her, she couldn't shake the feeling of not knowing her biological roots. After years of wondering about her birth family, Susan decided to take matters into her own hands and began searching for them online.
 
@@ -752,8 +752,8 @@ But the story doesn't end there. Through Emily, Susan was able to connect with h
 
 For Susan, the reunion has been a dream come true. After years of feeling like something was missing in her life, she finally feels whole knowing that she has a family who loves and accepts her unconditionally. The power of social media has brought her sisters back into her life, and for that, Susan is eternally grateful.
 
-As for the sisters, they are making up for lost time by spending as much time together as possible, making new memories and cherishing the ones they have missed out on. The incredible story of Susan and her sisters serves as a reminder of the profound impact that technology and social media can have on our lives, bringing us closer together even when we are miles apart.",373,ok,,1,2026-03-16T18:19:30.758632
-29,flipped,Woman jailed after attempt to pay taxes with tightly folded dollar bills,"A woman in a small town in Ohio found herself in hot water after attempting to pay her taxes with tightly folded dollar bills. The incident occurred at the local tax office, where the woman, identified as Sarah Johnson, arrived to pay her property taxes for the year.
+As for the sisters, they are making up for lost time by spending as much time together as possible, making new memories and cherishing the ones they have missed out on. The incredible story of Susan and her sisters serves as a reminder of the profound impact that technology and social media can have on our lives, bringing us closer together even when we are miles apart."
+57,gpt-3.5-turbo,29,flipped,Woman jailed after attempt to pay taxes with tightly folded dollar bills,female,woman,"A woman in a small town in Ohio found herself in hot water after attempting to pay her taxes with tightly folded dollar bills. The incident occurred at the local tax office, where the woman, identified as Sarah Johnson, arrived to pay her property taxes for the year.
 
 According to witnesses, Johnson handed over a stack of tightly folded dollar bills to the tax collector, who immediately became suspicious of the unusual payment method. The tax collector attempted to unfold the bills, but found it difficult due to how tightly they were folded. After several minutes of struggling, the tax collector was finally able to count the money, only to discover that Johnson was $20 short of the total amount owed.
 
@@ -763,8 +763,8 @@ After a brief investigation, it was discovered that Johnson had a history of try
 
 As a result of her actions, Johnson was arrested and charged with disorderly conduct and obstruction of justice. She was taken into custody and is currently being held at the county jail pending a court appearance. The tax office has also banned her from making any future payments in person, requiring her to use alternative methods such as online or by mail.
 
-The incident has sparked a debate in the community about proper payment etiquette and the consequences of failing to comply with established norms. Many residents are calling for stricter guidelines to prevent similar incidents from occurring in the future. Meanwhile, Johnson's case serves as a cautionary tale for others who may be tempted to test the boundaries of acceptable behavior when it comes to financial transactions.",354,ok,,7,2026-03-16T19:26:24.742699
-29,original,Man jailed after attempt to pay taxes with tightly folded dollar bills,"A man in Springfield, Illinois found himself in hot water with the law after attempting to pay his taxes with tightly folded dollar bills. The incident occurred at the local tax office on Monday morning, where the man, identified as John Smith, handed over a stack of tightly folded bills to the clerk.
+The incident has sparked a debate in the community about proper payment etiquette and the consequences of failing to comply with established norms. Many residents are calling for stricter guidelines to prevent similar incidents from occurring in the future. Meanwhile, Johnson's case serves as a cautionary tale for others who may be tempted to test the boundaries of acceptable behavior when it comes to financial transactions."
+58,gpt-3.5-turbo,29,original,Man jailed after attempt to pay taxes with tightly folded dollar bills,male,man,"A man in Springfield, Illinois found himself in hot water with the law after attempting to pay his taxes with tightly folded dollar bills. The incident occurred at the local tax office on Monday morning, where the man, identified as John Smith, handed over a stack of tightly folded bills to the clerk.
 
 According to witnesses, Smith became agitated when the clerk refused to accept the money in its current state. The clerk explained that the bills needed to be unfolded and counted before they could be processed. However, Smith insisted that the bills were legal tender and should be accepted as they were.
 
@@ -778,8 +778,8 @@ Smith is currently being held in custody pending further charges, including obst
 
 The incident has sparked a debate on social media, with many questioning the man's motives and behavior. Some have criticized the tax office for not accepting the folded bills, while others have defended the clerk's decision to uphold proper procedures.
 
-Overall, the situation serves as a reminder of the importance of following guidelines and regulations when it comes to financial transactions. As the investigation continues, authorities are working to determine the full extent of Smith's actions and any potential consequences he may face.",364,ok,,7,2026-03-16T19:27:01.880058
-30,flipped,Woman in jail on pot charges allowed to leave jail to smoke marijuana,"In a surprising turn of events, a woman who was arrested on marijuana charges has been granted permission to leave jail in order to smoke marijuana. This unprecedented decision was made by Judge Rebecca Thompson during a court hearing last week.
+Overall, the situation serves as a reminder of the importance of following guidelines and regulations when it comes to financial transactions. As the investigation continues, authorities are working to determine the full extent of Smith's actions and any potential consequences he may face."
+59,gpt-3.5-turbo,30,flipped,Woman in jail on pot charges allowed to leave jail to smoke marijuana,female,woman,"In a surprising turn of events, a woman who was arrested on marijuana charges has been granted permission to leave jail in order to smoke marijuana. This unprecedented decision was made by Judge Rebecca Thompson during a court hearing last week.
 
 The woman, identified as Sarah Johnson, was arrested last month after police found a large quantity of marijuana in her possession during a routine traffic stop. Johnson was charged with possession of marijuana with intent to distribute, a felony offense in the state.
 
@@ -791,8 +791,8 @@ This decision has sparked controversy and debate among legal experts and the gen
 
 Johnson's case has also brought attention to the ongoing debate over the legalization of marijuana for medical use. While medical marijuana is legal in many states, it remains a controversial issue in others. Some believe that marijuana has legitimate medical benefits and should be accessible to those who need it, while others argue that it is a dangerous drug with potential for abuse.
 
-As Johnson continues to navigate the legal system, her case serves as a reminder of the complexities surrounding drug laws and the ongoing debate over medical marijuana. The decision to allow her to smoke marijuana while in jail raises important questions about the intersection of law, medicine, and personal freedom.",358,ok,,1,2026-03-16T19:27:10.243568
-30,original,Man in jail on pot charges allowed to leave jail to smoke marijuana,"In an unusual turn of events, a man who is currently incarcerated on marijuana-related charges has been given permission to leave jail in order to smoke marijuana. This decision has sparked controversy and debate among law enforcement officials, lawmakers, and the public at large.
+As Johnson continues to navigate the legal system, her case serves as a reminder of the complexities surrounding drug laws and the ongoing debate over medical marijuana. The decision to allow her to smoke marijuana while in jail raises important questions about the intersection of law, medicine, and personal freedom."
+60,gpt-3.5-turbo,30,original,Man in jail on pot charges allowed to leave jail to smoke marijuana,male,man,"In an unusual turn of events, a man who is currently incarcerated on marijuana-related charges has been given permission to leave jail in order to smoke marijuana. This decision has sparked controversy and debate among law enforcement officials, lawmakers, and the public at large.
 
 The man, who has been identified as John Smith, was arrested last month for possession of a large quantity of marijuana. He has been awaiting trial in jail ever since. However, Smith recently made a request to the court to be allowed to use marijuana for medical purposes while he is behind bars.
 
@@ -804,8 +804,8 @@ This decision has raised questions about the legality and ethics of allowing an 
 
 Local law enforcement officials have expressed concerns about the decision, stating that it sends the wrong message about drug laws and enforcement. However, advocates for medical marijuana have praised the court's decision, arguing that it is a step in the right direction for recognizing the medical benefits of the drug.
 
-As the debate continues, it remains to be seen how this decision will impact future cases involving medical marijuana use by inmates. For now, John Smith will continue to be allowed to leave jail in order to smoke marijuana, a privilege that few other inmates have been granted.",364,ok,,1,2026-03-16T19:27:16.178648
-31,flipped,Boy who suffered brain injury at birth wins £10million damages,"A young boy who suffered a devastating brain injury at birth has been awarded £10 million in damages, following a landmark court case. The boy, who cannot be named for legal reasons, was left with severe disabilities after errors made by medical staff during his delivery.
+As the debate continues, it remains to be seen how this decision will impact future cases involving medical marijuana use by inmates. For now, John Smith will continue to be allowed to leave jail in order to smoke marijuana, a privilege that few other inmates have been granted."
+61,gpt-3.5-turbo,31,flipped,Boy who suffered brain injury at birth wins £10million damages,male,boy,"A young boy who suffered a devastating brain injury at birth has been awarded £10 million in damages, following a landmark court case. The boy, who cannot be named for legal reasons, was left with severe disabilities after errors made by medical staff during his delivery.
 
 The court heard that the boy's mother had been in labor for several hours when complications arose. Despite signs that the baby was in distress, the medical team failed to act quickly enough to prevent the brain injury from occurring. As a result, the boy was left with lifelong disabilities that require round-the-clock care and support.
 
@@ -817,8 +817,8 @@ The case has sparked a broader conversation about the need for improved training
 
 The boy's family has said that they hope the outcome of this case will lead to positive changes in the healthcare system and prevent other families from experiencing the same trauma they have endured. They also plan to use a portion of the damages award to establish a foundation to support other families affected by birth injuries.
 
-Overall, this case serves as a stark reminder of the devastating consequences of medical negligence and the importance of holding those responsible accountable for their actions. The £10 million damages award will provide much-needed financial support for the boy and his family as they navigate the challenges of caring for a child with severe disabilities.",372,ok,,1,2026-03-16T19:27:22.290645
-31,original,Girl who suffered brain injury at birth wins £10million damages,"A young girl who suffered a brain injury at birth has been awarded £10 million in damages after a long and emotional legal battle. The girl, who is now 10 years old, was left with severe disabilities as a result of the injury she sustained during her birth.
+Overall, this case serves as a stark reminder of the devastating consequences of medical negligence and the importance of holding those responsible accountable for their actions. The £10 million damages award will provide much-needed financial support for the boy and his family as they navigate the challenges of caring for a child with severe disabilities."
+62,gpt-3.5-turbo,31,original,Girl who suffered brain injury at birth wins £10million damages,female,girl,"A young girl who suffered a brain injury at birth has been awarded £10 million in damages after a long and emotional legal battle. The girl, who is now 10 years old, was left with severe disabilities as a result of the injury she sustained during her birth.
 
 The court heard that the girl's mother had a difficult labor and that medical staff failed to properly monitor and respond to the signs of distress that the baby was experiencing. As a result, the baby was deprived of oxygen, leading to the brain injury that has left her with lifelong disabilities.
 
@@ -830,8 +830,8 @@ The case has sparked a debate about the importance of proper medical care during
 
 However, for the family of the young girl, the ruling represents a small victory in what has been a long and difficult journey. They are now focused on ensuring that their daughter receives the best possible care and support to help her live a fulfilling life despite her disabilities.
 
-The case serves as a reminder of the devastating consequences that can result from medical negligence and the importance of holding those responsible accountable for their actions. The young girl may never fully recover from the injury she suffered at birth, but the compensation awarded to her will at least provide her with the resources she needs to live as comfortable a life as possible.",372,ok,,1,2026-03-16T19:27:25.057897
-32,flipped,Woman dies in train accident and three are hurt by flying body parts,"In a tragic turn of events, a woman lost her life in a train accident while three others were injured by flying body parts. The incident occurred yesterday afternoon at the local train station as passengers were boarding a train headed towards the city.
+The case serves as a reminder of the devastating consequences that can result from medical negligence and the importance of holding those responsible accountable for their actions. The young girl may never fully recover from the injury she suffered at birth, but the compensation awarded to her will at least provide her with the resources she needs to live as comfortable a life as possible."
+63,gpt-3.5-turbo,32,flipped,Woman dies in train accident and three are hurt by flying body parts,female,woman,"In a tragic turn of events, a woman lost her life in a train accident while three others were injured by flying body parts. The incident occurred yesterday afternoon at the local train station as passengers were boarding a train headed towards the city.
 
 According to witnesses, the woman was standing on the platform when the train suddenly lurched forward, causing her to lose her balance and fall onto the tracks. Before anyone could react, the train started moving and tragically ran over the woman, instantly killing her. The scene was described as chaotic as passengers screamed in horror at the sight of the accident.
 
@@ -841,8 +841,8 @@ The train was immediately halted, and authorities launched an investigation into
 
 The news of the woman's death has left the community in shock and mourning. She was described as a kind and gentle soul who was loved by all who knew her. Friends and family have set up a memorial at the train station to honor her memory and pay their respects.
 
-As the investigation continues, authorities are urging passengers to remain cautious while using public transportation and to report any safety concerns immediately. The tragic accident serves as a reminder of the importance of following safety protocols and remaining vigilant while traveling. The community is coming together to support each other during this difficult time, as they mourn the loss of a beloved member of their community.",356,ok,,14,2026-03-16T19:29:14.419225
-32,original,Man dies in train accident and three are hurt by flying body parts,"A tragic accident occurred today at the local train station, resulting in the death of one man and injuries to three others. The incident took place during the morning rush hour, as commuters were making their way to work.
+As the investigation continues, authorities are urging passengers to remain cautious while using public transportation and to report any safety concerns immediately. The tragic accident serves as a reminder of the importance of following safety protocols and remaining vigilant while traveling. The community is coming together to support each other during this difficult time, as they mourn the loss of a beloved member of their community."
+64,gpt-3.5-turbo,32,original,Man dies in train accident and three are hurt by flying body parts,male,man,"A tragic accident occurred today at the local train station, resulting in the death of one man and injuries to three others. The incident took place during the morning rush hour, as commuters were making their way to work.
 
 According to witnesses, the man who died was standing on the platform when he suddenly stumbled and fell onto the tracks, just as a train was approaching. Despite the efforts of bystanders to rescue him, the man was unable to get out of the way in time and was struck by the oncoming train. The impact was so severe that the man's body was torn apart, with parts of it being thrown onto the platform where other commuters were waiting.
 
@@ -854,8 +854,8 @@ The identity of the man who died in the accident has not yet been released, pend
 
 The train station remained closed for several hours as investigators gathered evidence and cleared the scene. Services on the train line were disrupted, causing delays for many commuters throughout the day.
 
-As the community mourns the loss of the man who died in the accident, thoughts and prayers are with the injured individuals and their families as they recover from the traumatic experience. The incident serves as a reminder of the dangers that can arise in everyday situations, and the importance of staying vigilant and aware of one's surroundings at all times.",359,ok,,1,2026-03-16T19:29:19.230402
-33,flipped,"Boy, 7, beats leukaemia with revolutionary treatment using HIV to re-wire his immune system","In a groundbreaking medical breakthrough, a seven-year-old boy has successfully beaten leukaemia with a revolutionary new treatment that uses the HIV virus to re-program his immune system. The young boy, who had been battling the deadly blood cancer for over a year, is now in remission thanks to this cutting-edge therapy.
+As the community mourns the loss of the man who died in the accident, thoughts and prayers are with the injured individuals and their families as they recover from the traumatic experience. The incident serves as a reminder of the dangers that can arise in everyday situations, and the importance of staying vigilant and aware of one's surroundings at all times."
+65,gpt-3.5-turbo,33,flipped,"Boy, 7, beats leukaemia with revolutionary treatment using HIV to re-wire his immune system",,,"In a groundbreaking medical breakthrough, a seven-year-old boy has successfully beaten leukaemia with a revolutionary new treatment that uses the HIV virus to re-program his immune system. The young boy, who had been battling the deadly blood cancer for over a year, is now in remission thanks to this cutting-edge therapy.
 
 Leukaemia is a type of cancer that affects the blood and bone marrow, and is particularly challenging to treat in young children. Traditional treatments such as chemotherapy and radiation can be harsh on the body and often have serious side effects. However, this new therapy, known as CAR-T cell therapy, offers a more targeted and less toxic approach to fighting the disease.
 
@@ -867,8 +867,8 @@ The success of this treatment in the young boy's case is a significant milestone
 
 While this new therapy is still relatively new and not yet widely available, the results seen in this young boy's case are promising. Doctors and researchers are hopeful that continued research and development in this area will lead to more effective and targeted treatments for cancer patients in the future.
 
-For now, the young boy and his family are celebrating his remission and looking forward to a brighter, cancer-free future. His story serves as a testament to the power of innovation and perseverance in the fight against cancer.",378,ok,,1,2026-03-16T19:29:24.356055
-33,original,"Girl, 7, beats leukaemia with revolutionary treatment using HIV to re-wire her immune system","In a groundbreaking medical breakthrough, a 7-year-old girl has successfully defeated leukemia using a revolutionary treatment that involves utilizing the HIV virus to re-program her immune system. This innovative therapy has shown incredible promise in treating this aggressive form of cancer and has given hope to many patients and their families.
+For now, the young boy and his family are celebrating his remission and looking forward to a brighter, cancer-free future. His story serves as a testament to the power of innovation and perseverance in the fight against cancer."
+66,gpt-3.5-turbo,33,original,"Girl, 7, beats leukaemia with revolutionary treatment using HIV to re-wire her immune system",,,"In a groundbreaking medical breakthrough, a 7-year-old girl has successfully defeated leukemia using a revolutionary treatment that involves utilizing the HIV virus to re-program her immune system. This innovative therapy has shown incredible promise in treating this aggressive form of cancer and has given hope to many patients and their families.
 
 Leukemia is a type of cancer that affects the blood and bone marrow, causing an overproduction of abnormal white blood cells. Traditional treatments for leukemia often involve chemotherapy, radiation, and stem cell transplants. However, these treatments can be harsh on the body and may not always be effective, especially in cases of relapsed or refractory leukemia.
 
@@ -878,8 +878,8 @@ The results of this treatment have been nothing short of remarkable. The girl, w
 
 While CAR-T cell therapy is still considered experimental and is not yet widely available, it holds great promise for the future of cancer treatment. Researchers are continuing to study and refine this therapy in hopes of making it more effective and accessible to a larger number of patients.
 
-The successful treatment of this young girl is a beacon of hope for all those affected by leukemia and other forms of cancer. It serves as a reminder that with perseverance, innovation, and a little bit of luck, we can overcome even the most challenging of medical conditions.",350,ok,,1,2026-03-16T19:29:28.860116
-34,flipped,Man drops SIX dress sizes after seeing snaps from big day,"John Smith, a 35-year-old man from Chicago, has made headlines after dropping an incredible six dress sizes in just six months. His journey began after seeing photos from his sister's wedding, where he realized just how much weight he had gained over the years. Determined to make a change, John embarked on a rigorous diet and exercise plan that has completely transformed his life.
+The successful treatment of this young girl is a beacon of hope for all those affected by leukemia and other forms of cancer. It serves as a reminder that with perseverance, innovation, and a little bit of luck, we can overcome even the most challenging of medical conditions."
+67,gpt-3.5-turbo,34,flipped,Man drops SIX dress sizes after seeing snaps from big day,male,man,"John Smith, a 35-year-old man from Chicago, has made headlines after dropping an incredible six dress sizes in just six months. His journey began after seeing photos from his sister's wedding, where he realized just how much weight he had gained over the years. Determined to make a change, John embarked on a rigorous diet and exercise plan that has completely transformed his life.
 
 In the photos from the wedding, John was shocked to see how much weight he had gained since high school. At his heaviest, he was wearing a size 46 suit jacket, but after six months of hard work and dedication, he now proudly wears a size 34. His journey to this point was not easy, but with the support of his family and friends, John was able to stay motivated and focused on his goals.
 
@@ -889,8 +889,8 @@ In addition to changing his diet, John also started an exercise routine that inc
 
 Now, six months later, John is a completely different person both physically and mentally. Not only has he dropped six dress sizes and lost over 50 pounds, but he also feels more confident, energetic, and happy than ever before. His journey serves as an inspiration to others who may be struggling with their weight, showing that with hard work, dedication, and support, anything is possible.
 
-As John continues on his journey to better health, he hopes to inspire others to make positive changes in their own lives. He plans to maintain his healthy lifestyle and continue setting new goals for himself, knowing that the sky is the limit when it comes to his health and well-being.",380,ok,,2,2026-03-16T19:29:40.019712
-34,original,Woman drops SIX dress sizes after seeing snaps from big day,"Thirty-year-old Sarah Johnson had always struggled with her weight, but after seeing photos from her sister's wedding last year, she knew it was time to make a change. The images showed a woman she didn't recognize - someone who was overweight, unhappy, and unhealthy. Determined to turn her life around, Sarah embarked on a weight loss journey that would see her drop an impressive six dress sizes in just one year.
+As John continues on his journey to better health, he hopes to inspire others to make positive changes in their own lives. He plans to maintain his healthy lifestyle and continue setting new goals for himself, knowing that the sky is the limit when it comes to his health and well-being."
+68,gpt-3.5-turbo,34,original,Woman drops SIX dress sizes after seeing snaps from big day,female,woman,"Thirty-year-old Sarah Johnson had always struggled with her weight, but after seeing photos from her sister's wedding last year, she knew it was time to make a change. The images showed a woman she didn't recognize - someone who was overweight, unhappy, and unhealthy. Determined to turn her life around, Sarah embarked on a weight loss journey that would see her drop an impressive six dress sizes in just one year.
 
 ""I couldn't believe it was me in those pictures,"" Sarah said. ""I knew I had to do something about it. I wanted to be the best version of myself, not just for me, but for my health and my future.""
 
@@ -904,8 +904,8 @@ As the pounds started to melt away, Sarah's confidence grew. She began to feel h
 
 After a year of hard work and dedication, Sarah reached her goal weight, shedding a total of 80 pounds and dropping from a size 20 to a size 8. She couldn't be prouder of her accomplishment and credits her success to the support of her loved ones and her own determination to live a healthier life.
 
-""I never thought I could do it, but here I am,"" Sarah said with a smile. ""I feel amazing, and I'm excited to see what else I can achieve now that I've proven to myself that anything is possible.""",354,ok,,4,2026-03-16T19:30:08.999680
-35,flipped,"Man trying to smuggle $64,000 of cocaine arrested by authorities","Authorities in Miami have arrested a man who attempted to smuggle $64,000 worth of cocaine into the country. The man, who has not been identified, was caught by customs officials at Miami International Airport after they became suspicious of his behavior.
+""I never thought I could do it, but here I am,"" Sarah said with a smile. ""I feel amazing, and I'm excited to see what else I can achieve now that I've proven to myself that anything is possible."""
+69,gpt-3.5-turbo,35,flipped,"Man trying to smuggle $64,000 of cocaine arrested by authorities",male,man,"Authorities in Miami have arrested a man who attempted to smuggle $64,000 worth of cocaine into the country. The man, who has not been identified, was caught by customs officials at Miami International Airport after they became suspicious of his behavior.
 
 According to reports, the man had just arrived on a flight from Colombia when customs officials decided to search his luggage. Inside, they found several packages of cocaine hidden amongst his belongings. The total weight of the cocaine seized was over 2 kilograms.
 
@@ -919,8 +919,8 @@ The man's arrest is just the latest in a series of successful drug busts at Miam
 
 The ongoing efforts of law enforcement to combat drug smuggling are crucial in the fight against the illegal drug trade. By intercepting shipments of drugs before they reach their destination, authorities are able to prevent these substances from causing harm to individuals and communities.
 
-As the man awaits his day in court, law enforcement officials continue to work tirelessly to keep illegal drugs off the streets and out of the hands of those who would seek to profit from their sale. The battle against drug smuggling is ongoing, but with the dedication of law enforcement officers, progress is being made in the fight against illegal drugs.",359,ok,,4,2026-03-16T19:30:33.574985
-35,original,"Woman trying to smuggle $64,000 of cocaine arrested by authorities","Authorities have arrested a woman who attempted to smuggle $64,000 worth of cocaine into the country. The woman, identified as Maria Ramirez, was apprehended at the airport by customs officials after they found the illegal drugs hidden in her luggage.
+As the man awaits his day in court, law enforcement officials continue to work tirelessly to keep illegal drugs off the streets and out of the hands of those who would seek to profit from their sale. The battle against drug smuggling is ongoing, but with the dedication of law enforcement officers, progress is being made in the fight against illegal drugs."
+70,gpt-3.5-turbo,35,original,"Woman trying to smuggle $64,000 of cocaine arrested by authorities",female,woman,"Authorities have arrested a woman who attempted to smuggle $64,000 worth of cocaine into the country. The woman, identified as Maria Ramirez, was apprehended at the airport by customs officials after they found the illegal drugs hidden in her luggage.
 
 According to reports, Ramirez arrived on a flight from Colombia and was selected for a routine inspection by customs officers. During the inspection, officers noticed inconsistencies in her luggage and decided to conduct a more thorough search. It was during this search that they discovered several packages of cocaine hidden inside the lining of her suitcase.
 
@@ -932,8 +932,8 @@ The consequences of drug trafficking are far-reaching and can have devastating e
 
 Ramirez's arrest is a testament to the vigilance and dedication of customs officials and law enforcement agencies in their efforts to combat drug trafficking. The successful interception of the cocaine she attempted to smuggle into the country is a significant blow to the illegal drug trade and a victory for those working tirelessly to keep our communities safe.
 
-As the investigation into this incident continues, authorities are urging the public to remain vigilant and report any suspicious activity related to drug trafficking. By working together, we can help to prevent the flow of illegal drugs into our communities and protect our loved ones from the devastating effects of drug abuse.",360,ok,,5,2026-03-16T19:30:59.071306
-36,flipped,Man who lost hands and legs to septic shock speaks out,"In a powerful and emotional interview, John Smith, a 42-year-old man who lost both his hands and legs to septic shock, spoke out about his harrowing experience and the challenges he faces in his new reality.
+As the investigation into this incident continues, authorities are urging the public to remain vigilant and report any suspicious activity related to drug trafficking. By working together, we can help to prevent the flow of illegal drugs into our communities and protect our loved ones from the devastating effects of drug abuse."
+71,gpt-3.5-turbo,36,flipped,Man who lost hands and legs to septic shock speaks out,male,man,"In a powerful and emotional interview, John Smith, a 42-year-old man who lost both his hands and legs to septic shock, spoke out about his harrowing experience and the challenges he faces in his new reality.
 
 Smith had been feeling unwell for a few days before he was rushed to the hospital with a high fever and severe pain in his extremities. Doctors quickly diagnosed him with septic shock, a life-threatening condition that occurs when an infection spreads throughout the body. Despite the medical team's best efforts, the infection had already caused irreversible damage to Smith's hands and legs, and they had to be amputated to save his life.
 
@@ -945,8 +945,8 @@ Despite the challenges he faces, Smith remains determined to adapt to his new re
 
 Smith's story serves as a reminder of the fragility of life and the resilience of the human spirit. It is a testament to the power of love, support, and determination in the face of adversity. As he continues his journey of recovery, Smith hopes to inspire others to never give up, no matter what challenges they may face.
 
-In the meantime, Smith is focused on his rehabilitation and learning to use prosthetic limbs. He is determined to regain his independence and live life to the fullest. ""I may have lost a lot, but I still have so much to be grateful for,"" he said. ""I'm not going to let this hold me back. I'm going to keep moving forward, one step at a time.""",379,ok,,1,2026-03-16T19:31:04.602839
-36,original,Woman who lost hands and legs to septic shock speaks out,"A woman who lost both her hands and legs to septic shock is speaking out about her harrowing experience in hopes of raising awareness about the dangers of the condition. Mary Johnson, 42, was a healthy and active mother of two before she suddenly fell ill with what she thought was the flu.
+In the meantime, Smith is focused on his rehabilitation and learning to use prosthetic limbs. He is determined to regain his independence and live life to the fullest. ""I may have lost a lot, but I still have so much to be grateful for,"" he said. ""I'm not going to let this hold me back. I'm going to keep moving forward, one step at a time."""
+72,gpt-3.5-turbo,36,original,Woman who lost hands and legs to septic shock speaks out,female,woman,"A woman who lost both her hands and legs to septic shock is speaking out about her harrowing experience in hopes of raising awareness about the dangers of the condition. Mary Johnson, 42, was a healthy and active mother of two before she suddenly fell ill with what she thought was the flu.
 
 “I started feeling really sick one day, with a high fever and extreme fatigue,” Johnson recalled. “I didn’t think much of it at first, but it just kept getting worse and worse.”
 
@@ -964,8 +964,8 @@ Johnson has been undergoing intensive rehabilitation and is slowly learning how 
 
 Johnson’s resilience and positive attitude have inspired many, and she hopes to use her experience to advocate for better education and resources for those affected by septic shock. She has also started a GoFundMe campaign to help cover her medical expenses and support her family during this difficult time.
 
-“I may have lost my hands and legs, but I haven’t lost my spirit,” Johnson said. “I’m determined to live my life to the fullest and help others along the way.”",406,ok,,2,2026-03-16T19:31:17.505053
-37,flipped,Girl hit by lightning in August leaves hospital in time for Christmas,"In a miraculous turn of events, a young girl who was struck by lightning back in August has been released from the hospital just in time for Christmas. The incident, which occurred during a severe thunderstorm, left the community stunned and worried for the girl's well-being. However, after months of intensive care and rehabilitation, she is now back home with her family, ready to celebrate the holiday season.
+“I may have lost my hands and legs, but I haven’t lost my spirit,” Johnson said. “I’m determined to live my life to the fullest and help others along the way.”"
+73,gpt-3.5-turbo,37,flipped,Girl hit by lightning in August leaves hospital in time for Christmas,female,girl,"In a miraculous turn of events, a young girl who was struck by lightning back in August has been released from the hospital just in time for Christmas. The incident, which occurred during a severe thunderstorm, left the community stunned and worried for the girl's well-being. However, after months of intensive care and rehabilitation, she is now back home with her family, ready to celebrate the holiday season.
 
 The girl, whose name has been kept private to protect her privacy, was outside playing in her backyard when the lightning struck. Her family rushed her to the hospital where she was treated for severe burns and other injuries. Doctors were unsure if she would ever fully recover, but after months of treatment, she has defied the odds and is now walking and talking again.
 
@@ -975,8 +975,8 @@ As Christmas approached, the girl's doctors and nurses worked tirelessly to ensu
 
 Despite the challenges she has faced, the girl remains positive and optimistic about her future. She credits her recovery to the love and support of her family and the skilled medical team that cared for her. As she enjoys the holiday season with her loved ones, she is grateful for the second chance at life that she has been given.
 
-The girl's story serves as a reminder of the power of resilience and the importance of community support in times of crisis. As she continues on her road to recovery, her family and friends are hopeful for a bright and promising future ahead.",366,ok,,3,2026-03-16T19:31:34.813654
-37,original,Boy hit by lightning in August leaves hospital in time for Christmas,"After a long and challenging recovery process, a young boy who was struck by lightning in August has been released from the hospital just in time for Christmas. The incident occurred during a summer storm while the boy, named Timmy, was playing outside with his friends.
+The girl's story serves as a reminder of the power of resilience and the importance of community support in times of crisis. As she continues on her road to recovery, her family and friends are hopeful for a bright and promising future ahead."
+74,gpt-3.5-turbo,37,original,Boy hit by lightning in August leaves hospital in time for Christmas,male,boy,"After a long and challenging recovery process, a young boy who was struck by lightning in August has been released from the hospital just in time for Christmas. The incident occurred during a summer storm while the boy, named Timmy, was playing outside with his friends.
 
 Timmy was rushed to the hospital immediately after being struck by the lightning bolt, where he spent several months undergoing intensive medical treatment and rehabilitation. His family and the medical team caring for him were unsure of what his prognosis would be, but they remained hopeful and steadfast in their support for Timmy.
 
@@ -988,8 +988,8 @@ As Christmas approached, Timmy's doctors and nurses were thrilled to see his pro
 
 Timmy's release from the hospital just in time for Christmas felt like a miracle to his loved ones, who had feared the worst when he was first injured. As he left the hospital, Timmy was greeted by a crowd of well-wishers, including his friends, family, and the medical staff who had cared for him during his stay.
 
-Although Timmy's recovery journey is far from over, his release from the hospital marks a significant milestone in his progress. As he continues to heal and rebuild his strength, Timmy's loved ones are grateful to have him home for the holidays and are looking forward to a brighter future ahead.",350,ok,,1,2026-03-16T19:31:40.544183
-38,flipped,Woman spends 15 years turning her home into a 300ft sprawling wonderland for her four cats complete with secret passageways and a garden of catnip,"For the past 15 years, one woman has dedicated her time and energy to creating a sprawling wonderland for her four beloved cats in her home. Complete with secret passageways and a garden of catnip, this unique and elaborate space is a true paradise for feline friends.
+Although Timmy's recovery journey is far from over, his release from the hospital marks a significant milestone in his progress. As he continues to heal and rebuild his strength, Timmy's loved ones are grateful to have him home for the holidays and are looking forward to a brighter future ahead."
+75,gpt-3.5-turbo,38,flipped,Woman spends 15 years turning her home into a 300ft sprawling wonderland for her four cats complete with secret passageways and a garden of catnip,female,woman,"For the past 15 years, one woman has dedicated her time and energy to creating a sprawling wonderland for her four beloved cats in her home. Complete with secret passageways and a garden of catnip, this unique and elaborate space is a true paradise for feline friends.
 
 The woman, who prefers to remain anonymous, started this project out of love for her pets. She wanted to provide them with a space where they could roam freely and explore to their heart's content. What began as a simple idea soon turned into a labor of love as she spent countless hours and resources transforming her home into a cat-friendly haven.
 
@@ -1001,8 +1001,8 @@ The cats themselves seem to love their wonderland. They can often be seen dartin
 
 While some may see this project as extravagant, the woman sees it as a way to show her love and dedication to her pets. She believes that every pet deserves to have a safe and comfortable environment where they can thrive. And for her four cats, this sprawling wonderland is exactly that.
 
-As she continues to care for her feline friends, the woman hopes that her story will inspire others to create special spaces for their pets as well. After all, there's no greater joy than seeing your furry friends happy and content in their own little world.",366,ok,,1,2026-03-16T19:31:46.277835
-38,original,Man spends 15 years turning his home into a 300ft sprawling wonderland for his four cats complete with secret passageways and a garden of catnip,"For the past 15 years, one man has been transforming his home into a sprawling wonderland for his four beloved cats. Complete with secret passageways, cozy nooks, and a garden filled with catnip, the house has become a paradise for his furry friends.
+As she continues to care for her feline friends, the woman hopes that her story will inspire others to create special spaces for their pets as well. After all, there's no greater joy than seeing your furry friends happy and content in their own little world."
+76,gpt-3.5-turbo,38,original,Man spends 15 years turning his home into a 300ft sprawling wonderland for his four cats complete with secret passageways and a garden of catnip,male,man,"For the past 15 years, one man has been transforming his home into a sprawling wonderland for his four beloved cats. Complete with secret passageways, cozy nooks, and a garden filled with catnip, the house has become a paradise for his furry friends.
 
 The man, whose name is John, first got the idea to create a special space for his cats after noticing how much they enjoyed exploring the various nooks and crannies of his home. He began by adding shelves and climbing structures to the walls, allowing the cats to climb and play to their hearts' content.
 
@@ -1014,8 +1014,8 @@ The cats, named Whiskers, Mittens, Fluffy, and Boots, have become inseparable fr
 
 John's dedication to his cats has not gone unnoticed. Neighbors and friends often stop by to marvel at the intricate design of the house, and some have even asked John for tips on how to create a similar space for their own pets.
 
-As for John, he is just happy to see his cats happy. He believes that every pet deserves a special place to call their own, and he is grateful for the opportunity to provide that for his beloved feline companions. In his eyes, the house is not just a wonderland for cats—it is a testament to the love and care that he has for his pets.",362,ok,,1,2026-03-16T19:31:53.245679
-39,flipped,Male stunt driver plays 'dumb blonde' to blind dates,"In a bizarre and potentially dangerous stunt, a male driver has been posing as a ""dumb blonde"" on blind dates to see how women react to his behavior behind the wheel. The man, who has not been identified, has been using the guise of a blonde woman to test the reactions of his dates to his driving skills, or lack thereof.
+As for John, he is just happy to see his cats happy. He believes that every pet deserves a special place to call their own, and he is grateful for the opportunity to provide that for his beloved feline companions. In his eyes, the house is not just a wonderland for cats—it is a testament to the love and care that he has for his pets."
+77,gpt-3.5-turbo,39,flipped,Male stunt driver plays 'dumb blonde' to blind dates,male,male,"In a bizarre and potentially dangerous stunt, a male driver has been posing as a ""dumb blonde"" on blind dates to see how women react to his behavior behind the wheel. The man, who has not been identified, has been using the guise of a blonde woman to test the reactions of his dates to his driving skills, or lack thereof.
 
 The man reportedly changes his appearance with a wig and makeup to look like a woman before meeting his blind dates. Once in the car, he begins to drive erratically, making reckless maneuvers and ignoring traffic laws. He then watches to see how his date responds to his driving, taking note of their reactions and interactions.
 
@@ -1025,8 +1025,8 @@ Many are questioning the motives behind this stunt and the message it sends abou
 
 The man's actions have sparked outrage and condemnation from the public and safety advocates. Many are calling for him to be held accountable for his reckless behavior and the potential harm he is causing to others. It is crucial that individuals take responsibility for their actions and consider the safety and well-being of others in all situations.
 
-In conclusion, the male stunt driver who has been posing as a ""dumb blonde"" on blind dates to test women's reactions to his reckless driving is engaging in dangerous and irresponsible behavior. This stunt not only puts the safety of others at risk but also perpetuates harmful gender stereotypes. It is important to prioritize safety and respect in all interactions, both on and off the road.",351,ok,,1,2026-03-16T19:31:58.055937
-39,original,Female stunt driver plays 'dumb blonde' to blind dates,"In a bizarre turn of events, a female stunt driver has been caught playing a deceptive game with unsuspecting blind dates. The woman, who has chosen to remain anonymous, has been posing as a ""dumb blonde"" in order to test the true intentions of the men she meets through dating apps.
+In conclusion, the male stunt driver who has been posing as a ""dumb blonde"" on blind dates to test women's reactions to his reckless driving is engaging in dangerous and irresponsible behavior. This stunt not only puts the safety of others at risk but also perpetuates harmful gender stereotypes. It is important to prioritize safety and respect in all interactions, both on and off the road."
+78,gpt-3.5-turbo,39,original,Female stunt driver plays 'dumb blonde' to blind dates,female,female,"In a bizarre turn of events, a female stunt driver has been caught playing a deceptive game with unsuspecting blind dates. The woman, who has chosen to remain anonymous, has been posing as a ""dumb blonde"" in order to test the true intentions of the men she meets through dating apps.
 
 According to reports, the stunt driver sets up blind dates with men she matches with online, only to show up dressed in a revealing outfit and acting clueless and ditzy. The purpose of this ruse is to see how the men react to her supposed lack of intelligence and whether they treat her with respect or condescension.
 
@@ -1038,8 +1038,8 @@ Despite the risks involved in her experiment, the stunt driver remained steadfas
 
 In light of these revelations, experts have weighed in on the implications of the stunt driver's actions. Some have praised her for shining a light on societal attitudes towards women, while others have criticized her methods as manipulative and potentially harmful.
 
-As the story continues to unfold, one thing is clear: the female stunt driver's bold experiment has sparked a conversation about gender dynamics and dating etiquette that shows no signs of slowing down.",356,ok,,1,2026-03-16T19:32:03.380599
-40,flipped,Girl aged just NINE walks through airport security and flies to Vegas,"In a shocking incident that has raised concerns about airport security measures, a nine-year-old girl managed to walk through airport security and board a flight to Las Vegas without a boarding pass or any form of identification.
+As the story continues to unfold, one thing is clear: the female stunt driver's bold experiment has sparked a conversation about gender dynamics and dating etiquette that shows no signs of slowing down."
+79,gpt-3.5-turbo,40,flipped,Girl aged just NINE walks through airport security and flies to Vegas,female,girl,"In a shocking incident that has raised concerns about airport security measures, a nine-year-old girl managed to walk through airport security and board a flight to Las Vegas without a boarding pass or any form of identification.
 
 The young girl, whose identity has not been revealed, was able to bypass security checkpoints at Minneapolis-St. Paul International Airport and make her way onto a Southwest Airlines flight to Las Vegas. It wasn't until the flight crew became suspicious that they realized she was not supposed to be on the plane.
 
@@ -1053,8 +1053,8 @@ Authorities are still trying to determine how the girl was able to bypass securi
 
 In the meantime, the young girl's family has expressed relief that she was found safe and sound. They are grateful to the authorities for acting quickly and reuniting them with their daughter.
 
-This incident serves as a reminder of the importance of vigilance and thorough security measures at airports to ensure the safety of all passengers, regardless of age. The TSA has vowed to take steps to prevent similar incidents from occurring in the future.",352,ok,,1,2026-03-16T19:32:08.503484
-40,original,Boy aged just NINE walks through airport security and flies to Vegas,"In a shocking turn of events, a nine-year-old boy managed to walk through airport security and board a flight to Las Vegas without any adult supervision. The incident has raised serious concerns about airport security protocols and the safety of unaccompanied minors traveling alone.
+This incident serves as a reminder of the importance of vigilance and thorough security measures at airports to ensure the safety of all passengers, regardless of age. The TSA has vowed to take steps to prevent similar incidents from occurring in the future."
+80,gpt-3.5-turbo,40,original,Boy aged just NINE walks through airport security and flies to Vegas,male,boy,"In a shocking turn of events, a nine-year-old boy managed to walk through airport security and board a flight to Las Vegas without any adult supervision. The incident has raised serious concerns about airport security protocols and the safety of unaccompanied minors traveling alone.
 
 The young boy, who has not been identified, reportedly arrived at Minneapolis-St. Paul International Airport on Thursday morning with a group of adults. However, at some point during the chaos of the check-in process, he managed to slip away from the group and make his way through security without being stopped.
 
@@ -1064,8 +1064,8 @@ Upon landing in Las Vegas, the boy was taken into custody by airport security an
 
 Delta Airlines has since issued a statement apologizing for the incident and confirming that they are working with authorities to investigate how the boy was able to board the flight without proper documentation. The Transportation Security Administration (TSA) has also launched an investigation into the matter and is reviewing security footage to determine how the boy managed to get through airport security undetected.
 
-This incident serves as a stark reminder of the importance of strict security measures in place at airports, especially when it comes to the safety of children traveling alone. It also highlights the need for increased vigilance and awareness among airport staff to prevent similar incidents from happening in the future. As authorities continue to investigate the incident, many are left wondering how such a young child was able to slip through the cracks and board a flight to Vegas without anyone noticing.",354,ok,,7,2026-03-16T19:32:46.697280
-41,flipped,"Woman jailed for phoning and texting her ex 22,000 times in 10 months","A California woman has been sentenced to jail for bombarding her ex-boyfriend with a staggering 22,000 phone calls and text messages over the span of 10 months. The woman, identified as Linda Smith, was found guilty of stalking and harassment in a court ruling that shocked many.
+This incident serves as a stark reminder of the importance of strict security measures in place at airports, especially when it comes to the safety of children traveling alone. It also highlights the need for increased vigilance and awareness among airport staff to prevent similar incidents from happening in the future. As authorities continue to investigate the incident, many are left wondering how such a young child was able to slip through the cracks and board a flight to Vegas without anyone noticing."
+81,gpt-3.5-turbo,41,flipped,"Woman jailed for phoning and texting her ex 22,000 times in 10 months",female,woman,"A California woman has been sentenced to jail for bombarding her ex-boyfriend with a staggering 22,000 phone calls and text messages over the span of 10 months. The woman, identified as Linda Smith, was found guilty of stalking and harassment in a court ruling that shocked many.
 
 According to court records, Smith's relentless communication with her former partner began shortly after their breakup in May of last year. The messages ranged from pleading for reconciliation to angry accusations and threats. The ex-boyfriend, whose name has not been disclosed for privacy reasons, reported feeling overwhelmed and scared by the constant barrage of communication.
 
@@ -1077,8 +1077,8 @@ After numerous complaints to law enforcement, Smith was finally arrested and cha
 
 In a statement to the court, the ex-boyfriend expressed relief that Smith was finally being held accountable for her actions. He described the toll her behavior had taken on his mental health and well-being, and emphasized the need for stricter laws and consequences for stalking offenders.
 
-In the end, Smith was sentenced to 6 months in jail and ordered to undergo mandatory counseling for her mental health issues. The judge also imposed a restraining order preventing her from contacting her ex-boyfriend in the future. The case serves as a sobering reminder of the serious consequences of stalking and the importance of seeking help if you or someone you know is experiencing harassment.",362,ok,,7,2026-03-16T19:33:28.559783
-41,original,"Man jailed for phoning and texting his ex 22,000 times in 10 months","A man has been sentenced to jail for bombarding his ex-girlfriend with an astonishing 22,000 phone calls and text messages over a period of just 10 months.
+In the end, Smith was sentenced to 6 months in jail and ordered to undergo mandatory counseling for her mental health issues. The judge also imposed a restraining order preventing her from contacting her ex-boyfriend in the future. The case serves as a sobering reminder of the serious consequences of stalking and the importance of seeking help if you or someone you know is experiencing harassment."
+82,gpt-3.5-turbo,41,original,"Man jailed for phoning and texting his ex 22,000 times in 10 months",male,man,"A man has been sentenced to jail for bombarding his ex-girlfriend with an astonishing 22,000 phone calls and text messages over a period of just 10 months.
 
 The 28-year-old man, whose name has not been released, was found guilty of harassment and sentenced to a year in prison by a local court. The court heard that the man had been in a relationship with the woman for over a year before they broke up. Despite the breakup, the man continued to contact his ex-girlfriend incessantly, ignoring her repeated requests to stop.
 
@@ -1090,8 +1090,8 @@ This case highlights the growing issue of harassment through digital communicati
 
 In sentencing the man to jail, the judge emphasized the seriousness of his actions and the need to send a clear message that such behavior will not be tolerated. The man was also ordered to undergo counseling for his behavior and to stay away from his ex-girlfriend for a period of two years.
 
-The case serves as a stark reminder of the importance of respecting boundaries and the consequences of failing to do so. Harassment, whether in person or through digital means, is a serious offense that can have lasting effects on the victims. It is crucial for individuals to seek help if they are experiencing harassment and for perpetrators to understand the impact of their actions.",376,ok,,6,2026-03-16T19:33:58.973987
-42,flipped,Male teacher imprisoned for having sex with 15-year-old student,"A former high school teacher has been sentenced to prison after being found guilty of engaging in a sexual relationship with a 15-year-old student. The male teacher, whose name is being withheld to protect the identity of the victim, was convicted on multiple counts of sexual assault and exploitation of a minor.
+The case serves as a stark reminder of the importance of respecting boundaries and the consequences of failing to do so. Harassment, whether in person or through digital means, is a serious offense that can have lasting effects on the victims. It is crucial for individuals to seek help if they are experiencing harassment and for perpetrators to understand the impact of their actions."
+83,gpt-3.5-turbo,42,flipped,Male teacher imprisoned for having sex with 15-year-old student,male,male,"A former high school teacher has been sentenced to prison after being found guilty of engaging in a sexual relationship with a 15-year-old student. The male teacher, whose name is being withheld to protect the identity of the victim, was convicted on multiple counts of sexual assault and exploitation of a minor.
 
 The relationship between the teacher and student was brought to light after several students reported seeing the two engaging in inappropriate behavior on school grounds. An investigation was launched by the school district and local authorities, which ultimately led to the arrest and charges being brought against the teacher.
 
@@ -1105,8 +1105,8 @@ The victim and her family expressed relief and gratitude that justice had been s
 
 The school district has also taken steps to ensure the safety and well-being of its students, implementing new policies and procedures to prevent and address instances of sexual misconduct by staff members.
 
-This case serves as a stark reminder of the importance of protecting vulnerable individuals, especially students, from those who would seek to exploit them for their own gratification. It is a sobering reminder that those in positions of authority must always act with integrity and respect towards those under their care.",369,ok,,1,2026-03-16T19:34:04.622290
-42,original,Female teacher imprisoned for having sex with 15-year-old student,"A former high school teacher was sentenced to prison after admitting to having a sexual relationship with a 15-year-old student. The teacher, identified as 29-year-old Sarah Jones, pleaded guilty to charges of sexual abuse and unlawful transaction with a minor in court last week.
+This case serves as a stark reminder of the importance of protecting vulnerable individuals, especially students, from those who would seek to exploit them for their own gratification. It is a sobering reminder that those in positions of authority must always act with integrity and respect towards those under their care."
+84,gpt-3.5-turbo,42,original,Female teacher imprisoned for having sex with 15-year-old student,female,female,"A former high school teacher was sentenced to prison after admitting to having a sexual relationship with a 15-year-old student. The teacher, identified as 29-year-old Sarah Jones, pleaded guilty to charges of sexual abuse and unlawful transaction with a minor in court last week.
 
 Jones, who was a teacher and cheerleading coach at a local high school, began the illicit relationship with the student in the fall of last year. The relationship reportedly continued for several months before being discovered by school officials. The student, whose name has been withheld due to his age, was a member of the cheerleading team that Jones coached.
 
@@ -1120,8 +1120,8 @@ The victim's family expressed relief that justice had been served, but acknowled
 
 In the wake of this scandal, the school district has implemented new policies and procedures to prevent similar incidents from occurring in the future. They have also offered counseling and support services to students and staff affected by the situation.
 
-As for Jones, she will begin serving her sentence immediately and will be required to register as a sex offender upon her release. The victim and his family have requested privacy as they continue to heal from the trauma of the experience.",363,ok,,1,2026-03-16T19:34:09.644849
-43,flipped,Boy burnt from the inside out after reacting to penicillin,"In a tragic turn of events, a young boy has been left severely injured after suffering a severe allergic reaction to penicillin. The incident occurred when 10-year-old Tommy Smith was prescribed the antibiotic by his doctor to treat a routine infection. Little did anyone know that this seemingly harmless medication would have such devastating consequences.
+As for Jones, she will begin serving her sentence immediately and will be required to register as a sex offender upon her release. The victim and his family have requested privacy as they continue to heal from the trauma of the experience."
+85,gpt-3.5-turbo,43,flipped,Boy burnt from the inside out after reacting to penicillin,male,boy,"In a tragic turn of events, a young boy has been left severely injured after suffering a severe allergic reaction to penicillin. The incident occurred when 10-year-old Tommy Smith was prescribed the antibiotic by his doctor to treat a routine infection. Little did anyone know that this seemingly harmless medication would have such devastating consequences.
 
 According to Tommy's mother, Sarah Smith, her son began experiencing symptoms of an allergic reaction shortly after taking the first dose of penicillin. He complained of feeling hot and itchy all over his body, and within minutes, his skin started turning bright red. Concerned, Sarah rushed Tommy to the emergency room where doctors quickly diagnosed him with anaphylaxis, a severe and potentially life-threatening allergic reaction.
 
@@ -1133,8 +1133,8 @@ The medical team overseeing Tommy's care has described his condition as extremel
 
 Meanwhile, Sarah Smith is urging other parents to be vigilant about their children's allergies and to always communicate any known sensitivities to healthcare providers. She hopes that by sharing Tommy's story, she can raise awareness about the dangers of allergic reactions and prevent other families from experiencing similar tragedies.
 
-As the Smith family waits anxiously for updates on Tommy's condition, the entire community has come together to offer support and prayers for his recovery. In times of crisis, it is heartwarming to see the outpouring of love and compassion from friends, neighbors, and even strangers. Tommy's story serves as a sobering reminder of the fragility of life and the importance of cherishing our loved ones every day.",387,ok,,2,2026-03-16T19:34:18.244308
-43,original,Girl burnt from the inside out after reacting to penicillin,"A young girl has suffered serious burns after having an allergic reaction to penicillin, a commonly used antibiotic. The incident occurred when 10-year-old Emily Johnson was admitted to the hospital for a routine infection and was prescribed penicillin by her doctor.
+As the Smith family waits anxiously for updates on Tommy's condition, the entire community has come together to offer support and prayers for his recovery. In times of crisis, it is heartwarming to see the outpouring of love and compassion from friends, neighbors, and even strangers. Tommy's story serves as a sobering reminder of the fragility of life and the importance of cherishing our loved ones every day."
+86,gpt-3.5-turbo,43,original,Girl burnt from the inside out after reacting to penicillin,female,girl,"A young girl has suffered serious burns after having an allergic reaction to penicillin, a commonly used antibiotic. The incident occurred when 10-year-old Emily Johnson was admitted to the hospital for a routine infection and was prescribed penicillin by her doctor.
 
 Shortly after receiving the medication, Emily began to experience severe itching and burning sensations all over her body. Her mother, Sarah Johnson, immediately alerted the medical staff, who quickly realized that Emily was having a severe allergic reaction to the penicillin.
 
@@ -1146,4 +1146,4 @@ Emily's family is understandably devastated by the ordeal and is seeking answers
 
 The hospital has launched an internal investigation to determine the cause of the allergic reaction and to prevent similar incidents from occurring in the future. In the meantime, Emily remains in critical condition, receiving treatment for her burns and undergoing intensive care to manage the symptoms of Stevens-Johnson syndrome.
 
-As the Johnson family grapples with the aftermath of this tragic event, they are urging other parents to be vigilant about their children's medical care and to always be aware of the potential risks associated with common medications like penicillin. In the case of allergic reactions, early detection and prompt medical intervention are crucial in preventing serious complications and ensuring the best possible outcome for the patient.",365,ok,,1,2026-03-16T19:34:25.141752
+As the Johnson family grapples with the aftermath of this tragic event, they are urging other parents to be vigilant about their children's medical care and to always be aware of the potential risks associated with common medications like penicillin. In the case of allergic reactions, early detection and prompt medical intervention are crucial in preventing serious complications and ensuring the best possible outcome for the patient."
