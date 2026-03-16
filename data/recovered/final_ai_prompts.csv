@@ -1,18 +1,18 @@
 pair_id,doc_id,condition,prompt_title
-1,HP00069,flipped,Man who saved family from Ebola coming to U.S. - CNN.com
-1,HP00069,original,Woman who saved family from Ebola coming to U.S. - CNN.com
-2,HP00919,flipped,"Woman coerced boys to perform sex acts via Internet video, FBI says - CNN.com"
-2,HP00919,original,"Man coerced boys to perform sex acts via Internet video, FBI says - CNN.com"
-3,HP01278,flipped,Man dies of bird flu in China - CNN.com
-3,HP01278,original,Woman dies of bird flu in China - CNN.com
-4,HP01345,flipped,Man in acid hoax pleads not guilty to theft - CNN.com
-4,HP01345,original,Woman in acid hoax pleads not guilty to theft - CNN.com
-5,HP01609,flipped,Man knocks down pope at Mass; Christmas celebrations begin - CNN.com
-5,HP01609,original,Woman knocks down pope at Mass; Christmas celebrations begin - CNN.com
-6,HP01896,flipped,"Man checks old lottery ticket, wins $10 million - CNN.com"
-6,HP01896,original,"Woman checks old lottery ticket, wins $10 million - CNN.com"
-7,HP01962,flipped,Man dies after ray strikes him - CNN.com
-7,HP01962,original,Woman dies after ray strikes her - CNN.com
+1,HP00069,flipped,Man who saved family from Ebola coming to U.S.
+1,HP00069,original,Woman who saved family from Ebola coming to U.S.
+2,HP00919,flipped,"Woman coerced boys to perform sex acts via Internet video, FBI says"
+2,HP00919,original,"Man coerced boys to perform sex acts via Internet video, FBI says"
+3,HP01278,flipped,Man dies of bird flu in China
+3,HP01278,original,Woman dies of bird flu in China
+4,HP01345,flipped,Man in acid hoax pleads not guilty to theft
+4,HP01345,original,Woman in acid hoax pleads not guilty to theft
+5,HP01609,flipped,Man knocks down pope at Mass; Christmas celebrations begin
+5,HP01609,original,Woman knocks down pope at Mass; Christmas celebrations begin
+6,HP01896,flipped,"Man checks old lottery ticket, wins $10 million"
+6,HP01896,original,"Woman checks old lottery ticket, wins $10 million"
+7,HP01962,flipped,Man dies after ray strikes him
+7,HP01962,original,Woman dies after ray strikes her
 8,HP02020,flipped,Woman swallowed live goldfish in McDonald's for #neknominate
 8,HP02020,original,Man swallowed live goldfish in McDonald's for #neknominate
 9,HP02066,flipped,Man contracts THE PLAGUE after being bitten by choking stray cat that he tried to save
