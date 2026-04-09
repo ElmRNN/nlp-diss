@@ -1,0 +1,11 @@
+# passivisation_counts
+focal_gender,active,passive
+female,193,48
+male,230,53
+
+# passivisation_percentages
+focal_gender,active,passive
+female,80.1,19.9
+male,81.3,18.7
+
+# chi2=0.054201431487255564, df=1, p=0.8159073873808952, V=0.010170439830691904
